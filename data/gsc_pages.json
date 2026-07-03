@@ -1,0 +1,135 @@
+{
+  "generated_at": "2026-07-03",
+  "period": [
+    "2026-06-02",
+    "2026-06-30"
+  ],
+  "rows": [
+    {
+      "label": "https://www.kouver.fr/",
+      "clicks": 260,
+      "impressions": 3309,
+      "ctr": 7.86,
+      "position": 22.1
+    },
+    {
+      "label": "https://www.kouver.fr/logiciel-de-reservation-restaurant/",
+      "clicks": 62,
+      "impressions": 5112,
+      "ctr": 1.21,
+      "position": 5.4
+    },
+    {
+      "label": "https://www.kouver.fr/nos-solutions/",
+      "clicks": 33,
+      "impressions": 633,
+      "ctr": 5.21,
+      "position": 3.0
+    },
+    {
+      "label": "https://www.kouver.fr/ia-reservation-restaurant/",
+      "clicks": 17,
+      "impressions": 300,
+      "ctr": 5.67,
+      "position": 2.7
+    },
+    {
+      "label": "https://www.kouver.fr/alternative-thefork/",
+      "clicks": 9,
+      "impressions": 659,
+      "ctr": 1.37,
+      "position": 4.0
+    },
+    {
+      "label": "https://www.kouver.fr/faq/",
+      "clicks": 6,
+      "impressions": 484,
+      "ctr": 1.24,
+      "position": 2.7
+    },
+    {
+      "label": "https://www.kouver.fr/mentions-legales/",
+      "clicks": 4,
+      "impressions": 369,
+      "ctr": 1.08,
+      "position": 4.1
+    },
+    {
+      "label": "https://www.kouver.fr/blog-gestion-restaurant/",
+      "clicks": 3,
+      "impressions": 261,
+      "ctr": 1.15,
+      "position": 3.8
+    },
+    {
+      "label": "https://www.kouver.fr/comparatif-logiciel-zenchef-vs-kouver/",
+      "clicks": 3,
+      "impressions": 36,
+      "ctr": 8.33,
+      "position": 5.9
+    },
+    {
+      "label": "https://www.kouver.fr/cahier-de-reservation-papier/",
+      "clicks": 2,
+      "impressions": 6,
+      "ctr": 33.33,
+      "position": 5.5
+    },
+    {
+      "label": "https://www.kouver.fr/meilleurs-outils-restaurant-francais/",
+      "clicks": 2,
+      "impressions": 3,
+      "ctr": 66.67,
+      "position": 4.3
+    },
+    {
+      "label": "https://www.kouver.fr/attirer-les-clients-devenez-l-adresse-incontournable/",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 33.33,
+      "position": 2.7
+    },
+    {
+      "label": "https://www.kouver.fr/fiche-google-restaurant-bouton-reserver/",
+      "clicks": 1,
+      "impressions": 67,
+      "ctr": 1.49,
+      "position": 7.9
+    },
+    {
+      "label": "https://www.kouver.fr/comment-eviter-les-no-show-en-restauration/",
+      "clicks": 0,
+      "impressions": 59,
+      "ctr": 0,
+      "position": 5.3
+    },
+    {
+      "label": "https://www.kouver.fr/franchises-francaises/",
+      "clicks": 0,
+      "impressions": 20,
+      "ctr": 0,
+      "position": 8.3
+    },
+    {
+      "label": "https://www.kouver.fr/logiciels-restaurant-performance-2026/",
+      "clicks": 0,
+      "impressions": 19,
+      "ctr": 0,
+      "position": 7.2
+    },
+    {
+      "label": "https://www.kouver.fr/outils-gestion-restaurant-indispensables/",
+      "clicks": 0,
+      "impressions": 10,
+      "ctr": 0,
+      "position": 8.6
+    },
+    {
+      "label": "https://www.kouver.fr/reservation-en-ligne-restaurant-2026/",
+      "clicks": 0,
+      "impressions": 16,
+      "ctr": 0,
+      "position": 6.6
+    }
+  ]
+}
