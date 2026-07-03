@@ -1,0 +1,46 @@
+name: Rapport GEO/SEO quotidien
+
+on:
+  schedule:
+    - cron: '0 6 * * *'   # tous les jours à 6h UTC (~8h Paris en été)
+  workflow_dispatch: {}    # bouton "Run workflow" manuel dans l'onglet Actions
+
+permissions:
+  contents: write
+
+jobs:
+  build-report:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Récupérer le code
+        uses: actions/checkout@v4
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Installer les dépendances
+        run: pip install -r requirements.txt
+
+      - name: Récupérer les données Search Console
+        env:
+          GSC_SERVICE_ACCOUNT_JSON: ${{ secrets.GSC_SERVICE_ACCOUNT_JSON }}
+          GSC_SITE_URL: ${{ vars.GSC_SITE_URL }}
+        run: python scripts/fetch_gsc_data.py
+
+      - name: Tester les citations IA
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python scripts/check_ai_citations.py
+
+      - name: Générer le tableau de bord
+        run: python scripts/build_dashboard.py
+
+      - name: Publier les résultats
+        run: |
+          git config user.name "kouver-geo-bot"
+          git config user.email "actions@github.com"
+          git add data docs
+          git diff --cached --quiet && echo "Rien de nouveau à publier" || git commit -m "Rapport automatique $(date +'%Y-%m-%d')"
+          git push
