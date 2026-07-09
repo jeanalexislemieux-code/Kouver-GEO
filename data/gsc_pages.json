@@ -1,79 +1,79 @@
 {
-  "generated_at": "2026-07-08",
+  "generated_at": "2026-07-09",
   "period": [
-    "2026-06-07",
-    "2026-07-05"
+    "2026-06-08",
+    "2026-07-06"
   ],
   "rows": [
     {
       "label": "https://www.kouver.fr/",
-      "clicks": 253,
-      "impressions": 3181,
-      "ctr": 7.95,
-      "position": 22.2
+      "clicks": 260,
+      "impressions": 3130,
+      "ctr": 8.31,
+      "position": 21.4
     },
     {
       "label": "https://www.kouver.fr/logiciel-de-reservation-restaurant/",
-      "clicks": 58,
-      "impressions": 5435,
-      "ctr": 1.07,
-      "position": 5.7
+      "clicks": 64,
+      "impressions": 5624,
+      "ctr": 1.14,
+      "position": 5.8
     },
     {
       "label": "https://www.kouver.fr/nos-solutions/",
-      "clicks": 46,
-      "impressions": 616,
-      "ctr": 7.47,
+      "clicks": 48,
+      "impressions": 639,
+      "ctr": 7.51,
       "position": 3.2
     },
     {
       "label": "https://www.kouver.fr/ia-reservation-restaurant/",
-      "clicks": 19,
-      "impressions": 382,
-      "ctr": 4.97,
+      "clicks": 20,
+      "impressions": 410,
+      "ctr": 4.88,
       "position": 2.5
     },
     {
       "label": "https://www.kouver.fr/alternative-thefork/",
-      "clicks": 10,
-      "impressions": 627,
-      "ctr": 1.59,
+      "clicks": 14,
+      "impressions": 660,
+      "ctr": 2.12,
       "position": 4.3
     },
     {
       "label": "https://www.kouver.fr/faq/",
       "clicks": 5,
-      "impressions": 473,
-      "ctr": 1.06,
-      "position": 2.8
+      "impressions": 490,
+      "ctr": 1.02,
+      "position": 2.7
+    },
+    {
+      "label": "https://www.kouver.fr/mentions-legales/",
+      "clicks": 4,
+      "impressions": 360,
+      "ctr": 1.11,
+      "position": 4.6
     },
     {
       "label": "https://www.kouver.fr/blog-gestion-restaurant/",
       "clicks": 3,
-      "impressions": 190,
-      "ctr": 1.58,
-      "position": 4.3
+      "impressions": 189,
+      "ctr": 1.59,
+      "position": 4.4
     },
     {
       "label": "https://www.kouver.fr/comparatif-logiciel-zenchef-vs-kouver/",
       "clicks": 3,
-      "impressions": 31,
-      "ctr": 9.68,
-      "position": 5.6
-    },
-    {
-      "label": "https://www.kouver.fr/mentions-legales/",
-      "clicks": 3,
-      "impressions": 352,
-      "ctr": 0.85,
-      "position": 4.6
+      "impressions": 30,
+      "ctr": 10.0,
+      "position": 5.5
     },
     {
       "label": "https://www.kouver.fr/cahier-de-reservation-papier/",
       "clicks": 2,
-      "impressions": 7,
-      "ctr": 28.57,
-      "position": 5.9
+      "impressions": 6,
+      "ctr": 33.33,
+      "position": 5.8
     },
     {
       "label": "https://www.kouver.fr/meilleurs-outils-restaurant-francais/",
@@ -99,30 +99,30 @@
     {
       "label": "https://www.kouver.fr/fidelisation-client-restaurant/",
       "clicks": 1,
-      "impressions": 22,
-      "ctr": 4.55,
-      "position": 4.5
+      "impressions": 32,
+      "ctr": 3.12,
+      "position": 5.3
     },
     {
       "label": "https://www.kouver.fr/cahier-de-reservation-digital/",
       "clicks": 0,
-      "impressions": 20,
+      "impressions": 38,
       "ctr": 0,
-      "position": 7.1
+      "position": 7.0
     },
     {
       "label": "https://www.kouver.fr/comment-eviter-les-no-show-en-restauration/",
       "clicks": 0,
-      "impressions": 40,
+      "impressions": 44,
       "ctr": 0,
-      "position": 4.5
+      "position": 4.9
     },
     {
       "label": "https://www.kouver.fr/fiche-google-restaurant-clients/",
       "clicks": 0,
-      "impressions": 3,
+      "impressions": 8,
       "ctr": 0,
-      "position": 8.3
+      "position": 8.2
     },
     {
       "label": "https://www.kouver.fr/franchises-francaises/",
@@ -141,7 +141,7 @@
     {
       "label": "https://www.kouver.fr/logiciels-restaurant-performance-2026/",
       "clicks": 0,
-      "impressions": 23,
+      "impressions": 24,
       "ctr": 0,
       "position": 7.1
     },
@@ -155,16 +155,16 @@
     {
       "label": "https://www.kouver.fr/partenariat-kouver-x-cashpad/",
       "clicks": 0,
-      "impressions": 8,
+      "impressions": 13,
       "ctr": 0,
-      "position": 5
+      "position": 5.5
     },
     {
       "label": "https://www.kouver.fr/rentabilite-click-and-collect-restaurant/",
       "clicks": 0,
-      "impressions": 16,
+      "impressions": 25,
       "ctr": 0,
-      "position": 7.5
+      "position": 6.5
     },
     {
       "label": "https://www.kouver.fr/reservation-en-ligne-restaurant-2026/",
@@ -176,9 +176,9 @@
     {
       "label": "https://www.kouver.fr/site-internet-restaurant-guide-abordable/",
       "clicks": 0,
-      "impressions": 19,
+      "impressions": 30,
       "ctr": 0,
-      "position": 7.7
+      "position": 8
     }
   ]
 }
