@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-13",
+  "generated_at": "2026-07-14",
   "period": [
-    "2026-06-12",
-    "2026-07-10"
+    "2026-06-13",
+    "2026-07-11"
   ],
   "rows": [
     {
       "label": "kouver",
-      "clicks": 229,
-      "impressions": 485,
-      "ctr": 47.22,
+      "clicks": 221,
+      "impressions": 466,
+      "ctr": 47.42,
       "position": 1.7
     },
     {
       "label": "logiciel de réservation restaurant",
-      "clicks": 6,
-      "impressions": 303,
-      "ctr": 1.98,
-      "position": 3.0
+      "clicks": 5,
+      "impressions": 294,
+      "ctr": 1.7,
+      "position": 3.2
     },
     {
       "label": "logiciel de reservation restaurant",
       "clicks": 3,
-      "impressions": 123,
-      "ctr": 2.44,
+      "impressions": 120,
+      "ctr": 2.5,
       "position": 1.9
     },
     {
@@ -34,25 +34,25 @@
       "position": 2.6
     },
     {
-      "label": "logiciel réservation restaurant",
+      "label": "logiciel de reservation en ligne restaurant",
       "clicks": 2,
-      "impressions": 97,
-      "ctr": 2.06,
-      "position": 2.7
+      "impressions": 12,
+      "ctr": 16.67,
+      "position": 3.1
     },
     {
       "label": "alternative thefork",
       "clicks": 1,
-      "impressions": 18,
-      "ctr": 5.56,
-      "position": 1.2
+      "impressions": 20,
+      "ctr": 5.0,
+      "position": 1.4
     },
     {
       "label": "application réservation restaurant",
       "clicks": 1,
-      "impressions": 13,
-      "ctr": 7.69,
-      "position": 18.8
+      "impressions": 14,
+      "ctr": 7.14,
+      "position": 18.3
     },
     {
       "label": "barestho",
@@ -64,21 +64,21 @@
     {
       "label": "code gerer un restaurant",
       "clicks": 1,
-      "impressions": 5,
-      "ctr": 20.0,
-      "position": 6.2
+      "impressions": 6,
+      "ctr": 16.67,
+      "position": 7
     },
     {
       "label": "concurrent thefork",
       "clicks": 1,
-      "impressions": 4,
-      "ctr": 25.0,
-      "position": 6
+      "impressions": 3,
+      "ctr": 33.33,
+      "position": 5
     },
     {
       "label": "foodcollect",
       "clicks": 1,
-      "impressions": 339,
+      "impressions": 346,
       "ctr": 0.29,
       "position": 7.3
     },
@@ -90,39 +90,46 @@
       "position": 9.8
     },
     {
-      "label": "logiciel de reservation en ligne restaurant",
-      "clicks": 1,
-      "impressions": 11,
-      "ctr": 9.09,
-      "position": 3.3
-    },
-    {
       "label": "logiciel de réservation en ligne restaurant",
       "clicks": 1,
-      "impressions": 89,
-      "ctr": 1.12,
-      "position": 5.0
+      "impressions": 88,
+      "ctr": 1.14,
+      "position": 5.1
+    },
+    {
+      "label": "logiciel gestion réservation restaurant",
+      "clicks": 1,
+      "impressions": 20,
+      "ctr": 5.0,
+      "position": 1.1
     },
     {
       "label": "logiciel reservation",
       "clicks": 1,
-      "impressions": 17,
-      "ctr": 5.88,
-      "position": 10.5
+      "impressions": 14,
+      "ctr": 7.14,
+      "position": 10.6
     },
     {
       "label": "logiciel reservation restaurant",
       "clicks": 1,
-      "impressions": 125,
-      "ctr": 0.8,
+      "impressions": 126,
+      "ctr": 0.79,
       "position": 2.9
+    },
+    {
+      "label": "logiciel réservation restaurant",
+      "clicks": 1,
+      "impressions": 91,
+      "ctr": 1.1,
+      "position": 2.8
     },
     {
       "label": "module de réservation restaurant",
       "clicks": 1,
-      "impressions": 24,
-      "ctr": 4.17,
-      "position": 2.9
+      "impressions": 25,
+      "ctr": 4.0,
+      "position": 3
     },
     {
       "label": "reservation resto",
@@ -216,6 +223,13 @@
       "position": 13.5
     },
     {
+      "label": "7ici restaurant",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 36
+    },
+    {
       "label": "7oumani chez issam",
       "clicks": 0,
       "impressions": 1,
@@ -293,18 +307,11 @@
       "position": 18.3
     },
     {
-      "label": "ajouter bouton reserver fiche google",
-      "clicks": 0,
-      "impressions": 7,
-      "ctr": 0,
-      "position": 10
-    },
-    {
       "label": "alacarte direct",
       "clicks": 0,
-      "impressions": 3,
+      "impressions": 6,
       "ctr": 0,
-      "position": 33
+      "position": 35.8
     },
     {
       "label": "alex et koko",
@@ -312,6 +319,13 @@
       "impressions": 1,
       "ctr": 0,
       "position": 16
+    },
+    {
+      "label": "all you can eat vicino a me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 74
     },
     {
       "label": "allo hector",
@@ -344,9 +358,9 @@
     {
       "label": "alternative lafourchette",
       "clicks": 0,
-      "impressions": 2,
+      "impressions": 3,
       "ctr": 0,
-      "position": 1.5
+      "position": 1.3
     },
     {
       "label": "alternative the fork",
@@ -400,16 +414,16 @@
     {
       "label": "application de réservation restaurant",
       "clicks": 0,
-      "impressions": 6,
+      "impressions": 7,
       "ctr": 0,
-      "position": 3.8
+      "position": 4
     },
     {
       "label": "application gestion réservation restaurant",
       "clicks": 0,
       "impressions": 32,
       "ctr": 0,
-      "position": 2.7
+      "position": 2.8
     },
     {
       "label": "application reservation",
@@ -519,16 +533,16 @@
     {
       "label": "avantages qr code restaurant",
       "clicks": 0,
-      "impressions": 3,
+      "impressions": 4,
       "ctr": 0,
-      "position": 7.7
+      "position": 6.8
     },
     {
       "label": "avis logiciel réservation restaurant",
       "clicks": 0,
-      "impressions": 15,
+      "impressions": 14,
       "ctr": 0,
-      "position": 2
+      "position": 1.8
     },
     {
       "label": "bacchouse",
@@ -550,6 +564,13 @@
       "impressions": 1,
       "ctr": 0,
       "position": 37
+    },
+    {
+      "label": "beffroi tentations",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 63
     },
     {
       "label": "belujika pontoise",
@@ -580,6 +601,13 @@
       "position": 6.5
     },
     {
+      "label": "bezu saint eloi restaurant",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 50
+    },
+    {
       "label": "bib and guss",
       "clicks": 0,
       "impressions": 2,
@@ -592,6 +620,13 @@
       "impressions": 1,
       "ctr": 0,
       "position": 92
+    },
+    {
+      "label": "bistrot n'joy",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 94
     },
     {
       "label": "bittikesu",
@@ -692,18 +727,11 @@
       "position": 56
     },
     {
-      "label": "bouton réservation restaurant",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 4
-    },
-    {
       "label": "bouton réserver google restaurant",
       "clicks": 0,
-      "impressions": 10,
+      "impressions": 11,
       "ctr": 0,
-      "position": 7.9
+      "position": 7.7
     },
     {
       "label": "brasserie on 7",
@@ -743,9 +771,9 @@
     {
       "label": "buzz resto",
       "clicks": 0,
-      "impressions": 1,
+      "impressions": 2,
       "ctr": 0,
-      "position": 24
+      "position": 24.5
     },
     {
       "label": "by self restaurant",
@@ -764,9 +792,9 @@
     {
       "label": "cahier de reservation",
       "clicks": 0,
-      "impressions": 3,
+      "impressions": 4,
       "ctr": 0,
-      "position": 4.7
+      "position": 5.5
     },
     {
       "label": "cahier de reservation 2026",
@@ -797,11 +825,18 @@
       "position": 11
     },
     {
+      "label": "cahier de réservation restaurant 2026",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 11
+    },
+    {
       "label": "cahier reservation restaurant",
       "clicks": 0,
-      "impressions": 1,
+      "impressions": 2,
       "ctr": 0,
-      "position": 14
+      "position": 15
     },
     {
       "label": "cahier réservation restaurant digital",
@@ -823,6 +858,13 @@
       "impressions": 3,
       "ctr": 0,
       "position": 7
+    },
+    {
+      "label": "canoun dou miejou",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 23
     },
     {
       "label": "cantine squad",
@@ -848,16 +890,16 @@
     {
       "label": "carnet de reservation",
       "clicks": 0,
-      "impressions": 8,
+      "impressions": 9,
       "ctr": 0,
-      "position": 4.1
+      "position": 4
     },
     {
       "label": "carnet de reservation restaurant",
       "clicks": 0,
-      "impressions": 4,
+      "impressions": 5,
       "ctr": 0,
-      "position": 8
+      "position": 8.4
     },
     {
       "label": "carnet de réservation",
@@ -1007,13 +1049,6 @@
       "position": 27
     },
     {
-      "label": "chez cui cui",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 21
-    },
-    {
       "label": "chez docchi",
       "clicks": 0,
       "impressions": 2,
@@ -1028,6 +1063,13 @@
       "position": 19
     },
     {
+      "label": "chez ever",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 17
+    },
+    {
       "label": "chez fab.e",
       "clicks": 0,
       "impressions": 1,
@@ -1040,13 +1082,6 @@
       "impressions": 2,
       "ctr": 0,
       "position": 16.5
-    },
-    {
-      "label": "chez gracieuse",
-      "clicks": 0,
-      "impressions": 3,
-      "ctr": 0,
-      "position": 18.3
     },
     {
       "label": "chez haddou",
@@ -1114,9 +1149,9 @@
     {
       "label": "chez kiki cinq mars la pile",
       "clicks": 0,
-      "impressions": 2,
+      "impressions": 1,
       "ctr": 0,
-      "position": 21.5
+      "position": 19
     },
     {
       "label": "chez kiki cinq-mars-la-pile",
@@ -1245,11 +1280,18 @@
       "position": 25
     },
     {
+      "label": "chez patapom",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 16
+    },
+    {
       "label": "chez pava",
       "clicks": 0,
-      "impressions": 5,
+      "impressions": 4,
       "ctr": 0,
-      "position": 20.6
+      "position": 20.2
     },
     {
       "label": "chez poggi",
@@ -1257,6 +1299,20 @@
       "impressions": 1,
       "ctr": 0,
       "position": 45
+    },
+    {
+      "label": "chez rari",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 23
+    },
+    {
+      "label": "chez rhalo",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 35
     },
     {
       "label": "chez riflette",
@@ -1271,6 +1327,13 @@
       "impressions": 1,
       "ctr": 0,
       "position": 18
+    },
+    {
+      "label": "chez sako",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 75
     },
     {
       "label": "chez serdar",
@@ -1434,6 +1497,13 @@
       "position": 26
     },
     {
+      "label": "chtipat",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 21
+    },
+    {
       "label": "cityvox restaurant",
       "clicks": 0,
       "impressions": 3,
@@ -1457,9 +1527,9 @@
     {
       "label": "click and collect restaurant",
       "clicks": 0,
-      "impressions": 2,
+      "impressions": 3,
       "ctr": 0,
-      "position": 34.5
+      "position": 41
     },
     {
       "label": "click and collect restaurant angers",
@@ -1583,7 +1653,7 @@
     {
       "label": "comparatif logiciel réservation restaurant",
       "clicks": 0,
-      "impressions": 16,
+      "impressions": 15,
       "ctr": 0,
       "position": 1
     },
@@ -1651,6 +1721,13 @@
       "position": 68
     },
     {
+      "label": "couleur d'italie",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 26
+    },
+    {
       "label": "couscous a volonté",
       "clicks": 0,
       "impressions": 2,
@@ -1660,9 +1737,9 @@
     {
       "label": "couz and co",
       "clicks": 0,
-      "impressions": 1,
+      "impressions": 2,
       "ctr": 0,
-      "position": 24
+      "position": 23.5
     },
     {
       "label": "couz and ko",
@@ -1917,6 +1994,13 @@
       "position": 67.5
     },
     {
+      "label": "fb resto",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 14
+    },
+    {
       "label": "feel good menez are",
       "clicks": 0,
       "impressions": 1,
@@ -1924,9 +2008,16 @@
       "position": 31
     },
     {
+      "label": "fidélisation client de restaurant",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 7
+    },
+    {
       "label": "fidélisation client restaurant",
       "clicks": 0,
-      "impressions": 21,
+      "impressions": 22,
       "ctr": 0,
       "position": 7.1
     },
@@ -1968,7 +2059,7 @@
     {
       "label": "food collect",
       "clicks": 0,
-      "impressions": 93,
+      "impressions": 86,
       "ctr": 0,
       "position": 6.3
     },
@@ -2043,6 +2134,13 @@
       "position": 32
     },
     {
+      "label": "friterie le 107",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 22
+    },
+    {
       "label": "furious wok",
       "clicks": 0,
       "impressions": 1,
@@ -2073,9 +2171,9 @@
     {
       "label": "gestion avis client restaurant cholet",
       "clicks": 0,
-      "impressions": 4,
+      "impressions": 5,
       "ctr": 0,
-      "position": 21
+      "position": 20
     },
     {
       "label": "gestion avis google restaurant",
@@ -2087,9 +2185,9 @@
     {
       "label": "gestion des réservations restaurant",
       "clicks": 0,
-      "impressions": 16,
+      "impressions": 17,
       "ctr": 0,
-      "position": 7.2
+      "position": 7.1
     },
     {
       "label": "gestion des réservations restaurant gratuit",
@@ -2104,13 +2202,6 @@
       "impressions": 2,
       "ctr": 0,
       "position": 6.5
-    },
-    {
-      "label": "gestion reservation restaurant",
-      "clicks": 0,
-      "impressions": 2,
-      "ctr": 0,
-      "position": 4.5
     },
     {
       "label": "gestion réservation restaurant",
@@ -2139,13 +2230,6 @@
       "impressions": 1,
       "ctr": 0,
       "position": 28
-    },
-    {
-      "label": "glitter restaurant menu",
-      "clicks": 0,
-      "impressions": 2,
-      "ctr": 0,
-      "position": 70
     },
     {
       "label": "google reserved",
@@ -2185,9 +2269,9 @@
     {
       "label": "griffon glouton",
       "clicks": 0,
-      "impressions": 1,
+      "impressions": 2,
       "ctr": 0,
-      "position": 23
+      "position": 22.5
     },
     {
       "label": "grignote la night",
@@ -2209,6 +2293,13 @@
       "impressions": 1,
       "ctr": 0,
       "position": 20
+    },
+    {
+      "label": "he pate moi",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 19
     },
     {
       "label": "heureux comme alexandre",
@@ -2255,9 +2346,9 @@
     {
       "label": "horaire restaurant",
       "clicks": 0,
-      "impressions": 53,
+      "impressions": 49,
       "ctr": 0,
-      "position": 17.5
+      "position": 17.4
     },
     {
       "label": "horaires restaurant",
@@ -2365,6 +2456,13 @@
       "position": 29
     },
     {
+      "label": "jeux 2 gouts",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 73
+    },
+    {
       "label": "jk pan pizza",
       "clicks": 0,
       "impressions": 1,
@@ -2425,7 +2523,7 @@
       "clicks": 0,
       "impressions": 9,
       "ctr": 0,
-      "position": 15
+      "position": 15.4
     },
     {
       "label": "jungle bagheera",
@@ -2507,9 +2605,9 @@
     {
       "label": "kod saveurs",
       "clicks": 0,
-      "impressions": 5,
+      "impressions": 4,
       "ctr": 0,
-      "position": 17.2
+      "position": 17.5
     },
     {
       "label": "kokiriz lacanau",
@@ -2545,13 +2643,6 @@
       "impressions": 3,
       "ctr": 0,
       "position": 18.7
-    },
-    {
-      "label": "l hipster family restaurant",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 19
     },
     {
       "label": "l instant z",
@@ -2687,13 +2778,6 @@
       "position": 57
     },
     {
-      "label": "la bonne adresse notre dame de gravenchon",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 56
-    },
-    {
       "label": "la brasserie lucky",
       "clicks": 0,
       "impressions": 1,
@@ -2734,13 +2818,6 @@
       "impressions": 3,
       "ctr": 0,
       "position": 25
-    },
-    {
-      "label": "la case boyer",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 14
     },
     {
       "label": "la chope d'odin",
@@ -2792,6 +2869,13 @@
       "position": 23
     },
     {
+      "label": "la folie en tete",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 60
+    },
+    {
       "label": "la folle assiette",
       "clicks": 0,
       "impressions": 1,
@@ -2815,9 +2899,9 @@
     {
       "label": "la guichetta",
       "clicks": 0,
-      "impressions": 4,
+      "impressions": 3,
       "ctr": 0,
-      "position": 24.5
+      "position": 24.3
     },
     {
       "label": "la k'usine",
@@ -2946,13 +3030,6 @@
       "position": 59
     },
     {
-      "label": "la table de benjamin",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 21
-    },
-    {
       "label": "la table de fifine",
       "clicks": 0,
       "impressions": 1,
@@ -3051,18 +3128,18 @@
       "position": 24
     },
     {
-      "label": "le 367 sokak",
-      "clicks": 0,
-      "impressions": 2,
-      "ctr": 0,
-      "position": 16.5
-    },
-    {
       "label": "le 40 pfastatt",
       "clicks": 0,
       "impressions": 2,
       "ctr": 0,
       "position": 68
+    },
+    {
+      "label": "le 43 casual food",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 19
     },
     {
       "label": "le 47 bagatelle",
@@ -3091,6 +3168,13 @@
       "impressions": 1,
       "ctr": 0,
       "position": 16
+    },
+    {
+      "label": "le 99 café",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 60
     },
     {
       "label": "le bac du prince",
@@ -3140,6 +3224,13 @@
       "impressions": 1,
       "ctr": 0,
       "position": 30
+    },
+    {
+      "label": "le caboulot fromentine",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 43
     },
     {
       "label": "le capitole bizet",
@@ -3366,13 +3457,6 @@
       "position": 25
     },
     {
-      "label": "le komptoir des amis",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 29
-    },
-    {
       "label": "le laser berre",
       "clicks": 0,
       "impressions": 2,
@@ -3399,13 +3483,6 @@
       "impressions": 1,
       "ctr": 0,
       "position": 69
-    },
-    {
-      "label": "le mickphil",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 14
     },
     {
       "label": "le monica's",
@@ -3576,6 +3653,13 @@
       "position": 50
     },
     {
+      "label": "le quai 63",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 82
+    },
+    {
       "label": "le rainbowl",
       "clicks": 0,
       "impressions": 1,
@@ -3627,9 +3711,9 @@
     {
       "label": "le saberik",
       "clicks": 0,
-      "impressions": 1,
+      "impressions": 2,
       "ctr": 0,
-      "position": 10
+      "position": 15.5
     },
     {
       "label": "le sableautin",
@@ -3637,6 +3721,13 @@
       "impressions": 1,
       "ctr": 0,
       "position": 46
+    },
+    {
+      "label": "le sadara",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 71
     },
     {
       "label": "le sainbioz",
@@ -3662,9 +3753,9 @@
     {
       "label": "le sari restaurant",
       "clicks": 0,
-      "impressions": 3,
+      "impressions": 2,
       "ctr": 0,
-      "position": 49
+      "position": 52
     },
     {
       "label": "le savoureux du monial",
@@ -3742,13 +3833,6 @@
       "impressions": 2,
       "ctr": 0,
       "position": 70.5
-    },
-    {
-      "label": "le summer vouille",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 20
     },
     {
       "label": "le sun ke",
@@ -3835,6 +3919,13 @@
       "position": 21
     },
     {
+      "label": "les 1séparables",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 19
+    },
+    {
       "label": "les ciotadhein",
       "clicks": 0,
       "impressions": 1,
@@ -3900,9 +3991,16 @@
     {
       "label": "livraison repas roquebrune",
       "clicks": 0,
-      "impressions": 21,
+      "impressions": 22,
       "ctr": 0,
-      "position": 50.7
+      "position": 50.6
+    },
+    {
+      "label": "livre de reservation",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 6
     },
     {
       "label": "lo sfizziu",
@@ -3935,30 +4033,30 @@
     {
       "label": "logiciel cos restaurant",
       "clicks": 0,
-      "impressions": 7,
+      "impressions": 5,
       "ctr": 0,
-      "position": 4.1
+      "position": 4.2
     },
     {
       "label": "logiciel cos restaurant bofu",
       "clicks": 0,
-      "impressions": 10,
+      "impressions": 8,
       "ctr": 0,
-      "position": 3.9
+      "position": 4.1
     },
     {
       "label": "logiciel cos restaurant france",
       "clicks": 0,
-      "impressions": 12,
+      "impressions": 9,
       "ctr": 0,
-      "position": 13.2
+      "position": 13.9
     },
     {
       "label": "logiciel cos restaurant france bofu",
       "clicks": 0,
-      "impressions": 10,
+      "impressions": 8,
       "ctr": 0,
-      "position": 6.7
+      "position": 6.9
     },
     {
       "label": "logiciel de gestion de reservation",
@@ -3970,23 +4068,23 @@
     {
       "label": "logiciel de gestion des réservations de restaurant",
       "clicks": 0,
-      "impressions": 14,
+      "impressions": 13,
       "ctr": 0,
       "position": 1.6
     },
     {
       "label": "logiciel de reservation",
       "clicks": 0,
-      "impressions": 25,
+      "impressions": 24,
       "ctr": 0,
-      "position": 11.8
+      "position": 10.4
     },
     {
       "label": "logiciel de reservation pour restaurant",
       "clicks": 0,
-      "impressions": 42,
+      "impressions": 41,
       "ctr": 0,
-      "position": 3.4
+      "position": 3.5
     },
     {
       "label": "logiciel de reservation restauration",
@@ -4005,21 +4103,21 @@
     {
       "label": "logiciel de restauration",
       "clicks": 0,
-      "impressions": 5,
+      "impressions": 6,
       "ctr": 0,
-      "position": 80.4
+      "position": 80.2
     },
     {
       "label": "logiciel de réservation",
       "clicks": 0,
-      "impressions": 37,
+      "impressions": 36,
       "ctr": 0,
-      "position": 12.1
+      "position": 12.3
     },
     {
       "label": "logiciel de réservation centralisée réduction no-shows",
       "clicks": 0,
-      "impressions": 71,
+      "impressions": 70,
       "ctr": 0,
       "position": 1.5
     },
@@ -4033,14 +4131,14 @@
     {
       "label": "logiciel de réservation pour restaurant",
       "clicks": 0,
-      "impressions": 43,
+      "impressions": 42,
       "ctr": 0,
-      "position": 3.3
+      "position": 3.4
     },
     {
       "label": "logiciel de réservation restaurant en ligne",
       "clicks": 0,
-      "impressions": 15,
+      "impressions": 14,
       "ctr": 0,
       "position": 2.1
     },
@@ -4059,18 +4157,11 @@
       "position": 85
     },
     {
-      "label": "logiciel gestion réservation restaurant",
-      "clicks": 0,
-      "impressions": 18,
-      "ctr": 0,
-      "position": 1.1
-    },
-    {
       "label": "logiciel gestion réservations centralisé réduction no-shows",
       "clicks": 0,
-      "impressions": 43,
+      "impressions": 42,
       "ctr": 0,
-      "position": 2.9
+      "position": 3.0
     },
     {
       "label": "logiciel gestion table restaurant",
@@ -4103,9 +4194,9 @@
     {
       "label": "logiciel pour restaurant",
       "clicks": 0,
-      "impressions": 10,
+      "impressions": 9,
       "ctr": 0,
-      "position": 13
+      "position": 12.7
     },
     {
       "label": "logiciel pour restaurant virtuel",
@@ -4117,16 +4208,16 @@
     {
       "label": "logiciel pour restaurants",
       "clicks": 0,
-      "impressions": 80,
+      "impressions": 83,
       "ctr": 0,
-      "position": 17.1
+      "position": 17.3
     },
     {
       "label": "logiciel pour réservation restaurant",
       "clicks": 0,
-      "impressions": 17,
+      "impressions": 18,
       "ctr": 0,
-      "position": 2.8
+      "position": 2.7
     },
     {
       "label": "logiciel prélevement restauration",
@@ -4152,21 +4243,21 @@
     {
       "label": "logiciel rentabilite restaurant bofu",
       "clicks": 0,
-      "impressions": 5,
+      "impressions": 4,
       "ctr": 0,
-      "position": 20.6
+      "position": 19.5
     },
     {
       "label": "logiciel reservation restaurant avis",
       "clicks": 0,
-      "impressions": 16,
+      "impressions": 15,
       "ctr": 0,
       "position": 1
     },
     {
       "label": "logiciel reserving",
       "clicks": 0,
-      "impressions": 25,
+      "impressions": 23,
       "ctr": 0,
       "position": 13.7
     },
@@ -4175,14 +4266,14 @@
       "clicks": 0,
       "impressions": 115,
       "ctr": 0,
-      "position": 16.8
+      "position": 16.4
     },
     {
       "label": "logiciel restauration",
       "clicks": 0,
-      "impressions": 3,
+      "impressions": 5,
       "ctr": 0,
-      "position": 82.7
+      "position": 77.2
     },
     {
       "label": "logiciel réservation",
@@ -4194,28 +4285,28 @@
     {
       "label": "logiciel réservation automatique restaurant",
       "clicks": 0,
-      "impressions": 17,
+      "impressions": 18,
       "ctr": 0,
       "position": 1.2
     },
     {
       "label": "logiciel réservation en ligne restaurant",
       "clicks": 0,
-      "impressions": 28,
+      "impressions": 29,
       "ctr": 0,
-      "position": 2.8
+      "position": 2.9
     },
     {
       "label": "logiciel réservation pour restaurant",
       "clicks": 0,
-      "impressions": 14,
+      "impressions": 13,
       "ctr": 0,
-      "position": 3.2
+      "position": 3.3
     },
     {
       "label": "logiciel réservation restaurant avis",
       "clicks": 0,
-      "impressions": 28,
+      "impressions": 27,
       "ctr": 0,
       "position": 1
     },
@@ -4229,7 +4320,7 @@
     {
       "label": "logiciel réservation restaurant en ligne",
       "clicks": 0,
-      "impressions": 15,
+      "impressions": 14,
       "ctr": 0,
       "position": 2
     },
@@ -4250,23 +4341,23 @@
     {
       "label": "logiciel réservation restaurant prix fixe",
       "clicks": 0,
-      "impressions": 15,
+      "impressions": 14,
       "ctr": 0,
       "position": 1.1
     },
     {
       "label": "logiciel réservation table restaurant",
       "clicks": 0,
-      "impressions": 17,
+      "impressions": 18,
       "ctr": 0,
-      "position": 1.7
+      "position": 1.9
     },
     {
       "label": "logiciel réservations restaurant",
       "clicks": 0,
-      "impressions": 51,
+      "impressions": 50,
       "ctr": 0,
-      "position": 8.4
+      "position": 7.5
     },
     {
       "label": "logiciels de gestion de restaurant réduisant les no-shows",
@@ -4278,9 +4369,9 @@
     {
       "label": "logiciels de réservation",
       "clicks": 0,
-      "impressions": 14,
+      "impressions": 15,
       "ctr": 0,
-      "position": 25.9
+      "position": 25.6
     },
     {
       "label": "logiciels seo local intégrant chatgpt restaurants",
@@ -4418,9 +4509,9 @@
     {
       "label": "marketplace restaurants",
       "clicks": 0,
-      "impressions": 1,
+      "impressions": 2,
       "ctr": 0,
-      "position": 73
+      "position": 78.5
     },
     {
       "label": "matriochka albertville",
@@ -4432,30 +4523,30 @@
     {
       "label": "meilleur logiciel gestion avis réservations directes",
       "clicks": 0,
-      "impressions": 24,
+      "impressions": 23,
       "ctr": 0,
-      "position": 4.5
+      "position": 4.7
     },
     {
       "label": "meilleur logiciel gestion restaurant réservations en ligne",
       "clicks": 0,
-      "impressions": 96,
+      "impressions": 94,
       "ctr": 0,
-      "position": 2.0
+      "position": 2
     },
     {
       "label": "meilleur logiciel gestion réservations restaurants",
       "clicks": 0,
-      "impressions": 71,
+      "impressions": 70,
       "ctr": 0,
       "position": 1.4
     },
     {
       "label": "meilleur logiciel pour éviter les doubles réservations sur les ota et les réservations directes ?",
       "clicks": 0,
-      "impressions": 381,
+      "impressions": 367,
       "ctr": 0,
-      "position": 8.1
+      "position": 8.2
     },
     {
       "label": "meilleur logiciel restaurant",
@@ -4467,30 +4558,30 @@
     {
       "label": "meilleur logiciel restauration",
       "clicks": 0,
-      "impressions": 1,
+      "impressions": 2,
       "ctr": 0,
-      "position": 10
+      "position": 9
     },
     {
       "label": "meilleur logiciel réservation restaurant",
       "clicks": 0,
-      "impressions": 28,
+      "impressions": 27,
       "ctr": 0,
       "position": 1.9
     },
     {
       "label": "meilleur système de commande en ligne pour les restaurants",
       "clicks": 0,
-      "impressions": 15,
+      "impressions": 16,
       "ctr": 0,
-      "position": 65.3
+      "position": 65.5
     },
     {
       "label": "meilleure solution digitale titre restaurant",
       "clicks": 0,
-      "impressions": 4,
+      "impressions": 5,
       "ctr": 0,
-      "position": 6.2
+      "position": 5.6
     },
     {
       "label": "meilleures plateformes publicitaires restaurants",
@@ -4516,9 +4607,9 @@
     {
       "label": "menival food",
       "clicks": 0,
-      "impressions": 1,
+      "impressions": 2,
       "ctr": 0,
-      "position": 16
+      "position": 17
     },
     {
       "label": "menu anti crise autour de moi",
@@ -4654,6 +4745,13 @@
       "position": 28
     },
     {
+      "label": "module réservation restaurant",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 9
+    },
+    {
       "label": "mon cousin alphonse",
       "clicks": 0,
       "impressions": 1,
@@ -4670,9 +4768,9 @@
     {
       "label": "mon plaisir chamesol",
       "clicks": 0,
-      "impressions": 1,
+      "impressions": 2,
       "ctr": 0,
-      "position": 67
+      "position": 69
     },
     {
       "label": "mon resto plaisir",
@@ -4712,9 +4810,16 @@
     {
       "label": "mozzarella chenex",
       "clicks": 0,
-      "impressions": 4,
+      "impressions": 3,
       "ctr": 0,
-      "position": 20.2
+      "position": 20
+    },
+    {
+      "label": "mugs frejus",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 67
     },
     {
       "label": "myself restaurant",
@@ -4726,7 +4831,7 @@
     {
       "label": "n joy trept",
       "clicks": 0,
-      "impressions": 1,
+      "impressions": 2,
       "ctr": 0,
       "position": 20
     },
@@ -4795,6 +4900,13 @@
     },
     {
       "label": "nourriture proche de moi",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 21
+    },
+    {
+      "label": "numero restaurant",
       "clicks": 0,
       "impressions": 1,
       "ctr": 0,
@@ -5004,13 +5116,6 @@
       "position": 81
     },
     {
-      "label": "o'lunch café",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 100
-    },
-    {
       "label": "o'manaï",
       "clicks": 0,
       "impressions": 1,
@@ -5211,12 +5316,12 @@
       "clicks": 0,
       "impressions": 41,
       "ctr": 0,
-      "position": 3.2
+      "position": 3.3
     },
     {
       "label": "outil reservation restaurant",
       "clicks": 0,
-      "impressions": 18,
+      "impressions": 17,
       "ctr": 0,
       "position": 1
     },
@@ -5328,9 +5433,9 @@
     {
       "label": "payasam near me",
       "clicks": 0,
-      "impressions": 55,
+      "impressions": 56,
       "ctr": 0,
-      "position": 10.5
+      "position": 10.8
     },
     {
       "label": "paye ton burger",
@@ -5585,6 +5690,13 @@
       "position": 61
     },
     {
+      "label": "pizzeria nantes bouffay",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 96
+    },
+    {
       "label": "pizzeria souk ayoub",
       "clicks": 0,
       "impressions": 1,
@@ -5604,13 +5716,6 @@
       "impressions": 1,
       "ctr": 0,
       "position": 22
-    },
-    {
-      "label": "planning reservation restaurant",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 7
     },
     {
       "label": "planning réservation restaurant",
@@ -5671,9 +5776,9 @@
     {
       "label": "plateforme de réservation restaurant",
       "clicks": 0,
-      "impressions": 28,
+      "impressions": 29,
       "ctr": 0,
-      "position": 10.6
+      "position": 10.4
     },
     {
       "label": "plateforme numérique pour restaurant",
@@ -5685,16 +5790,16 @@
     {
       "label": "plateforme pour restaurant",
       "clicks": 0,
-      "impressions": 28,
+      "impressions": 29,
       "ctr": 0,
-      "position": 44.4
+      "position": 44.5
     },
     {
       "label": "plateforme reservation restaurant",
       "clicks": 0,
       "impressions": 22,
       "ctr": 0,
-      "position": 11
+      "position": 10.8
     },
     {
       "label": "plateforme restaurant",
@@ -5706,7 +5811,7 @@
     {
       "label": "plateforme réservation restaurant",
       "clicks": 0,
-      "impressions": 38,
+      "impressions": 37,
       "ctr": 0,
       "position": 12.9
     },
@@ -5769,9 +5874,9 @@
     {
       "label": "prix logiciel réservation restaurant",
       "clicks": 0,
-      "impressions": 27,
+      "impressions": 28,
       "ctr": 0,
-      "position": 1.1
+      "position": 1.2
     },
     {
       "label": "prix menu",
@@ -5779,13 +5884,6 @@
       "impressions": 2,
       "ctr": 0,
       "position": 55.5
-    },
-    {
-      "label": "prix menus",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 46
     },
     {
       "label": "prix panna cotta restaurant",
@@ -5888,7 +5986,7 @@
     {
       "label": "quels sont les meilleurs logiciels pour l'analyse de rentabilité dans la restauration?",
       "clicks": 0,
-      "impressions": 21,
+      "impressions": 22,
       "ctr": 0,
       "position": 7
     },
@@ -5935,13 +6033,6 @@
       "position": 35
     },
     {
-      "label": "reservation complete",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 10
-    },
-    {
       "label": "reservation en ligne restaurant",
       "clicks": 0,
       "impressions": 1,
@@ -5958,9 +6049,9 @@
     {
       "label": "reservation restaurant",
       "clicks": 0,
-      "impressions": 9,
+      "impressions": 10,
       "ctr": 0,
-      "position": 29.2
+      "position": 29.4
     },
     {
       "label": "reservation restaurant en ligne",
@@ -6000,9 +6091,9 @@
     {
       "label": "reserver restaurant",
       "clicks": 0,
-      "impressions": 1,
+      "impressions": 3,
       "ctr": 0,
-      "position": 8
+      "position": 6.7
     },
     {
       "label": "reserver restaurant en ligne",
@@ -6049,9 +6140,9 @@
     {
       "label": "restaurant a emporter",
       "clicks": 0,
-      "impressions": 12,
+      "impressions": 11,
       "ctr": 0,
-      "position": 14.8
+      "position": 15
     },
     {
       "label": "restaurant a emporter autour de moi",
@@ -6082,13 +6173,6 @@
       "position": 28.8
     },
     {
-      "label": "restaurant ahizpak",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 58
-    },
-    {
       "label": "restaurant angers click and collect",
       "clicks": 0,
       "impressions": 2,
@@ -6108,6 +6192,13 @@
       "impressions": 1,
       "ctr": 0,
       "position": 27
+    },
+    {
+      "label": "restaurant becon les granits",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 74
     },
     {
       "label": "restaurant best of both",
@@ -6182,9 +6273,9 @@
     {
       "label": "restaurant click and collect",
       "clicks": 0,
-      "impressions": 28,
+      "impressions": 29,
       "ctr": 0,
-      "position": 12.8
+      "position": 12.6
     },
     {
       "label": "restaurant click and collect angers",
@@ -6196,9 +6287,9 @@
     {
       "label": "restaurant click and collet",
       "clicks": 0,
-      "impressions": 10,
+      "impressions": 12,
       "ctr": 0,
-      "position": 10.8
+      "position": 10.9
     },
     {
       "label": "restaurant commande",
@@ -6280,9 +6371,9 @@
     {
       "label": "restaurant en ligne",
       "clicks": 0,
-      "impressions": 36,
+      "impressions": 38,
       "ctr": 0,
-      "position": 17.4
+      "position": 17.3
     },
     {
       "label": "restaurant etang z'abricot",
@@ -6474,13 +6565,6 @@
       "position": 64
     },
     {
-      "label": "restaurant le kirikou",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 22
-    },
-    {
       "label": "restaurant le push",
       "clicks": 0,
       "impressions": 1,
@@ -6649,6 +6733,13 @@
       "position": 87
     },
     {
+      "label": "restaurant pret a manger",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 6
+    },
+    {
       "label": "restaurant pure c",
       "clicks": 0,
       "impressions": 2,
@@ -6656,11 +6747,25 @@
       "position": 19.5
     },
     {
+      "label": "restaurant qr",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 7
+    },
+    {
       "label": "restaurant quatre temps",
       "clicks": 0,
       "impressions": 2,
       "ctr": 0,
       "position": 19.5
+    },
+    {
+      "label": "restaurant qui",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 13
     },
     {
       "label": "restaurant qui livre",
@@ -6705,6 +6810,13 @@
       "position": 7
     },
     {
+      "label": "restaurant rozerieulles",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 48
+    },
+    {
       "label": "restaurant rue saint",
       "clicks": 0,
       "impressions": 2,
@@ -6742,9 +6854,9 @@
     {
       "label": "restaurant sans reservation",
       "clicks": 0,
-      "impressions": 2,
+      "impressions": 3,
       "ctr": 0,
-      "position": 6
+      "position": 6.7
     },
     {
       "label": "restaurant sans site web",
@@ -6787,6 +6899,13 @@
       "impressions": 1,
       "ctr": 0,
       "position": 87
+    },
+    {
+      "label": "restaurant sur la place puimisson",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 50
     },
     {
       "label": "restaurant sur place",
@@ -6854,9 +6973,9 @@
     {
       "label": "restaurant à emporter",
       "clicks": 0,
-      "impressions": 33,
+      "impressions": 34,
       "ctr": 0,
-      "position": 14.7
+      "position": 14.6
     },
     {
       "label": "restaurant à emporter ouvert",
@@ -6885,125 +7004,6 @@
       "impressions": 2,
       "ctr": 0,
       "position": 29
-    },
-    {
-      "label": "restaurantji",
-      "clicks": 0,
-      "impressions": 95,
-      "ctr": 0,
-      "position": 8.7
-    },
-    {
-      "label": "restaurantji menu",
-      "clicks": 0,
-      "impressions": 18,
-      "ctr": 0,
-      "position": 8.7
-    },
-    {
-      "label": "restaurants v2",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 21
-    },
-    {
-      "label": "restauration sur place",
-      "clicks": 0,
-      "impressions": 3,
-      "ctr": 0,
-      "position": 29.7
-    },
-    {
-      "label": "restauration v2",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 17
-    },
-    {
-      "label": "restauration à emporter autour de moi",
-      "clicks": 0,
-      "impressions": 2,
-      "ctr": 0,
-      "position": 13.5
-    },
-    {
-      "label": "resto carte",
-      "clicks": 0,
-      "impressions": 2,
-      "ctr": 0,
-      "position": 14.5
-    },
-    {
-      "label": "resto chez vous",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 22
-    },
-    {
-      "label": "resto cityvox",
-      "clicks": 0,
-      "impressions": 6,
-      "ctr": 0,
-      "position": 78.5
-    },
-    {
-      "label": "resto click and collect angers",
-      "clicks": 0,
-      "impressions": 2,
-      "ctr": 0,
-      "position": 65
-    },
-    {
-      "label": "resto commande en ligne",
-      "clicks": 0,
-      "impressions": 2,
-      "ctr": 0,
-      "position": 20
-    },
-    {
-      "label": "resto livraison",
-      "clicks": 0,
-      "impressions": 3,
-      "ctr": 0,
-      "position": 30.3
-    },
-    {
-      "label": "resto qui livre",
-      "clicks": 0,
-      "impressions": 3,
-      "ctr": 0,
-      "position": 27.3
-    },
-    {
-      "label": "resto qui livre autour de moi",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 18
-    },
-    {
-      "label": "resto reservation en ligne",
-      "clicks": 0,
-      "impressions": 6,
-      "ctr": 0,
-      "position": 4.3
-    },
-    {
-      "label": "resto rue sainte anne",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 36
-    },
-    {
-      "label": "restos chez vous",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 16
     }
   ]
 }
