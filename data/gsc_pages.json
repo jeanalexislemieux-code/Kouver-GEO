@@ -1,43 +1,43 @@
 {
-  "generated_at": "2026-08-01",
+  "generated_at": "2026-08-02",
   "period": [
-    "2026-07-01",
-    "2026-07-29"
+    "2026-07-02",
+    "2026-07-30"
   ],
   "rows": [
     {
       "label": "https://www.kouver.fr/",
-      "clicks": 203,
-      "impressions": 3583,
-      "ctr": 5.67,
-      "position": 32.7
+      "clicks": 204,
+      "impressions": 3711,
+      "ctr": 5.5,
+      "position": 33.8
     },
     {
       "label": "https://www.kouver.fr/logiciel-de-reservation-restaurant/",
-      "clicks": 89,
-      "impressions": 5901,
-      "ctr": 1.51,
+      "clicks": 88,
+      "impressions": 6010,
+      "ctr": 1.46,
       "position": 7.3
     },
     {
       "label": "https://www.kouver.fr/nos-solutions/",
-      "clicks": 33,
-      "impressions": 576,
-      "ctr": 5.73,
-      "position": 3.4
+      "clicks": 28,
+      "impressions": 568,
+      "ctr": 4.93,
+      "position": 3.6
     },
     {
       "label": "https://www.kouver.fr/alternative-thefork/",
-      "clicks": 23,
-      "impressions": 704,
-      "ctr": 3.27,
+      "clicks": 21,
+      "impressions": 696,
+      "ctr": 3.02,
       "position": 4.3
     },
     {
       "label": "https://www.kouver.fr/ia-reservation-restaurant/",
-      "clicks": 11,
-      "impressions": 440,
-      "ctr": 2.5,
+      "clicks": 10,
+      "impressions": 435,
+      "ctr": 2.3,
       "position": 2.3
     },
     {
@@ -50,23 +50,30 @@
     {
       "label": "https://www.kouver.fr/blog-gestion-restaurant/",
       "clicks": 3,
-      "impressions": 111,
-      "ctr": 2.7,
-      "position": 5.0
+      "impressions": 117,
+      "ctr": 2.56,
+      "position": 5.2
     },
     {
       "label": "https://www.kouver.fr/mentions-legales/",
       "clicks": 3,
-      "impressions": 205,
-      "ctr": 1.46,
-      "position": 7.7
+      "impressions": 196,
+      "ctr": 1.53,
+      "position": 7.8
     },
     {
       "label": "https://www.kouver.fr/alternative-a-yumcall/",
       "clicks": 2,
-      "impressions": 87,
-      "ctr": 2.3,
+      "impressions": 94,
+      "ctr": 2.13,
       "position": 4.7
+    },
+    {
+      "label": "https://www.kouver.fr/alternative-a-zenchef/",
+      "clicks": 2,
+      "impressions": 81,
+      "ctr": 2.47,
+      "position": 8.3
     },
     {
       "label": "https://www.kouver.fr/cahier-de-reservation-digital/",
@@ -83,17 +90,10 @@
       "position": 5.5
     },
     {
-      "label": "https://www.kouver.fr/alternative-a-zenchef/",
-      "clicks": 1,
-      "impressions": 64,
-      "ctr": 1.56,
-      "position": 7.7
-    },
-    {
       "label": "https://www.kouver.fr/faq/",
       "clicks": 1,
-      "impressions": 394,
-      "ctr": 0.25,
+      "impressions": 388,
+      "ctr": 0.26,
       "position": 1.8
     },
     {
@@ -113,9 +113,9 @@
     {
       "label": "https://www.kouver.fr/meilleurs-outils-restaurant-francais/",
       "clicks": 1,
-      "impressions": 15,
-      "ctr": 6.67,
-      "position": 7.5
+      "impressions": 17,
+      "ctr": 5.88,
+      "position": 7.4
     },
     {
       "label": "https://www.kouver.fr/menu-qr-code-restaurant-gestion-simplifiee/",
@@ -127,9 +127,9 @@
     {
       "label": "https://www.kouver.fr/privatiser-restaurant-groupe-strategie/",
       "clicks": 1,
-      "impressions": 20,
-      "ctr": 5.0,
-      "position": 6.3
+      "impressions": 22,
+      "ctr": 4.55,
+      "position": 5.9
     },
     {
       "label": "https://www.kouver.fr/rentabilite-click-and-collect-restaurant/",
@@ -148,7 +148,7 @@
     {
       "label": "https://www.kouver.fr/alternative-a-sevenrooms/",
       "clicks": 0,
-      "impressions": 31,
+      "impressions": 36,
       "ctr": 0,
       "position": 7.3
     },
@@ -169,7 +169,7 @@
     {
       "label": "https://www.kouver.fr/cahier-de-reservation-papier/",
       "clicks": 0,
-      "impressions": 2,
+      "impressions": 1,
       "ctr": 0,
       "position": 8
     },
@@ -190,16 +190,16 @@
     {
       "label": "https://www.kouver.fr/empreinte-bancaire-no-show-restaurant/",
       "clicks": 0,
-      "impressions": 85,
+      "impressions": 99,
       "ctr": 0,
-      "position": 6.0
+      "position": 6.3
     },
     {
       "label": "https://www.kouver.fr/fiche-google-restaurant-bouton-reserver/",
       "clicks": 0,
-      "impressions": 64,
+      "impressions": 61,
       "ctr": 0,
-      "position": 7.5
+      "position": 7.4
     },
     {
       "label": "https://www.kouver.fr/fiche-google-restaurant-clients/",
@@ -232,16 +232,23 @@
     {
       "label": "https://www.kouver.fr/logiciel-de-reservation-restaurant",
       "clicks": 0,
-      "impressions": 2,
+      "impressions": 3,
       "ctr": 0,
-      "position": 1.5
+      "position": 1.3
     },
     {
       "label": "https://www.kouver.fr/logiciels-restaurant-performance-2026/",
       "clicks": 0,
-      "impressions": 22,
+      "impressions": 21,
       "ctr": 0,
       "position": 6.5
+    },
+    {
+      "label": "https://www.kouver.fr/maitriser-prix-menu-restaurant/",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 2.1
     },
     {
       "label": "https://www.kouver.fr/mise-en-place/",
@@ -260,23 +267,30 @@
     {
       "label": "https://www.kouver.fr/outils-gestion-restaurant-indispensables/",
       "clicks": 0,
-      "impressions": 9,
+      "impressions": 10,
       "ctr": 0,
-      "position": 24
+      "position": 25
     },
     {
       "label": "https://www.kouver.fr/ouvrir-un-restaurant/",
       "clicks": 0,
-      "impressions": 105,
+      "impressions": 106,
       "ctr": 0,
-      "position": 8.8
+      "position": 8.7
     },
     {
       "label": "https://www.kouver.fr/reservation-en-ligne-restaurant-2026/",
       "clicks": 0,
-      "impressions": 11,
+      "impressions": 10,
       "ctr": 0,
-      "position": 8.2
+      "position": 8.5
+    },
+    {
+      "label": "https://www.kouver.fr/simulateur-restaurant/",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 9
     },
     {
       "label": "https://www.kouver.fr/site-internet-restaurant-guide-abordable/",
