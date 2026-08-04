@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-08-03",
+  "generated_at": "2026-08-04",
   "period": [
-    "2026-07-03",
-    "2026-07-31"
+    "2026-07-04",
+    "2026-08-01"
   ],
   "rows": [
     {
       "label": "https://www.kouver.fr/",
-      "clicks": 196,
-      "impressions": 3975,
-      "ctr": 4.93,
-      "position": 35.5
+      "clicks": 191,
+      "impressions": 4143,
+      "ctr": 4.61,
+      "position": 36.7
     },
     {
       "label": "https://www.kouver.fr/logiciel-de-reservation-restaurant/",
-      "clicks": 90,
-      "impressions": 6026,
-      "ctr": 1.49,
+      "clicks": 86,
+      "impressions": 6016,
+      "ctr": 1.43,
       "position": 7.5
     },
     {
       "label": "https://www.kouver.fr/nos-solutions/",
-      "clicks": 27,
-      "impressions": 567,
-      "ctr": 4.76,
-      "position": 3.5
+      "clicks": 26,
+      "impressions": 560,
+      "ctr": 4.64,
+      "position": 3.6
     },
     {
       "label": "https://www.kouver.fr/alternative-thefork/",
@@ -36,8 +36,8 @@
     {
       "label": "https://www.kouver.fr/ia-reservation-restaurant/",
       "clicks": 11,
-      "impressions": 427,
-      "ctr": 2.58,
+      "impressions": 416,
+      "ctr": 2.64,
       "position": 2.4
     },
     {
@@ -55,53 +55,53 @@
       "position": 5.5
     },
     {
-      "label": "https://www.kouver.fr/mentions-legales/",
-      "clicks": 3,
-      "impressions": 185,
-      "ctr": 1.62,
-      "position": 7.9
-    },
-    {
       "label": "https://www.kouver.fr/alternative-a-yumcall/",
       "clicks": 2,
-      "impressions": 99,
-      "ctr": 2.02,
+      "impressions": 101,
+      "ctr": 1.98,
       "position": 4.6
     },
     {
       "label": "https://www.kouver.fr/alternative-a-zenchef/",
       "clicks": 2,
-      "impressions": 93,
-      "ctr": 2.15,
-      "position": 8.3
+      "impressions": 106,
+      "ctr": 1.89,
+      "position": 8.2
+    },
+    {
+      "label": "https://www.kouver.fr/brasa-restaurant/",
+      "clicks": 2,
+      "impressions": 24,
+      "ctr": 8.33,
+      "position": 4.1
     },
     {
       "label": "https://www.kouver.fr/cahier-de-reservation-digital/",
       "clicks": 2,
-      "impressions": 157,
-      "ctr": 1.27,
+      "impressions": 153,
+      "ctr": 1.31,
       "position": 6.7
+    },
+    {
+      "label": "https://www.kouver.fr/mentions-legales/",
+      "clicks": 2,
+      "impressions": 168,
+      "ctr": 1.19,
+      "position": 8.3
     },
     {
       "label": "https://www.kouver.fr/partenariat-kouver-x-cashpad/",
       "clicks": 2,
-      "impressions": 49,
-      "ctr": 4.08,
-      "position": 5.6
+      "impressions": 45,
+      "ctr": 4.44,
+      "position": 5.7
     },
     {
       "label": "https://www.kouver.fr/faq/",
       "clicks": 1,
-      "impressions": 377,
-      "ctr": 0.27,
+      "impressions": 359,
+      "ctr": 0.28,
       "position": 1.8
-    },
-    {
-      "label": "https://www.kouver.fr/fidelisation-client-restaurant/",
-      "clicks": 1,
-      "impressions": 107,
-      "ctr": 0.93,
-      "position": 6.7
     },
     {
       "label": "https://www.kouver.fr/guide-ultime-avis-google-restaurant/",
@@ -120,23 +120,51 @@
     {
       "label": "https://www.kouver.fr/menu-qr-code-restaurant-gestion-simplifiee/",
       "clicks": 1,
-      "impressions": 166,
-      "ctr": 0.6,
-      "position": 10.1
+      "impressions": 171,
+      "ctr": 0.58,
+      "position": 10.0
     },
     {
       "label": "https://www.kouver.fr/privatiser-restaurant-groupe-strategie/",
       "clicks": 1,
-      "impressions": 24,
-      "ctr": 4.17,
-      "position": 6.0
+      "impressions": 26,
+      "ctr": 3.85,
+      "position": 6.2
     },
     {
       "label": "https://www.kouver.fr/rentabilite-click-and-collect-restaurant/",
       "clicks": 1,
-      "impressions": 64,
-      "ctr": 1.56,
-      "position": 8.5
+      "impressions": 58,
+      "ctr": 1.72,
+      "position": 8.9
+    },
+    {
+      "label": "https://www.kouver.fr/2-potes-au-feu/",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 12
+    },
+    {
+      "label": "https://www.kouver.fr/activer-reservation-google-restaurant/",
+      "clicks": 0,
+      "impressions": 14,
+      "ctr": 0,
+      "position": 9.9
+    },
+    {
+      "label": "https://www.kouver.fr/adresses/4-44-bar-lounge/",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 31
+    },
+    {
+      "label": "https://www.kouver.fr/alternative-a-guestonline/",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 5.3
     },
     {
       "label": "https://www.kouver.fr/alternative-a-overfull/",
@@ -148,7 +176,7 @@
     {
       "label": "https://www.kouver.fr/alternative-a-sevenrooms/",
       "clicks": 0,
-      "impressions": 42,
+      "impressions": 44,
       "ctr": 0,
       "position": 7.3
     },
@@ -160,11 +188,25 @@
       "position": 5.8
     },
     {
+      "label": "https://www.kouver.fr/artn-blum/",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 12
+    },
+    {
       "label": "https://www.kouver.fr/attirer-les-clients-devenez-l-adresse-incontournable/",
       "clicks": 0,
       "impressions": 2,
       "ctr": 0,
       "position": 3.5
+    },
+    {
+      "label": "https://www.kouver.fr/augmenter-ticket-moyen-restaurant/",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 17.6
     },
     {
       "label": "https://www.kouver.fr/cahier-de-reservation-papier/",
@@ -174,11 +216,18 @@
       "position": 6
     },
     {
+      "label": "https://www.kouver.fr/chez-hubert-creperie/",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 7
+    },
+    {
       "label": "https://www.kouver.fr/comment-eviter-les-no-show-en-restauration/",
       "clicks": 0,
-      "impressions": 13,
+      "impressions": 12,
       "ctr": 0,
-      "position": 5.9
+      "position": 6.1
     },
     {
       "label": "https://www.kouver.fr/comparatif-logiciel-zenchef-vs-kouver/",
@@ -190,37 +239,44 @@
     {
       "label": "https://www.kouver.fr/confirmation-automatique-reservation-restaurant/",
       "clicks": 0,
-      "impressions": 1,
+      "impressions": 3,
       "ctr": 0,
-      "position": 2
+      "position": 4.7
     },
     {
       "label": "https://www.kouver.fr/empreinte-bancaire-no-show-restaurant/",
       "clicks": 0,
-      "impressions": 104,
+      "impressions": 106,
       "ctr": 0,
-      "position": 6.3
+      "position": 6.4
     },
     {
       "label": "https://www.kouver.fr/fiche-google-restaurant-bouton-reserver/",
       "clicks": 0,
-      "impressions": 56,
+      "impressions": 51,
       "ctr": 0,
-      "position": 7.4
+      "position": 7.6
     },
     {
       "label": "https://www.kouver.fr/fiche-google-restaurant-clients/",
       "clicks": 0,
       "impressions": 53,
       "ctr": 0,
-      "position": 14.7
+      "position": 14.5
+    },
+    {
+      "label": "https://www.kouver.fr/fidelisation-client-restaurant/",
+      "clicks": 0,
+      "impressions": 100,
+      "ctr": 0,
+      "position": 6.8
     },
     {
       "label": "https://www.kouver.fr/franchises-francaises/",
       "clicks": 0,
-      "impressions": 28,
+      "impressions": 30,
       "ctr": 0,
-      "position": 13.8
+      "position": 14.4
     },
     {
       "label": "https://www.kouver.fr/gerer-avis-negatifs-google-restaurant/",
@@ -230,11 +286,53 @@
       "position": 10.1
     },
     {
+      "label": "https://www.kouver.fr/goudale-bethune-restaurant/",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 5
+    },
+    {
+      "label": "https://www.kouver.fr/guide-fermeture-exceptionnelle-restaurant/",
+      "clicks": 0,
+      "impressions": 17,
+      "ctr": 0,
+      "position": 7.7
+    },
+    {
       "label": "https://www.kouver.fr/instagram-clients-restaurant/",
       "clicks": 0,
-      "impressions": 40,
+      "impressions": 20,
       "ctr": 0,
-      "position": 4.9
+      "position": 5.4
+    },
+    {
+      "label": "https://www.kouver.fr/le-sylva-restaurant/",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 5
+    },
+    {
+      "label": "https://www.kouver.fr/le-velvet-restaurant/",
+      "clicks": 0,
+      "impressions": 16,
+      "ctr": 0,
+      "position": 7.2
+    },
+    {
+      "label": "https://www.kouver.fr/le-vespa-des-carmes/",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 10.2
+    },
+    {
+      "label": "https://www.kouver.fr/liste-attente-restaurant-efficace/",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 15.8
     },
     {
       "label": "https://www.kouver.fr/logiciel-de-reservation-restaurant",
@@ -253,9 +351,9 @@
     {
       "label": "https://www.kouver.fr/maitriser-prix-menu-restaurant/",
       "clicks": 0,
-      "impressions": 23,
+      "impressions": 28,
       "ctr": 0,
-      "position": 7.8
+      "position": 8.3
     },
     {
       "label": "https://www.kouver.fr/mise-en-place/",
@@ -274,9 +372,9 @@
     {
       "label": "https://www.kouver.fr/outils-gestion-restaurant-indispensables/",
       "clicks": 0,
-      "impressions": 11,
+      "impressions": 12,
       "ctr": 0,
-      "position": 25.7
+      "position": 26.4
     },
     {
       "label": "https://www.kouver.fr/ouvrir-un-restaurant/",
@@ -295,14 +393,14 @@
     {
       "label": "https://www.kouver.fr/simulateur-restaurant/",
       "clicks": 0,
-      "impressions": 5,
+      "impressions": 9,
       "ctr": 0,
-      "position": 15.6
+      "position": 9.9
     },
     {
       "label": "https://www.kouver.fr/site-internet-restaurant-guide-abordable/",
       "clicks": 0,
-      "impressions": 112,
+      "impressions": 108,
       "ctr": 0,
       "position": 7.7
     }
