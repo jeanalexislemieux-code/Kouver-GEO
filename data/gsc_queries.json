@@ -1,85 +1,78 @@
 {
-  "generated_at": "2026-08-08",
+  "generated_at": "2026-08-09",
   "period": [
-    "2026-07-08",
-    "2026-08-05"
+    "2026-07-09",
+    "2026-08-06"
   ],
   "rows": [
     {
       "label": "kouver",
-      "clicks": 169,
-      "impressions": 403,
-      "ctr": 41.94,
+      "clicks": 165,
+      "impressions": 382,
+      "ctr": 43.19,
       "position": 1.8
     },
     {
       "label": "koover",
-      "clicks": 8,
-      "impressions": 22,
-      "ctr": 36.36,
+      "clicks": 9,
+      "impressions": 23,
+      "ctr": 39.13,
       "position": 2.2
     },
     {
       "label": "logiciel de réservation restaurant",
       "clicks": 8,
-      "impressions": 393,
-      "ctr": 2.04,
+      "impressions": 399,
+      "ctr": 2.01,
       "position": 2.9
     },
     {
       "label": "systeme de reservation restaurant",
       "clicks": 7,
-      "impressions": 116,
-      "ctr": 6.03,
+      "impressions": 119,
+      "ctr": 5.88,
       "position": 2.2
     },
     {
       "label": "logiciel reservation restaurant",
       "clicks": 5,
-      "impressions": 139,
-      "ctr": 3.6,
+      "impressions": 137,
+      "ctr": 3.65,
       "position": 3.3
     },
     {
       "label": "alternative thefork",
-      "clicks": 3,
-      "impressions": 67,
-      "ctr": 4.48,
+      "clicks": 2,
+      "impressions": 69,
+      "ctr": 2.9,
       "position": 1.7
     },
     {
       "label": "brasa quimper",
       "clicks": 2,
-      "impressions": 74,
-      "ctr": 2.7,
-      "position": 4.3
-    },
-    {
-      "label": "logiciel réservation restaurant",
-      "clicks": 2,
-      "impressions": 121,
-      "ctr": 1.65,
-      "position": 2.1
+      "impressions": 90,
+      "ctr": 2.22,
+      "position": 4.6
     },
     {
       "label": "systeme reservation restaurant",
       "clicks": 2,
-      "impressions": 57,
-      "ctr": 3.51,
+      "impressions": 55,
+      "ctr": 3.64,
       "position": 3.1
     },
     {
       "label": "système de réservation pour restaurant",
       "clicks": 2,
-      "impressions": 54,
-      "ctr": 3.7,
-      "position": 4.5
+      "impressions": 55,
+      "ctr": 3.64,
+      "position": 4.3
     },
     {
       "label": "the fork alternative",
       "clicks": 2,
-      "impressions": 8,
-      "ctr": 25.0,
+      "impressions": 7,
+      "ctr": 28.57,
       "position": 1.4
     },
     {
@@ -92,23 +85,23 @@
     {
       "label": "application reservation",
       "clicks": 1,
-      "impressions": 6,
-      "ctr": 16.67,
-      "position": 7.8
+      "impressions": 5,
+      "ctr": 20.0,
+      "position": 8
     },
     {
       "label": "application reservation restaurant",
       "clicks": 1,
-      "impressions": 33,
-      "ctr": 3.03,
+      "impressions": 34,
+      "ctr": 2.94,
       "position": 11.4
     },
     {
       "label": "bistrot suzette nantes",
       "clicks": 1,
-      "impressions": 20,
-      "ctr": 5.0,
-      "position": 6.2
+      "impressions": 22,
+      "ctr": 4.55,
+      "position": 6.1
     },
     {
       "label": "braza restaurant",
@@ -120,37 +113,37 @@
     {
       "label": "chez hubert le mans",
       "clicks": 1,
-      "impressions": 117,
-      "ctr": 0.85,
-      "position": 7.7
+      "impressions": 147,
+      "ctr": 0.68,
+      "position": 7.6
     },
     {
       "label": "code gerer un restaurant",
       "clicks": 1,
-      "impressions": 7,
-      "ctr": 14.29,
-      "position": 7
+      "impressions": 5,
+      "ctr": 20.0,
+      "position": 6.6
     },
     {
       "label": "concurrent zenchef",
       "clicks": 1,
-      "impressions": 20,
-      "ctr": 5.0,
-      "position": 9.8
+      "impressions": 22,
+      "ctr": 4.55,
+      "position": 9.9
     },
     {
       "label": "creperie vieux mans",
       "clicks": 1,
-      "impressions": 4,
-      "ctr": 25.0,
-      "position": 12.2
+      "impressions": 6,
+      "ctr": 16.67,
+      "position": 11.8
     },
     {
       "label": "crêperie chez hubert le mans",
       "clicks": 1,
-      "impressions": 4,
-      "ctr": 25.0,
-      "position": 5
+      "impressions": 6,
+      "ctr": 16.67,
+      "position": 5.5
     },
     {
       "label": "dousto",
@@ -162,16 +155,16 @@
     {
       "label": "food collect",
       "clicks": 1,
-      "impressions": 91,
-      "ctr": 1.1,
-      "position": 7.2
+      "impressions": 93,
+      "ctr": 1.08,
+      "position": 7.1
     },
     {
       "label": "gestion reservation restaurant",
       "clicks": 1,
-      "impressions": 21,
-      "ctr": 4.76,
-      "position": 8.3
+      "impressions": 22,
+      "ctr": 4.55,
+      "position": 8.4
     },
     {
       "label": "guestonline",
@@ -181,11 +174,11 @@
       "position": 7.6
     },
     {
-      "label": "guillaume touchard",
+      "label": "la vespa des carmes",
       "clicks": 1,
-      "impressions": 10,
-      "ctr": 10.0,
-      "position": 8.9
+      "impressions": 61,
+      "ctr": 1.64,
+      "position": 6.6
     },
     {
       "label": "le brasa",
@@ -197,30 +190,30 @@
     {
       "label": "le velvet restaurant nantes",
       "clicks": 1,
-      "impressions": 32,
-      "ctr": 3.12,
-      "position": 8.6
+      "impressions": 37,
+      "ctr": 2.7,
+      "position": 8.9
     },
     {
       "label": "logiciel de reservation en ligne restaurant",
       "clicks": 1,
-      "impressions": 20,
-      "ctr": 5.0,
+      "impressions": 19,
+      "ctr": 5.26,
       "position": 5.8
     },
     {
       "label": "logiciel gestion réservation restaurant",
       "clicks": 1,
-      "impressions": 22,
-      "ctr": 4.55,
-      "position": 1.7
+      "impressions": 23,
+      "ctr": 4.35,
+      "position": 1.8
     },
     {
-      "label": "logiciel reservation",
+      "label": "logiciel réservation restaurant",
       "clicks": 1,
-      "impressions": 11,
-      "ctr": 9.09,
-      "position": 8.6
+      "impressions": 127,
+      "ctr": 0.79,
+      "position": 2.1
     },
     {
       "label": "melon nantes",
@@ -253,22 +246,22 @@
     {
       "label": "solution réservation restaurant",
       "clicks": 1,
-      "impressions": 36,
-      "ctr": 2.78,
+      "impressions": 35,
+      "ctr": 2.86,
       "position": 1.4
     },
     {
       "label": "systeme de reservation pour restaurant",
       "clicks": 1,
-      "impressions": 51,
-      "ctr": 1.96,
-      "position": 3.5
+      "impressions": 53,
+      "ctr": 1.89,
+      "position": 3.4
     },
     {
       "label": "yumcall",
       "clicks": 1,
-      "impressions": 88,
-      "ctr": 1.14,
+      "impressions": 90,
+      "ctr": 1.11,
       "position": 4.3
     },
     {
@@ -323,9 +316,9 @@
     {
       "label": "1 2 3 restaurant",
       "clicks": 0,
-      "impressions": 4,
+      "impressions": 3,
       "ctr": 0,
-      "position": 31
+      "position": 37.3
     },
     {
       "label": "10 ours polaires",
@@ -335,32 +328,67 @@
       "position": 68
     },
     {
-      "label": "100 patates augny",
+      "label": "100 couverts menu",
       "clicks": 0,
       "impressions": 1,
       "ctr": 0,
-      "position": 67
+      "position": 34
+    },
+    {
+      "label": "100 culottes",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 47
+    },
+    {
+      "label": "100 patates augny",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 64
     },
     {
       "label": "1001 restaurant",
       "clicks": 0,
-      "impressions": 1,
+      "impressions": 2,
       "ctr": 0,
-      "position": 20
+      "position": 35
     },
     {
       "label": "104 restaurant",
       "clicks": 0,
-      "impressions": 2,
+      "impressions": 3,
       "ctr": 0,
-      "position": 48.5
+      "position": 48.3
     },
     {
       "label": "107 anzin",
       "clicks": 0,
       "impressions": 2,
       "ctr": 0,
-      "position": 30
+      "position": 35.5
+    },
+    {
+      "label": "116 pages",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 64
+    },
+    {
+      "label": "1227 vienne",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 56
+    },
+    {
+      "label": "123 restaurant",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 46
     },
     {
       "label": "129 cergy",
@@ -412,9 +440,23 @@
       "position": 70
     },
     {
+      "label": "1920 restaurant",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 62
+    },
+    {
+      "label": "1973 val de reuil",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 41
+    },
+    {
       "label": "2 potes au feu",
       "clicks": 0,
-      "impressions": 16,
+      "impressions": 21,
       "ctr": 0,
       "position": 8.9
     },
@@ -428,7 +470,7 @@
     {
       "label": "2 potes au feu nantes",
       "clicks": 0,
-      "impressions": 10,
+      "impressions": 12,
       "ctr": 0,
       "position": 8.3
     },
@@ -454,11 +496,46 @@
       "position": 31
     },
     {
+      "label": "225 restaurant",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 72
+    },
+    {
+      "label": "30€",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "label": "4 temps restaurant",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 39
+    },
+    {
       "label": "4.44 bar lounge",
       "clicks": 0,
       "impressions": 8,
       "ctr": 0,
       "position": 10.1
+    },
+    {
+      "label": "404 br",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 73
+    },
+    {
+      "label": "404 ferriere",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 57
     },
     {
       "label": "427 coustellet",
@@ -482,6 +559,13 @@
       "position": 12
     },
     {
+      "label": "47 bagatelle",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 20.5
+    },
+    {
       "label": "4u restaurant immersif",
       "clicks": 0,
       "impressions": 1,
@@ -494,6 +578,27 @@
       "impressions": 1,
       "ctr": 0,
       "position": 56
+    },
+    {
+      "label": "500 restaurant",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 33
+    },
+    {
+      "label": "51 restaurant",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 77
+    },
+    {
+      "label": "589 bay",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 49
     },
     {
       "label": "666 privas",
@@ -510,11 +615,39 @@
       "position": 55
     },
     {
+      "label": "7 ici restaurant",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 20
+    },
+    {
       "label": "7 numbers restaurant",
       "clicks": 0,
       "impressions": 1,
       "ctr": 0,
       "position": 48
+    },
+    {
+      "label": "72 restaurant",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 62
+    },
+    {
+      "label": "75 restaurant",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 76
+    },
+    {
+      "label": "750 grammes restaurant",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 68
     },
     {
       "label": "750 restaurant",
@@ -526,9 +659,23 @@
     {
       "label": "770 charenton",
       "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 59
+    },
+    {
+      "label": "786 barbes",
+      "clicks": 0,
       "impressions": 1,
       "ctr": 0,
-      "position": 62
+      "position": 54
+    },
+    {
+      "label": "7eme epice",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 80
     },
     {
       "label": "7ici restaurant",
@@ -543,6 +690,13 @@
       "impressions": 2,
       "ctr": 0,
       "position": 36
+    },
+    {
+      "label": "9 et voisins",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 49
     },
     {
       "label": "90 restaurant",
@@ -594,6 +748,20 @@
       "position": 41
     },
     {
+      "label": "a sciez toi",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 56
+    },
+    {
+      "label": "a table torcé",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 44
+    },
+    {
       "label": "a verse toujours",
       "clicks": 0,
       "impressions": 2,
@@ -601,11 +769,18 @@
       "position": 72.5
     },
     {
-      "label": "acapulco carry",
+      "label": "abou sakina",
       "clicks": 0,
       "impressions": 1,
       "ctr": 0,
-      "position": 24
+      "position": 40
+    },
+    {
+      "label": "acapulco carry",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 38.5
     },
     {
       "label": "accès soir",
@@ -615,18 +790,25 @@
       "position": 55
     },
     {
-      "label": "agenda reservation restaurant",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 2
-    },
-    {
       "label": "alacarte direct",
       "clicks": 0,
       "impressions": 3,
       "ctr": 0,
       "position": 38.7
+    },
+    {
+      "label": "albizia orvault",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 53
+    },
+    {
+      "label": "alex taminet",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 35
     },
     {
       "label": "alice et karlito",
@@ -659,9 +841,16 @@
     {
       "label": "allo jeffrey",
       "clicks": 0,
-      "impressions": 2,
+      "impressions": 3,
       "ctr": 0,
-      "position": 50.5
+      "position": 50
+    },
+    {
+      "label": "allo mon coco",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 79
     },
     {
       "label": "allocodream",
@@ -680,9 +869,16 @@
     {
       "label": "alloresto",
       "clicks": 0,
-      "impressions": 2,
+      "impressions": 3,
       "ctr": 0,
-      "position": 60
+      "position": 62.7
+    },
+    {
+      "label": "alloresto fr",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 35
     },
     {
       "label": "allyoucaneat",
@@ -690,6 +886,20 @@
       "impressions": 1,
       "ctr": 0,
       "position": 8
+    },
+    {
+      "label": "alma nikkei food & drinks",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 52
+    },
+    {
+      "label": "alter native",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 56
     },
     {
       "label": "alternative guestonline",
@@ -701,7 +911,7 @@
     {
       "label": "alternative lafourchette",
       "clicks": 0,
-      "impressions": 15,
+      "impressions": 16,
       "ctr": 0,
       "position": 1.7
     },
@@ -736,9 +946,9 @@
     {
       "label": "alternative the fork restaurateur",
       "clicks": 0,
-      "impressions": 12,
+      "impressions": 13,
       "ctr": 0,
-      "position": 4.2
+      "position": 4
     },
     {
       "label": "alternative thefork site propre",
@@ -750,9 +960,9 @@
     {
       "label": "alternative zenchef",
       "clicks": 0,
-      "impressions": 38,
+      "impressions": 43,
       "ctr": 0,
-      "position": 8.9
+      "position": 8.5
     },
     {
       "label": "alternatives to chef",
@@ -776,11 +986,18 @@
       "position": 57
     },
     {
+      "label": "ambigu restaurant",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 39
+    },
+    {
       "label": "amuse restaurant",
       "clicks": 0,
-      "impressions": 4,
+      "impressions": 3,
       "ctr": 0,
-      "position": 36.8
+      "position": 38.3
     },
     {
       "label": "amzer zo",
@@ -883,7 +1100,7 @@
     {
       "label": "application gestion réservation restaurant",
       "clicks": 0,
-      "impressions": 40,
+      "impressions": 39,
       "ctr": 0,
       "position": 4.4
     },
@@ -897,7 +1114,7 @@
     {
       "label": "application réservation restaurant",
       "clicks": 0,
-      "impressions": 43,
+      "impressions": 45,
       "ctr": 0,
       "position": 11.5
     },
@@ -916,11 +1133,25 @@
       "position": 74.5
     },
     {
-      "label": "arcadius tassin",
+      "label": "ar kastell quintin",
       "clicks": 0,
       "impressions": 1,
       "ctr": 0,
-      "position": 59
+      "position": 64
+    },
+    {
+      "label": "ar ty mad",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 59.8
+    },
+    {
+      "label": "arcadius tassin",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 54.5
     },
     {
       "label": "ardi beltza",
@@ -935,6 +1166,20 @@
       "impressions": 1,
       "ctr": 0,
       "position": 61
+    },
+    {
+      "label": "arizona restaurant",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 66
+    },
+    {
+      "label": "arlequin ussel",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 66
     },
     {
       "label": "art and bloom",
@@ -986,6 +1231,13 @@
       "position": 7.8
     },
     {
+      "label": "artemis la queue",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 40
+    },
+    {
       "label": "artn blum",
       "clicks": 0,
       "impressions": 1,
@@ -998,6 +1250,27 @@
       "impressions": 1,
       "ctr": 0,
       "position": 73
+    },
+    {
+      "label": "atelier 631",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 62
+    },
+    {
+      "label": "atelier du 84",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 63.5
+    },
+    {
+      "label": "attablez-vous",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 43
     },
     {
       "label": "au 49 chez gwen et alex",
@@ -1021,11 +1294,11 @@
       "position": 71
     },
     {
-      "label": "au cha l'heureux",
+      "label": "au coin d'table menu",
       "clicks": 0,
       "impressions": 1,
       "ctr": 0,
-      "position": 90
+      "position": 54
     },
     {
       "label": "au comptoir bis",
@@ -1056,6 +1329,41 @@
       "position": 64
     },
     {
+      "label": "au feu de bois maison hector menu",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 48
+    },
+    {
+      "label": "au fil de l'indre menu",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 40
+    },
+    {
+      "label": "au gubernatis",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 66
+    },
+    {
+      "label": "au lapin qui fume",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 65
+    },
+    {
+      "label": "au négociant alençon",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 61
+    },
+    {
       "label": "au p'tit lorginois",
       "clicks": 0,
       "impressions": 1,
@@ -1063,11 +1371,25 @@
       "position": 48
     },
     {
+      "label": "au p'tit muntz menu",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 64
+    },
+    {
       "label": "au pais morlaas",
       "clicks": 0,
       "impressions": 1,
       "ctr": 0,
       "position": 69
+    },
+    {
+      "label": "au plaisir cuisiné",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 77
     },
     {
       "label": "au ptit chariot",
@@ -1084,6 +1406,13 @@
       "position": 70
     },
     {
+      "label": "au temps passé menu",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 34
+    },
+    {
       "label": "au-404-br",
       "clicks": 0,
       "impressions": 1,
@@ -1096,6 +1425,13 @@
       "impressions": 1,
       "ctr": 0,
       "position": 74
+    },
+    {
+      "label": "auberzinc",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 56
     },
     {
       "label": "augmenter réservation restaurant instagram",
@@ -1112,11 +1448,32 @@
       "position": 11.6
     },
     {
+      "label": "aujourd'hui demain menu",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 44
+    },
+    {
       "label": "autant ici qu'ailleurs",
       "clicks": 0,
       "impressions": 1,
       "ctr": 0,
       "position": 80
+    },
+    {
+      "label": "authentic villepinte",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 56
+    },
+    {
+      "label": "authentique villepinte",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 61
     },
     {
       "label": "automatisation des réservations",
@@ -1154,6 +1511,13 @@
       "position": 81
     },
     {
+      "label": "aux roulants",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 49.5
+    },
+    {
       "label": "avantage site internet restaurant",
       "clicks": 0,
       "impressions": 1,
@@ -1175,6 +1539,13 @@
       "position": 6.6
     },
     {
+      "label": "avel zo pleubian",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 59.5
+    },
+    {
       "label": "avis google restaurant",
       "clicks": 0,
       "impressions": 1,
@@ -1184,9 +1555,9 @@
     {
       "label": "avis logiciel réservation restaurant",
       "clicks": 0,
-      "impressions": 21,
+      "impressions": 20,
       "ctr": 0,
-      "position": 2.4
+      "position": 2.5
     },
     {
       "label": "avis negatifs restaurant",
@@ -1212,14 +1583,14 @@
     {
       "label": "avis sur brasa quimper",
       "clicks": 0,
-      "impressions": 35,
+      "impressions": 47,
       "ctr": 0,
       "position": 2.1
     },
     {
       "label": "avis sur chez hubert le mans",
       "clicks": 0,
-      "impressions": 18,
+      "impressions": 24,
       "ctr": 0,
       "position": 3.6
     },
@@ -1254,9 +1625,9 @@
     {
       "label": "avis sur le kashmir nantes",
       "clicks": 0,
-      "impressions": 8,
+      "impressions": 11,
       "ctr": 0,
-      "position": 7.9
+      "position": 8
     },
     {
       "label": "avis sur le patio'nnément",
@@ -1275,7 +1646,7 @@
     {
       "label": "avis sur le velvet restaurant",
       "clicks": 0,
-      "impressions": 38,
+      "impressions": 41,
       "ctr": 0,
       "position": 6.8
     },
@@ -1343,6 +1714,13 @@
       "position": 70
     },
     {
+      "label": "bar 138",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 74
+    },
+    {
       "label": "bar cocktail nantes",
       "clicks": 0,
       "impressions": 1,
@@ -1350,11 +1728,32 @@
       "position": 55
     },
     {
+      "label": "bar du matin",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 86
+    },
+    {
       "label": "bar jiuba laurier",
       "clicks": 0,
       "impressions": 1,
       "ctr": 0,
       "position": 61
+    },
+    {
+      "label": "bar le quiou",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 47
+    },
+    {
+      "label": "baron lefevre",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 90
     },
     {
       "label": "baron lefèvre",
@@ -1394,9 +1793,9 @@
     {
       "label": "bean cergy",
       "clicks": 0,
-      "impressions": 2,
+      "impressions": 3,
       "ctr": 0,
-      "position": 64
+      "position": 63.3
     },
     {
       "label": "beaucoup restaurant",
@@ -1411,6 +1810,13 @@
       "impressions": 2,
       "ctr": 0,
       "position": 55
+    },
+    {
+      "label": "becon les granits restaurant",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 68
     },
     {
       "label": "bee bop thouars",
@@ -1448,6 +1854,41 @@
       "position": 71
     },
     {
+      "label": "belinda orsay",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 63
+    },
+    {
+      "label": "benjamin dissay",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 56
+    },
+    {
+      "label": "benjamin restaurant",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 60
+    },
+    {
+      "label": "benson kfe",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 52
+    },
+    {
+      "label": "bernie et vincent table gourmande menu",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 54
+    },
+    {
       "label": "betheavone",
       "clicks": 0,
       "impressions": 1,
@@ -1455,11 +1896,53 @@
       "position": 28
     },
     {
+      "label": "betises et volupté",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 82
+    },
+    {
+      "label": "better restaurant",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 55
+    },
+    {
+      "label": "beyit jedo",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 45
+    },
+    {
+      "label": "beyti restaurant",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 65
+    },
+    {
       "label": "bezu saint eloi restaurant",
       "clicks": 0,
       "impressions": 1,
       "ctr": 0,
       "position": 50
+    },
+    {
+      "label": "bibimerie",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 74
+    },
+    {
+      "label": "bien bien restaurant",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 55
     },
     {
       "label": "bien boire et manger",
@@ -1478,9 +1961,9 @@
     {
       "label": "bijou restaurant",
       "clicks": 0,
-      "impressions": 2,
+      "impressions": 3,
       "ctr": 0,
-      "position": 75
+      "position": 71.3
     },
     {
       "label": "bilagoon",
@@ -1495,6 +1978,13 @@
       "impressions": 5,
       "ctr": 0,
       "position": 39.2
+    },
+    {
+      "label": "binjamin dissay",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 60
     },
     {
       "label": "binomio restaurant",
@@ -1539,6 +2029,20 @@
       "position": 8.8
     },
     {
+      "label": "bistrot d lao",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 57
+    },
+    {
+      "label": "bistrot d'lao",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 56
+    },
+    {
       "label": "bistrot koï",
       "clicks": 0,
       "impressions": 2,
@@ -1555,7 +2059,7 @@
     {
       "label": "bistrot suzette",
       "clicks": 0,
-      "impressions": 1,
+      "impressions": 2,
       "ctr": 0,
       "position": 10
     },
@@ -1565,6 +2069,13 @@
       "impressions": 1,
       "ctr": 0,
       "position": 54
+    },
+    {
+      "label": "bizi restaurant",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 42
     },
     {
       "label": "bizi st pee",
@@ -1665,6 +2176,13 @@
       "position": 84
     },
     {
+      "label": "bodeguita cubana",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 59
+    },
+    {
       "label": "boissiere express",
       "clicks": 0,
       "impressions": 3,
@@ -1674,9 +2192,9 @@
     {
       "label": "boite restaurant",
       "clicks": 0,
-      "impressions": 2,
+      "impressions": 3,
       "ctr": 0,
-      "position": 41.5
+      "position": 48.7
     },
     {
       "label": "boketto saint mathieu",
@@ -1693,18 +2211,46 @@
       "position": 89
     },
     {
+      "label": "bokit nantes",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 53
+    },
+    {
       "label": "bombastic restaurant",
       "clicks": 0,
-      "impressions": 2,
+      "impressions": 1,
       "ctr": 0,
-      "position": 77.5
+      "position": 57
+    },
+    {
+      "label": "bombay chateauroux",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 64
+    },
+    {
+      "label": "bon app plaisir",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 53
     },
     {
       "label": "bonjour menu",
       "clicks": 0,
-      "impressions": 7,
+      "impressions": 4,
       "ctr": 0,
-      "position": 33.3
+      "position": 28.8
+    },
+    {
+      "label": "bonjour restaurant",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 44
     },
     {
       "label": "bookie restaurant",
@@ -1721,6 +2267,20 @@
       "position": 73
     },
     {
+      "label": "botanist pub",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 64
+    },
+    {
+      "label": "boucanier sete",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 65
+    },
+    {
       "label": "bouillon coudray",
       "clicks": 0,
       "impressions": 1,
@@ -1730,9 +2290,16 @@
     {
       "label": "bounty sarreguemines",
       "clicks": 0,
-      "impressions": 2,
+      "impressions": 3,
       "ctr": 0,
-      "position": 71.5
+      "position": 67.7
+    },
+    {
+      "label": "bouquet garni la chapelle",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 73
     },
     {
       "label": "bouton réserver google restaurant",
@@ -1740,6 +2307,13 @@
       "impressions": 12,
       "ctr": 0,
       "position": 8.6
+    },
+    {
+      "label": "box sociaal",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 81
     },
     {
       "label": "boîte restaurant",
@@ -1763,6 +2337,20 @@
       "position": 11.5
     },
     {
+      "label": "brasserie carte",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 62
+    },
+    {
+      "label": "brasserie de la ligue",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 63
+    },
+    {
       "label": "brasserie delapile",
       "clicks": 0,
       "impressions": 1,
@@ -1784,6 +2372,13 @@
       "position": 10
     },
     {
+      "label": "brasserie iraty",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 50
+    },
+    {
       "label": "brasserie izem",
       "clicks": 0,
       "impressions": 1,
@@ -1791,11 +2386,32 @@
       "position": 65
     },
     {
+      "label": "brasserie le 5",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 72
+    },
+    {
       "label": "brasserie le 7",
       "clicks": 0,
       "impressions": 1,
       "ctr": 0,
       "position": 52
+    },
+    {
+      "label": "brasserie le cocopat",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 47
+    },
+    {
+      "label": "brasserie le daf",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 60
     },
     {
       "label": "brasserie le volant",
@@ -1833,6 +2449,13 @@
       "position": 50
     },
     {
+      "label": "brochetterie ludon",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 44
+    },
+    {
       "label": "bromance restaurant",
       "clicks": 0,
       "impressions": 1,
@@ -1849,9 +2472,9 @@
     {
       "label": "buffet à volonté plaisir",
       "clicks": 0,
-      "impressions": 1,
+      "impressions": 2,
       "ctr": 0,
-      "position": 42
+      "position": 65.5
     },
     {
       "label": "burger et terroir",
@@ -1889,11 +2512,25 @@
       "position": 71
     },
     {
-      "label": "buzz resto",
+      "label": "buvette wilson",
       "clicks": 0,
       "impressions": 1,
       "ctr": 0,
-      "position": 25
+      "position": 72
+    },
+    {
+      "label": "buzz diners",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 38
+    },
+    {
+      "label": "buzz resto",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 56
     },
     {
       "label": "by self restaurant",
@@ -1905,9 +2542,9 @@
     {
       "label": "c delices",
       "clicks": 0,
-      "impressions": 1,
+      "impressions": 2,
       "ctr": 0,
-      "position": 61
+      "position": 62
     },
     {
       "label": "c est mon plaisir",
@@ -1917,11 +2554,25 @@
       "position": 69
     },
     {
-      "label": "c la poz",
+      "label": "c heu l zib",
       "clicks": 0,
       "impressions": 1,
       "ctr": 0,
-      "position": 34
+      "position": 44
+    },
+    {
+      "label": "c la poz",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 39
+    },
+    {
+      "label": "c station berric",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 54
     },
     {
       "label": "cafe juste humain",
@@ -1938,11 +2589,32 @@
       "position": 83.5
     },
     {
+      "label": "cafe parme",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 69
+    },
+    {
+      "label": "cafe triplette",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 67
+    },
+    {
       "label": "cafeteria susy",
       "clicks": 0,
       "impressions": 1,
       "ctr": 0,
       "position": 55
+    },
+    {
+      "label": "cafetiere felee",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 57
     },
     {
       "label": "café au courrier",
@@ -1952,11 +2624,25 @@
       "position": 25.7
     },
     {
+      "label": "café bert",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 63
+    },
+    {
       "label": "café bizarre",
       "clicks": 0,
-      "impressions": 3,
+      "impressions": 4,
       "ctr": 0,
-      "position": 80.7
+      "position": 82.2
+    },
+    {
+      "label": "café de la liberté paillet",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 57
     },
     {
       "label": "café juste humain",
@@ -1966,11 +2652,39 @@
       "position": 70
     },
     {
+      "label": "café les ondes",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 69
+    },
+    {
       "label": "café loky",
       "clicks": 0,
       "impressions": 1,
       "ctr": 0,
       "position": 73
+    },
+    {
+      "label": "café menu",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 30
+    },
+    {
+      "label": "café subtil",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 71.5
+    },
+    {
+      "label": "cafétéria des éléphants",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 64
     },
     {
       "label": "cafétéria eris",
@@ -2010,9 +2724,9 @@
     {
       "label": "cahier de reservation restaurant",
       "clicks": 0,
-      "impressions": 2,
+      "impressions": 1,
       "ctr": 0,
-      "position": 7
+      "position": 11
     },
     {
       "label": "cahier de réservation",
@@ -2024,9 +2738,9 @@
     {
       "label": "cahier de réservation restaurant",
       "clicks": 0,
-      "impressions": 6,
+      "impressions": 4,
       "ctr": 0,
-      "position": 11.3
+      "position": 11.5
     },
     {
       "label": "cahier de réservation restaurant 2026",
@@ -2045,16 +2759,23 @@
     {
       "label": "cahier réservation restaurant digital",
       "clicks": 0,
-      "impressions": 5,
+      "impressions": 4,
       "ctr": 0,
-      "position": 3.6
+      "position": 3.8
+    },
+    {
+      "label": "caius pizzarium",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 51
     },
     {
       "label": "calcul commission réservation restaurant",
       "clicks": 0,
-      "impressions": 6,
+      "impressions": 7,
       "ctr": 0,
-      "position": 7.3
+      "position": 7.1
     },
     {
       "label": "canoun dou miejou",
@@ -2064,11 +2785,46 @@
       "position": 23
     },
     {
+      "label": "cantalbetz",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 37
+    },
+    {
+      "label": "cantine chic",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 73
+    },
+    {
+      "label": "cantine incognito",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 84
+    },
+    {
+      "label": "capitol bizet",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 67
+    },
+    {
       "label": "capitole bizet",
       "clicks": 0,
       "impressions": 1,
       "ctr": 0,
-      "position": 98
+      "position": 96
+    },
+    {
+      "label": "capizzi tourcoing",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 42.5
     },
     {
       "label": "caprice d'elci",
@@ -2076,6 +2832,13 @@
       "impressions": 1,
       "ctr": 0,
       "position": 58
+    },
+    {
+      "label": "caracoli biarritz",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 43
     },
     {
       "label": "cardamome chambourcy",
@@ -2094,9 +2857,9 @@
     {
       "label": "carnet de reservation restaurant",
       "clicks": 0,
-      "impressions": 7,
+      "impressions": 6,
       "ctr": 0,
-      "position": 9.1
+      "position": 10.2
     },
     {
       "label": "carre liberte",
@@ -2108,9 +2871,9 @@
     {
       "label": "carte brasserie",
       "clicks": 0,
-      "impressions": 1,
+      "impressions": 2,
       "ctr": 0,
-      "position": 60
+      "position": 59.5
     },
     {
       "label": "carte café",
@@ -2122,16 +2885,16 @@
     {
       "label": "carte de restaurant par qr code",
       "clicks": 0,
-      "impressions": 1,
+      "impressions": 2,
       "ctr": 0,
-      "position": 24
+      "position": 23.5
     },
     {
       "label": "carte du restaurant",
       "clicks": 0,
-      "impressions": 3,
+      "impressions": 9,
       "ctr": 0,
-      "position": 23.3
+      "position": 31
     },
     {
       "label": "casse-croute à proximité",
@@ -2139,6 +2902,27 @@
       "impressions": 1,
       "ctr": 0,
       "position": 92
+    },
+    {
+      "label": "castel july",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 78
+    },
+    {
+      "label": "casual restaurant",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 67
+    },
+    {
+      "label": "cauquiere le beausset",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 81.5
     },
     {
       "label": "cdamdam",
@@ -2174,6 +2958,20 @@
       "impressions": 1,
       "ctr": 0,
       "position": 19
+    },
+    {
+      "label": "ch ti boucanier",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 57
+    },
+    {
+      "label": "ch'ti boucanier",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 51
     },
     {
       "label": "chalet d'oc",
@@ -2230,6 +3028,20 @@
       "impressions": 1,
       "ctr": 0,
       "position": 27
+    },
+    {
+      "label": "cherry garden bourg saint maurice",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 54
+    },
+    {
+      "label": "chesterfield mouans sartoux",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 50
     },
     {
       "label": "chez amandine doullens",
@@ -2316,6 +3128,20 @@
       "position": 60
     },
     {
+      "label": "chez claudius",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 40
+    },
+    {
+      "label": "chez célou",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 57
+    },
+    {
       "label": "chez d'joo",
       "clicks": 0,
       "impressions": 1,
@@ -2351,11 +3177,25 @@
       "position": 32
     },
     {
+      "label": "chez dominique usseau",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 39
+    },
+    {
       "label": "chez donis",
       "clicks": 0,
       "impressions": 1,
       "ctr": 0,
       "position": 17
+    },
+    {
+      "label": "chez dudule",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 54.5
     },
     {
       "label": "chez enzito",
@@ -2377,6 +3217,13 @@
       "impressions": 1,
       "ctr": 0,
       "position": 53
+    },
+    {
+      "label": "chez fabrizio",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 56
     },
     {
       "label": "chez fouillette",
@@ -2456,18 +3303,25 @@
       "position": 43.5
     },
     {
-      "label": "chez hubert creperie",
+      "label": "chez helene ychoux",
       "clicks": 0,
       "impressions": 1,
       "ctr": 0,
-      "position": 4
+      "position": 48
+    },
+    {
+      "label": "chez hubert creperie",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 6
     },
     {
       "label": "chez hubert le mans menu",
       "clicks": 0,
-      "impressions": 5,
+      "impressions": 10,
       "ctr": 0,
-      "position": 5.2
+      "position": 5
     },
     {
       "label": "chez ilo le cannet",
@@ -2526,6 +3380,13 @@
       "position": 63
     },
     {
+      "label": "chez jeff pledran",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 48
+    },
+    {
       "label": "chez jj",
       "clicks": 0,
       "impressions": 1,
@@ -2568,11 +3429,18 @@
       "position": 38.5
     },
     {
+      "label": "chez jules desvres",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 64
+    },
+    {
       "label": "chez jules et tom",
       "clicks": 0,
       "impressions": 1,
       "ctr": 0,
-      "position": 31
+      "position": 57
     },
     {
       "label": "chez justin",
@@ -2584,9 +3452,16 @@
     {
       "label": "chez justin saint martin bellevue",
       "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 36.5
+    },
+    {
+      "label": "chez justin saint-martin-bellevue",
+      "clicks": 0,
       "impressions": 1,
       "ctr": 0,
-      "position": 39
+      "position": 33
     },
     {
       "label": "chez kiki cinq mars la pile",
@@ -2617,11 +3492,32 @@
       "position": 27
     },
     {
-      "label": "chez l'oranais",
+      "label": "chez l oranais",
       "clicks": 0,
       "impressions": 1,
       "ctr": 0,
-      "position": 46
+      "position": 53
+    },
+    {
+      "label": "chez l'oranais",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 49.5
+    },
+    {
+      "label": "chez la famille chrono",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 44.5
+    },
+    {
+      "label": "chez la moon",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 61
     },
     {
       "label": "chez laure",
@@ -2638,11 +3534,25 @@
       "position": 51
     },
     {
+      "label": "chez le zoreil",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 32
+    },
+    {
       "label": "chez les coincoins",
       "clicks": 0,
-      "impressions": 3,
+      "impressions": 2,
       "ctr": 0,
-      "position": 32.7
+      "position": 35.5
+    },
+    {
+      "label": "chez les copines",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 54
     },
     {
       "label": "chez liya",
@@ -2659,11 +3569,25 @@
       "position": 19
     },
     {
+      "label": "chez lolo ustaritz",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 37
+    },
+    {
       "label": "chez lucie bouillon",
       "clicks": 0,
       "impressions": 1,
       "ctr": 0,
       "position": 68
+    },
+    {
+      "label": "chez lucienne le palais",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 52
     },
     {
       "label": "chez lucky",
@@ -2710,9 +3634,9 @@
     {
       "label": "chez maurizio",
       "clicks": 0,
-      "impressions": 1,
+      "impressions": 2,
       "ctr": 0,
-      "position": 71
+      "position": 64
     },
     {
       "label": "chez meng",
@@ -2743,11 +3667,25 @@
       "position": 62
     },
     {
+      "label": "chez miloud",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 46
+    },
+    {
       "label": "chez minou",
       "clicks": 0,
       "impressions": 1,
       "ctr": 0,
       "position": 77
+    },
+    {
+      "label": "chez minus",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 52
     },
     {
       "label": "chez moe's",
@@ -2782,7 +3720,14 @@
       "clicks": 0,
       "impressions": 1,
       "ctr": 0,
-      "position": 38
+      "position": 33
+    },
+    {
+      "label": "chez nina kembs",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 29
     },
     {
       "label": "chez nine",
@@ -2848,6 +3793,13 @@
       "position": 51
     },
     {
+      "label": "chez pala",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 50
+    },
+    {
       "label": "chez panpi",
       "clicks": 0,
       "impressions": 2,
@@ -2878,9 +3830,9 @@
     {
       "label": "chez pava",
       "clicks": 0,
-      "impressions": 2,
+      "impressions": 4,
       "ctr": 0,
-      "position": 33.5
+      "position": 34.2
     },
     {
       "label": "chez pepe jean",
@@ -2895,6 +3847,20 @@
       "impressions": 2,
       "ctr": 0,
       "position": 21
+    },
+    {
+      "label": "chez pipette",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 62
+    },
+    {
+      "label": "chez pipette menu",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 51
     },
     {
       "label": "chez pipon",
@@ -2925,11 +3891,18 @@
       "position": 60
     },
     {
-      "label": "chez rari",
+      "label": "chez raphy",
       "clicks": 0,
       "impressions": 1,
       "ctr": 0,
-      "position": 23
+      "position": 53
+    },
+    {
+      "label": "chez rari",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 43
     },
     {
       "label": "chez rhalo",
@@ -2941,9 +3914,9 @@
     {
       "label": "chez riflette",
       "clicks": 0,
-      "impressions": 2,
+      "impressions": 1,
       "ctr": 0,
-      "position": 30
+      "position": 29
     },
     {
       "label": "chez sako",
@@ -2951,6 +3924,13 @@
       "impressions": 1,
       "ctr": 0,
       "position": 75
+    },
+    {
+      "label": "chez sandra viam",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 40
     },
     {
       "label": "chez serkan",
@@ -2964,14 +3944,21 @@
       "clicks": 0,
       "impressions": 1,
       "ctr": 0,
-      "position": 22
+      "position": 44
+    },
+    {
+      "label": "chez simone ustaritz",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 54
     },
     {
       "label": "chez sophie sedan",
       "clicks": 0,
-      "impressions": 2,
+      "impressions": 3,
       "ctr": 0,
-      "position": 50.5
+      "position": 52.7
     },
     {
       "label": "chez suzette nantes",
@@ -2995,11 +3982,18 @@
       "position": 41
     },
     {
-      "label": "chez tante alice",
+      "label": "chez ta mère meuris",
       "clicks": 0,
       "impressions": 1,
       "ctr": 0,
-      "position": 80
+      "position": 52
+    },
+    {
+      "label": "chez tante alice",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 81
     },
     {
       "label": "chez tante fauvette",
@@ -3018,9 +4012,16 @@
     {
       "label": "chez tonio",
       "clicks": 0,
-      "impressions": 2,
+      "impressions": 1,
       "ctr": 0,
-      "position": 30
+      "position": 36
+    },
+    {
+      "label": "chez tonton pastis ô maître",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 63
     },
     {
       "label": "chez toutoune",
@@ -3049,6 +4050,20 @@
       "impressions": 1,
       "ctr": 0,
       "position": 46
+    },
+    {
+      "label": "chez vanneth",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 39
+    },
+    {
+      "label": "chez vassili",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 60
     },
     {
       "label": "chez vero",
@@ -3086,6 +4101,13 @@
       "position": 58
     },
     {
+      "label": "chez yuelu",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 52
+    },
+    {
       "label": "chezz gerdi",
       "clicks": 0,
       "impressions": 1,
@@ -3112,6 +4134,13 @@
       "impressions": 1,
       "ctr": 0,
       "position": 36
+    },
+    {
+      "label": "chicorail menu",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 51
     },
     {
       "label": "chicos restaurant",
@@ -3177,11 +4206,32 @@
       "position": 21
     },
     {
+      "label": "chutney gastrobar",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 53
+    },
+    {
+      "label": "château de bernicourt restaurant",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 66
+    },
+    {
       "label": "ché lennon",
       "clicks": 0,
       "impressions": 1,
       "ctr": 0,
       "position": 28
+    },
+    {
+      "label": "cinnamon restaurant",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 87
     },
     {
       "label": "cinnamon resto",
@@ -3193,9 +4243,9 @@
     {
       "label": "cityvox restaurant",
       "clicks": 0,
-      "impressions": 2,
+      "impressions": 1,
       "ctr": 0,
-      "position": 76.5
+      "position": 84
     },
     {
       "label": "ciuri ciuri faches",
@@ -3240,18 +4290,46 @@
       "position": 38
     },
     {
+      "label": "coat hellen",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 65
+    },
+    {
+      "label": "cocatrix restaurant",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 71
+    },
+    {
       "label": "cochon qui fume",
       "clicks": 0,
-      "impressions": 9,
+      "impressions": 11,
       "ctr": 0,
-      "position": 9.4
+      "position": 10.5
     },
     {
       "label": "cochon qui fume nantes",
       "clicks": 0,
-      "impressions": 4,
+      "impressions": 5,
       "ctr": 0,
-      "position": 8.8
+      "position": 9.2
+    },
+    {
+      "label": "cochon qui rit restaurant",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 68
+    },
+    {
+      "label": "cocon rouhling",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 59
     },
     {
       "label": "code menu",
@@ -3277,9 +4355,9 @@
     {
       "label": "coin saveurs",
       "clicks": 0,
-      "impressions": 1,
+      "impressions": 2,
       "ctr": 0,
-      "position": 61
+      "position": 67.5
     },
     {
       "label": "colette et ryu",
@@ -3291,9 +4369,9 @@
     {
       "label": "com restaurant",
       "clicks": 0,
-      "impressions": 3,
+      "impressions": 4,
       "ctr": 0,
-      "position": 25.3
+      "position": 28.2
     },
     {
       "label": "combo by dia",
@@ -3301,6 +4379,13 @@
       "impressions": 1,
       "ctr": 0,
       "position": 13
+    },
+    {
+      "label": "combo restaurant",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 52
     },
     {
       "label": "commande en ligne de restaurant",
@@ -3312,16 +4397,23 @@
     {
       "label": "commande en ligne restaurant",
       "clicks": 0,
-      "impressions": 8,
+      "impressions": 9,
       "ctr": 0,
-      "position": 59.9
+      "position": 60.7
     },
     {
       "label": "commande en terrasse",
       "clicks": 0,
-      "impressions": 7,
+      "impressions": 8,
       "ctr": 0,
-      "position": 84.7
+      "position": 84.1
+    },
+    {
+      "label": "commande restaurant",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 68
     },
     {
       "label": "commande resto",
@@ -3352,6 +4444,13 @@
       "position": 46
     },
     {
+      "label": "commander a manger et payer en espece",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 55
+    },
+    {
       "label": "commander a manger pas cher",
       "clicks": 0,
       "impressions": 1,
@@ -3364,6 +4463,13 @@
       "impressions": 1,
       "ctr": 0,
       "position": 11
+    },
+    {
+      "label": "commander en ligne restaurant",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 55
     },
     {
       "label": "commander manger",
@@ -3406,6 +4512,13 @@
       "impressions": 2,
       "ctr": 0,
       "position": 97
+    },
+    {
+      "label": "comme vous voulez restaurant",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 71
     },
     {
       "label": "comment calculer le prix d'un menu restaurant",
@@ -3459,23 +4572,23 @@
     {
       "label": "comment ouvrir un restaurant en 2026",
       "clicks": 0,
-      "impressions": 4,
+      "impressions": 3,
       "ctr": 0,
-      "position": 14.5
+      "position": 10
     },
     {
       "label": "comment réserver votre restaurant avec notre outil",
       "clicks": 0,
-      "impressions": 5,
+      "impressions": 7,
       "ctr": 0,
-      "position": 12.4
+      "position": 12.3
     },
     {
       "label": "commission réservation restaurant",
       "clicks": 0,
-      "impressions": 1,
+      "impressions": 2,
       "ctr": 0,
-      "position": 11
+      "position": 9
     },
     {
       "label": "commission thefork",
@@ -3483,6 +4596,13 @@
       "impressions": 3,
       "ctr": 0,
       "position": 7
+    },
+    {
+      "label": "common eat",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 43.5
     },
     {
       "label": "community restaurant",
@@ -3508,9 +4628,9 @@
     {
       "label": "comparatif logiciel réservation restaurant",
       "clicks": 0,
-      "impressions": 16,
+      "impressions": 15,
       "ctr": 0,
-      "position": 1.2
+      "position": 1.3
     },
     {
       "label": "comparatif restaurant",
@@ -3522,9 +4642,9 @@
     {
       "label": "comparatif sites marché réservation restauration",
       "clicks": 0,
-      "impressions": 15,
+      "impressions": 13,
       "ctr": 0,
-      "position": 2.4
+      "position": 2.6
     },
     {
       "label": "complete reservation",
@@ -3541,6 +4661,13 @@
       "position": 28
     },
     {
+      "label": "comptoir des johnnies",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 59
+    },
+    {
       "label": "comptoir du poulet",
       "clicks": 0,
       "impressions": 1,
@@ -3548,11 +4675,25 @@
       "position": 87
     },
     {
+      "label": "comptoir gali",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 65
+    },
+    {
       "label": "comptoir lazu",
       "clicks": 0,
       "impressions": 1,
       "ctr": 0,
       "position": 78
+    },
+    {
+      "label": "comptoir loz",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 73
     },
     {
       "label": "comptoire 532",
@@ -3571,9 +4712,16 @@
     {
       "label": "concurrent thefork",
       "clicks": 0,
-      "impressions": 16,
+      "impressions": 17,
       "ctr": 0,
-      "position": 5.6
+      "position": 5.9
+    },
+    {
+      "label": "confidentiel menthon",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 54
     },
     {
       "label": "cool k'cahuète menu",
@@ -3581,6 +4729,20 @@
       "impressions": 1,
       "ctr": 0,
       "position": 68
+    },
+    {
+      "label": "coquo lambersart",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 34
+    },
+    {
+      "label": "corentin celton restaurant",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 78
     },
     {
       "label": "corleone meudon",
@@ -3604,11 +4766,18 @@
       "position": 26
     },
     {
+      "label": "couleurs nature rougegoutte",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 69
+    },
+    {
       "label": "cout d'une plateforme pour restaurant",
       "clicks": 0,
-      "impressions": 4,
+      "impressions": 6,
       "ctr": 0,
-      "position": 6
+      "position": 7.7
     },
     {
       "label": "couz and co",
@@ -3616,13 +4785,6 @@
       "impressions": 1,
       "ctr": 0,
       "position": 23
-    },
-    {
-      "label": "couz and ko",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 26
     },
     {
       "label": "cowerb",
@@ -3639,6 +4801,20 @@
       "position": 32
     },
     {
+      "label": "coyote belval",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 54
+    },
+    {
+      "label": "coyote beuvry",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 51
+    },
+    {
       "label": "cozy plaisir",
       "clicks": 0,
       "impressions": 2,
@@ -3653,11 +4829,18 @@
       "position": 40
     },
     {
+      "label": "creperie chez hubert",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 4
+    },
+    {
       "label": "creperie chez hubert le mans",
       "clicks": 0,
-      "impressions": 12,
+      "impressions": 22,
       "ctr": 0,
-      "position": 6.4
+      "position": 6.2
     },
     {
       "label": "creperie hubert",
@@ -3669,9 +4852,9 @@
     {
       "label": "creperie hubert le mans",
       "clicks": 0,
-      "impressions": 7,
+      "impressions": 8,
       "ctr": 0,
-      "position": 6
+      "position": 5.8
     },
     {
       "label": "cristal kfé",
@@ -3695,6 +4878,13 @@
       "position": 56
     },
     {
+      "label": "crysam",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 69
+    },
+    {
       "label": "crêperie fontaine daniel",
       "clicks": 0,
       "impressions": 1,
@@ -3707,6 +4897,13 @@
       "impressions": 1,
       "ctr": 0,
       "position": 12
+    },
+    {
+      "label": "crêperie le vieux mans",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 10.8
     },
     {
       "label": "cube rehon",
@@ -3737,6 +4934,34 @@
       "position": 58
     },
     {
+      "label": "cutty sark aubigny",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 53
+    },
+    {
+      "label": "cutty sark leucate",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 45
+    },
+    {
+      "label": "da vinci café",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 69
+    },
+    {
+      "label": "dadicook",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 53
+    },
+    {
       "label": "dadou's corner",
       "clicks": 0,
       "impressions": 1,
@@ -3751,11 +4976,25 @@
       "position": 52
     },
     {
+      "label": "dam a petty",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 60
+    },
+    {
       "label": "dam oui",
       "clicks": 0,
       "impressions": 1,
       "ctr": 0,
       "position": 24
+    },
+    {
+      "label": "dam oui saint pierre quiberon",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 61
     },
     {
       "label": "daol bailly",
@@ -3777,6 +5016,13 @@
       "impressions": 1,
       "ctr": 0,
       "position": 62
+    },
+    {
+      "label": "davonn marquette",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 56
     },
     {
       "label": "dazn resto",
@@ -3837,9 +5083,16 @@
     {
       "label": "deux potes au feu",
       "clicks": 0,
-      "impressions": 6,
+      "impressions": 7,
       "ctr": 0,
-      "position": 10.2
+      "position": 10.3
+    },
+    {
+      "label": "devant vous restaurant",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 69
     },
     {
       "label": "deveci restaurant",
@@ -3847,6 +5100,13 @@
       "impressions": 1,
       "ctr": 0,
       "position": 41
+    },
+    {
+      "label": "devis en ligne carte déjeuner",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 40
     },
     {
       "label": "dine ami table",
@@ -3865,9 +5125,23 @@
     {
       "label": "discrete restaurant",
       "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 30.5
+    },
+    {
+      "label": "dock 7 brest",
+      "clicks": 0,
       "impressions": 1,
       "ctr": 0,
-      "position": 26
+      "position": 69
+    },
+    {
+      "label": "dock du gr",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 53
     },
     {
       "label": "don gustoza",
@@ -3905,6 +5179,20 @@
       "position": 25
     },
     {
+      "label": "duca and friends",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 59
+    },
+    {
+      "label": "dujour pro",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 26
+    },
+    {
       "label": "déjeuner zone industrielle",
       "clicks": 0,
       "impressions": 1,
@@ -3938,6 +5226,27 @@
       "impressions": 1,
       "ctr": 0,
       "position": 47
+    },
+    {
+      "label": "early june menu",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 29
+    },
+    {
+      "label": "eat n joy",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 52
+    },
+    {
+      "label": "eatery",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 70
     },
     {
       "label": "ecully charbon",
@@ -3977,9 +5286,16 @@
     {
       "label": "el 9 suprem",
       "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 43.5
+    },
+    {
+      "label": "el cappadora",
+      "clicks": 0,
       "impressions": 1,
       "ctr": 0,
-      "position": 42
+      "position": 43
     },
     {
       "label": "el coin cho",
@@ -4003,11 +5319,18 @@
       "position": 51
     },
     {
-      "label": "eleven restaurant",
+      "label": "eldorado pompaire",
       "clicks": 0,
       "impressions": 1,
       "ctr": 0,
-      "position": 87
+      "position": 63
+    },
+    {
+      "label": "eleven restaurant",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 93.5
     },
     {
       "label": "elie caraïbes",
@@ -4015,6 +5338,13 @@
       "impressions": 1,
       "ctr": 0,
       "position": 58
+    },
+    {
+      "label": "elle et lui restaurant",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 71
     },
     {
       "label": "eloi restaurant",
@@ -4029,6 +5359,13 @@
       "impressions": 1,
       "ctr": 0,
       "position": 84
+    },
+    {
+      "label": "elwood argonay",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 60
     },
     {
       "label": "elysarose",
@@ -4054,9 +5391,9 @@
     {
       "label": "empreinte bancaire restaurant",
       "clicks": 0,
-      "impressions": 9,
+      "impressions": 11,
       "ctr": 0,
-      "position": 15.7
+      "position": 15.4
     },
     {
       "label": "empreinte bancaire réservation restaurant",
@@ -4073,13 +5410,6 @@
       "position": 24
     },
     {
-      "label": "emulation nautique restaurant",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 61
-    },
-    {
       "label": "en français",
       "clicks": 0,
       "impressions": 1,
@@ -4089,9 +5419,9 @@
     {
       "label": "en k2 faim",
       "clicks": 0,
-      "impressions": 3,
+      "impressions": 2,
       "ctr": 0,
-      "position": 82
+      "position": 73.5
     },
     {
       "label": "encas 2 faim",
@@ -4099,6 +5429,13 @@
       "impressions": 1,
       "ctr": 0,
       "position": 55
+    },
+    {
+      "label": "entracte berre",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 53
     },
     {
       "label": "ephemere cafe nantes",
@@ -4129,6 +5466,20 @@
       "position": 53
     },
     {
+      "label": "eris cafeteria",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 73
+    },
+    {
+      "label": "es restaurant",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 64
+    },
+    {
       "label": "espace 5&5",
       "clicks": 0,
       "impressions": 2,
@@ -4150,6 +5501,20 @@
       "position": 49
     },
     {
+      "label": "estampille vernon",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 65
+    },
+    {
+      "label": "euphoria restaurant",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 58
+    },
+    {
       "label": "eveille tes papilles",
       "clicks": 0,
       "impressions": 1,
@@ -4162,6 +5527,13 @@
       "impressions": 2,
       "ctr": 0,
       "position": 6.5
+    },
+    {
+      "label": "evidence allonzier",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 44
     },
     {
       "label": "evren grill",
@@ -4199,13 +5571,6 @@
       "position": 70
     },
     {
-      "label": "fast good taverne",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 67
-    },
-    {
       "label": "fav mantes la jolie",
       "clicks": 0,
       "impressions": 1,
@@ -4213,11 +5578,32 @@
       "position": 61
     },
     {
+      "label": "fav restaurant",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 69
+    },
+    {
+      "label": "favori restaurant",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 69
+    },
+    {
+      "label": "favorite restaurant",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 58
+    },
+    {
       "label": "fb resto",
       "clicks": 0,
-      "impressions": 2,
+      "impressions": 3,
       "ctr": 0,
-      "position": 13
+      "position": 20
     },
     {
       "label": "feast101",
@@ -4227,6 +5613,34 @@
       "position": 46
     },
     {
+      "label": "fedora ozoir",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 51
+    },
+    {
+      "label": "fee de miel",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 37
+    },
+    {
+      "label": "feel good brasparts",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 46.5
+    },
+    {
+      "label": "feel good restaurant",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 76
+    },
+    {
       "label": "feeling restaurant",
       "clicks": 0,
       "impressions": 2,
@@ -4234,11 +5648,18 @@
       "position": 43.5
     },
     {
-      "label": "felicita sunday",
+      "label": "felicie restaurant",
       "clicks": 0,
       "impressions": 1,
       "ctr": 0,
-      "position": 55
+      "position": 67
+    },
+    {
+      "label": "felicita sunday",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 54
     },
     {
       "label": "fenetre sur beyrouth",
@@ -4257,16 +5678,16 @@
     {
       "label": "fermeture exceptionnelle",
       "clicks": 0,
-      "impressions": 8,
+      "impressions": 9,
       "ctr": 0,
-      "position": 15.1
+      "position": 16.6
     },
     {
       "label": "fermeture exceptionnelle restaurant",
       "clicks": 0,
-      "impressions": 5,
+      "impressions": 6,
       "ctr": 0,
-      "position": 5.2
+      "position": 5.3
     },
     {
       "label": "feuille de chou saint ouen",
@@ -4299,9 +5720,9 @@
     {
       "label": "fidélisation client restaurant",
       "clicks": 0,
-      "impressions": 24,
+      "impressions": 20,
       "ctr": 0,
-      "position": 7.4
+      "position": 7.2
     },
     {
       "label": "fidélisation restaurant",
@@ -4311,11 +5732,32 @@
       "position": 5
     },
     {
+      "label": "fifties restaurant",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 69
+    },
+    {
+      "label": "fifty restaurant",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 27
+    },
+    {
       "label": "figure cave à manger",
       "clicks": 0,
       "impressions": 1,
       "ctr": 0,
       "position": 56
+    },
+    {
+      "label": "fine fourchette belley",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 54
     },
     {
       "label": "flamingo castelmaurou",
@@ -4332,6 +5774,20 @@
       "position": 46.5
     },
     {
+      "label": "fleur de cerisier nation",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 70
+    },
+    {
+      "label": "fleurs de cerisier nation",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 70
+    },
+    {
       "label": "foir'food",
       "clicks": 0,
       "impressions": 1,
@@ -4346,11 +5802,25 @@
       "position": 36
     },
     {
+      "label": "food reservations",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 14
+    },
+    {
+      "label": "foodaqui",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 60.5
+    },
+    {
       "label": "foodcollect",
       "clicks": 0,
-      "impressions": 327,
+      "impressions": 326,
       "ctr": 0,
-      "position": 7.3
+      "position": 7.2
     },
     {
       "label": "foodcourt 786",
@@ -4376,9 +5846,9 @@
     {
       "label": "fork and beaver",
       "clicks": 0,
-      "impressions": 1,
+      "impressions": 2,
       "ctr": 0,
-      "position": 14
+      "position": 29.5
     },
     {
       "label": "fork restaurant",
@@ -4386,6 +5856,13 @@
       "impressions": 1,
       "ctr": 0,
       "position": 6
+    },
+    {
+      "label": "formule midi",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 90
     },
     {
       "label": "fou du bocal",
@@ -4409,6 +5886,20 @@
       "position": 38
     },
     {
+      "label": "fraich heure",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 47
+    },
+    {
+      "label": "fraich'heure",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 49
+    },
+    {
       "label": "frais et dispo nantes",
       "clicks": 0,
       "impressions": 1,
@@ -4425,9 +5916,9 @@
     {
       "label": "franchise exclusiverestaurants",
       "clicks": 0,
-      "impressions": 7,
+      "impressions": 8,
       "ctr": 0,
-      "position": 17.7
+      "position": 17.9
     },
     {
       "label": "franz monplaisir",
@@ -4465,6 +5956,13 @@
       "position": 55
     },
     {
+      "label": "friday's restaurant",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 32
+    },
+    {
       "label": "friends perigueux",
       "clicks": 0,
       "impressions": 1,
@@ -4484,6 +5982,13 @@
       "impressions": 1,
       "ctr": 0,
       "position": 32
+    },
+    {
+      "label": "friterie don",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 55
     },
     {
       "label": "friterie du village dany bonten",
@@ -4556,6 +6061,13 @@
       "position": 30
     },
     {
+      "label": "gael et gaelle",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 53
+    },
+    {
       "label": "gaindrupt jeanmenil",
       "clicks": 0,
       "impressions": 1,
@@ -4563,11 +6075,18 @@
       "position": 48
     },
     {
-      "label": "galactic restaurant",
+      "label": "galopin dettwiller",
       "clicks": 0,
       "impressions": 1,
       "ctr": 0,
-      "position": 63
+      "position": 42
+    },
+    {
+      "label": "gan's la maison du bowl",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 44
     },
     {
       "label": "gaya rixheim",
@@ -4584,18 +6103,25 @@
       "position": 43
     },
     {
+      "label": "genty home",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 58
+    },
+    {
       "label": "gestion avis client restaurant cholet",
       "clicks": 0,
-      "impressions": 18,
+      "impressions": 17,
       "ctr": 0,
-      "position": 21.7
+      "position": 21.3
     },
     {
       "label": "gestion avis google restaurant",
       "clicks": 0,
-      "impressions": 16,
+      "impressions": 14,
       "ctr": 0,
-      "position": 10.1
+      "position": 9.2
     },
     {
       "label": "gestion avis restaurant",
@@ -4628,16 +6154,16 @@
     {
       "label": "gestion des réservations restaurant",
       "clicks": 0,
-      "impressions": 28,
+      "impressions": 29,
       "ctr": 0,
-      "position": 5.5
+      "position": 5.4
     },
     {
       "label": "gestion des réservations restaurant gratuit",
       "clicks": 0,
-      "impressions": 11,
+      "impressions": 10,
       "ctr": 0,
-      "position": 6.1
+      "position": 5.8
     },
     {
       "label": "gestion file d'attente restaurant",
@@ -4663,9 +6189,9 @@
     {
       "label": "gestion réservation restaurant",
       "clicks": 0,
-      "impressions": 21,
+      "impressions": 20,
       "ctr": 0,
-      "position": 3.8
+      "position": 3.9
     },
     {
       "label": "gestion réservations restaurant",
@@ -4677,9 +6203,9 @@
     {
       "label": "gestionnaire économique pour réservations",
       "clicks": 0,
-      "impressions": 9,
+      "impressions": 8,
       "ctr": 0,
-      "position": 54.6
+      "position": 54.4
     },
     {
       "label": "ghys et lo",
@@ -4731,11 +6257,25 @@
       "position": 60
     },
     {
+      "label": "gladoux fontain",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 24
+    },
+    {
       "label": "gloria food",
       "clicks": 0,
       "impressions": 1,
       "ctr": 0,
       "position": 49
+    },
+    {
+      "label": "glouby biarritz",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 45
     },
     {
       "label": "go rhino restaurant",
@@ -4880,7 +6420,7 @@
     {
       "label": "graille night",
       "clicks": 0,
-      "impressions": 1,
+      "impressions": 2,
       "ctr": 0,
       "position": 67
     },
@@ -4892,18 +6432,25 @@
       "position": 52
     },
     {
+      "label": "grand place food",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 62
+    },
+    {
+      "label": "graoully persan",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 60
+    },
+    {
       "label": "gray ghost restaurant",
       "clicks": 0,
       "impressions": 1,
       "ctr": 0,
       "position": 67
-    },
-    {
-      "label": "greyfriars bobby restaurant",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 50
     },
     {
       "label": "griffon glouton",
@@ -4976,6 +6523,13 @@
       "position": 63
     },
     {
+      "label": "guillaume touchard",
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 9.3
+    },
+    {
       "label": "guinguette bikaina menu",
       "clicks": 0,
       "impressions": 1,
@@ -4988,6 +6542,13 @@
       "impressions": 1,
       "ctr": 0,
       "position": 60
+    },
+    {
+      "label": "guinguette marque page",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 65
     },
     {
       "label": "h2o bronx",
@@ -5006,9 +6567,9 @@
     {
       "label": "hand restaurant",
       "clicks": 0,
-      "impressions": 10,
+      "impressions": 12,
       "ctr": 0,
-      "position": 55.4
+      "position": 55.9
     },
     {
       "label": "handy nantes",
@@ -5041,9 +6602,9 @@
     {
       "label": "happy time montbard",
       "clicks": 0,
-      "impressions": 1,
+      "impressions": 2,
       "ctr": 0,
-      "position": 26
+      "position": 33.5
     },
     {
       "label": "he pate moi",
@@ -5060,6 +6621,13 @@
       "position": 42
     },
     {
+      "label": "hello saint pons",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 38
+    },
+    {
       "label": "helpprio restaurant",
       "clicks": 0,
       "impressions": 3,
@@ -5067,11 +6635,32 @@
       "position": 31.3
     },
     {
+      "label": "heure tranquille restaurant",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 59
+    },
+    {
+      "label": "heures heureuses",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 71
+    },
+    {
       "label": "heureux comme alexandre",
       "clicks": 0,
       "impressions": 2,
       "ctr": 0,
       "position": 70
+    },
+    {
+      "label": "heureux comme alexandre menu",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 62
     },
     {
       "label": "hey hey restaurant",
@@ -5083,9 +6672,16 @@
     {
       "label": "heyless",
       "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 22.5
+    },
+    {
+      "label": "hilo cergy",
+      "clicks": 0,
       "impressions": 1,
       "ctr": 0,
-      "position": 27
+      "position": 57
     },
     {
       "label": "hilo saint lazare",
@@ -5097,9 +6693,9 @@
     {
       "label": "hippicurien",
       "clicks": 0,
-      "impressions": 2,
+      "impressions": 3,
       "ctr": 0,
-      "position": 41
+      "position": 40.3
     },
     {
       "label": "histoire sans faim nay",
@@ -5114,6 +6710,20 @@
       "impressions": 1,
       "ctr": 0,
       "position": 44
+    },
+    {
+      "label": "hobistro",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 51
+    },
+    {
+      "label": "hoo saint gregoire",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 64
     },
     {
       "label": "hooters near me",
@@ -5160,16 +6770,23 @@
     {
       "label": "horaire restaurant",
       "clicks": 0,
-      "impressions": 32,
+      "impressions": 34,
       "ctr": 0,
-      "position": 22.7
+      "position": 22.4
     },
     {
       "label": "horaires restaurant",
       "clicks": 0,
-      "impressions": 6,
+      "impressions": 5,
       "ctr": 0,
-      "position": 40
+      "position": 31.6
+    },
+    {
+      "label": "horiz restaurant",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 59
     },
     {
       "label": "house factory nevers",
@@ -5184,6 +6801,13 @@
       "impressions": 1,
       "ctr": 0,
       "position": 43
+    },
+    {
+      "label": "hututu ohain",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 54
     },
     {
       "label": "hé pates moi",
@@ -5209,9 +6833,9 @@
     {
       "label": "ici restaurant",
       "clicks": 0,
-      "impressions": 2,
+      "impressions": 3,
       "ctr": 0,
-      "position": 49
+      "position": 49.7
     },
     {
       "label": "icio parrilla popular",
@@ -5219,6 +6843,20 @@
       "impressions": 1,
       "ctr": 0,
       "position": 57
+    },
+    {
+      "label": "iguana firmi",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 58
+    },
+    {
+      "label": "ik restaurant",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 27
     },
     {
       "label": "iki guys",
@@ -5237,9 +6875,9 @@
     {
       "label": "il etait une fois menu",
       "clicks": 0,
-      "impressions": 1,
+      "impressions": 2,
       "ctr": 0,
-      "position": 42
+      "position": 39
     },
     {
       "label": "il gusto bj",
@@ -5247,6 +6885,13 @@
       "impressions": 1,
       "ctr": 0,
       "position": 56
+    },
+    {
+      "label": "il piacere luisant",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 61
     },
     {
       "label": "ilk restaurant",
@@ -5263,11 +6908,32 @@
       "position": 73
     },
     {
-      "label": "impérial bus diner",
+      "label": "imperial bus diner",
       "clicks": 0,
       "impressions": 1,
       "ctr": 0,
       "position": 64
+    },
+    {
+      "label": "imperial laboutarie",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 62
+    },
+    {
+      "label": "impulsif restaurant",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 69
+    },
+    {
+      "label": "impérial bus diner",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 63.5
     },
     {
       "label": "in fine restaurant",
@@ -5312,18 +6978,18 @@
       "position": 67
     },
     {
+      "label": "inedit bruay",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 55
+    },
+    {
       "label": "innamorato boujan",
       "clicks": 0,
       "impressions": 1,
       "ctr": 0,
       "position": 69
-    },
-    {
-      "label": "innovation technologique thefork réservation en ligne",
-      "clicks": 0,
-      "impressions": 20,
-      "ctr": 0,
-      "position": 2.4
     },
     {
       "label": "insolite saint varent",
@@ -5338,1672 +7004,6 @@
       "impressions": 1,
       "ctr": 0,
       "position": 50
-    },
-    {
-      "label": "inspyration menu prix",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 40
-    },
-    {
-      "label": "instant grill belleville",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 44
-    },
-    {
-      "label": "intercuisto",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 25
-    },
-    {
-      "label": "io et te",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 58
-    },
-    {
-      "label": "it's pasta time",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 57
-    },
-    {
-      "label": "j'aime chaud parilly",
-      "clicks": 0,
-      "impressions": 2,
-      "ctr": 0,
-      "position": 89
-    },
-    {
-      "label": "j27 restaurant",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 24
-    },
-    {
-      "label": "jack the cockerel",
-      "clicks": 0,
-      "impressions": 3,
-      "ctr": 0,
-      "position": 52.7
-    },
-    {
-      "label": "jack's corner pub&food",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 20
-    },
-    {
-      "label": "jacquou le croquant restaurant",
-      "clicks": 0,
-      "impressions": 2,
-      "ctr": 0,
-      "position": 53.5
-    },
-    {
-      "label": "jano viarmes",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 56
-    },
-    {
-      "label": "jaz chauray",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 49
-    },
-    {
-      "label": "je mange kreyol",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 50
-    },
-    {
-      "label": "je suis la restaurant",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 54
-    },
-    {
-      "label": "jeco plumeliau",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 40
-    },
-    {
-      "label": "jef rais",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 50
-    },
-    {
-      "label": "jef'rais",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 45
-    },
-    {
-      "label": "jeff cuisine sincere",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 73
-    },
-    {
-      "label": "jeffaim mezidon",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 42
-    },
-    {
-      "label": "jersey lilie",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 65
-    },
-    {
-      "label": "jersey lillie",
-      "clicks": 0,
-      "impressions": 2,
-      "ctr": 0,
-      "position": 68
-    },
-    {
-      "label": "jeu 2 gout",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 73
-    },
-    {
-      "label": "jeux 2 gout",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 72
-    },
-    {
-      "label": "jeux 2 gouts",
-      "clicks": 0,
-      "impressions": 2,
-      "ctr": 0,
-      "position": 74
-    },
-    {
-      "label": "jeux 2 gouts chateauroux",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 69
-    },
-    {
-      "label": "jeux de pots",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 56
-    },
-    {
-      "label": "jeux de pots verteuil",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 57
-    },
-    {
-      "label": "jib bourdeau",
-      "clicks": 0,
-      "impressions": 2,
-      "ctr": 0,
-      "position": 54.5
-    },
-    {
-      "label": "jk pan pizza",
-      "clicks": 0,
-      "impressions": 2,
-      "ctr": 0,
-      "position": 53
-    },
-    {
-      "label": "jk restaurant",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 51
-    },
-    {
-      "label": "jo et carmen",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 70
-    },
-    {
-      "label": "jo's gif sur yvette",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 60
-    },
-    {
-      "label": "joe a les croc",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 55
-    },
-    {
-      "label": "joe a les crocs",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 61
-    },
-    {
-      "label": "joe le cooker",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 72
-    },
-    {
-      "label": "joe le snacky",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 29
-    },
-    {
-      "label": "jogging restaurant",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 58
-    },
-    {
-      "label": "johnny 66 restaurant",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 70
-    },
-    {
-      "label": "joi restaurant",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 29
-    },
-    {
-      "label": "joia bun",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 78
-    },
-    {
-      "label": "joie biarritz",
-      "clicks": 0,
-      "impressions": 2,
-      "ctr": 0,
-      "position": 24
-    },
-    {
-      "label": "joker luneville",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 47
-    },
-    {
-      "label": "jollibee near me",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 24
-    },
-    {
-      "label": "joola restaurant",
-      "clicks": 0,
-      "impressions": 2,
-      "ctr": 0,
-      "position": 40.5
-    },
-    {
-      "label": "joosbayoo",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 24
-    },
-    {
-      "label": "jorainbow",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 51
-    },
-    {
-      "label": "josephine b nantes",
-      "clicks": 0,
-      "impressions": 2,
-      "ctr": 0,
-      "position": 6.5
-    },
-    {
-      "label": "josephine b nantes restaurant",
-      "clicks": 0,
-      "impressions": 6,
-      "ctr": 0,
-      "position": 8.7
-    },
-    {
-      "label": "joséphine b nantes menu",
-      "clicks": 0,
-      "impressions": 2,
-      "ctr": 0,
-      "position": 9
-    },
-    {
-      "label": "jour capucines",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 43
-    },
-    {
-      "label": "joy reservation",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 32
-    },
-    {
-      "label": "joyce restaurant",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 33
-    },
-    {
-      "label": "joyo azian pub",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 47
-    },
-    {
-      "label": "joyti restaurant",
-      "clicks": 0,
-      "impressions": 3,
-      "ctr": 0,
-      "position": 38.7
-    },
-    {
-      "label": "js restaurants",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 38
-    },
-    {
-      "label": "jtelivre",
-      "clicks": 0,
-      "impressions": 2,
-      "ctr": 0,
-      "position": 37.5
-    },
-    {
-      "label": "jtelivre menu",
-      "clicks": 0,
-      "impressions": 10,
-      "ctr": 0,
-      "position": 16.8
-    },
-    {
-      "label": "judy mauguio",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 46
-    },
-    {
-      "label": "jugoslavija grill",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 64
-    },
-    {
-      "label": "juma restaurant",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 43
-    },
-    {
-      "label": "junga toulouse",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 64
-    },
-    {
-      "label": "juppiter burger",
-      "clicks": 0,
-      "impressions": 2,
-      "ctr": 0,
-      "position": 54
-    },
-    {
-      "label": "juste en face",
-      "clicks": 0,
-      "impressions": 4,
-      "ctr": 0,
-      "position": 67
-    },
-    {
-      "label": "k la braise",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 45
-    },
-    {
-      "label": "k p restaurant",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 39
-    },
-    {
-      "label": "k1 food and lounge",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 44
-    },
-    {
-      "label": "k6 tandoori",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 78
-    },
-    {
-      "label": "kabellig ruz",
-      "clicks": 0,
-      "impressions": 2,
-      "ctr": 0,
-      "position": 14.5
-    },
-    {
-      "label": "kabumachou",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 38
-    },
-    {
-      "label": "kapintranet",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 26
-    },
-    {
-      "label": "karaoké béthune",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 14
-    },
-    {
-      "label": "karishma divonne",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 51
-    },
-    {
-      "label": "kasa de l ours",
-      "clicks": 0,
-      "impressions": 2,
-      "ctr": 0,
-      "position": 68.5
-    },
-    {
-      "label": "kasa de l'ours la",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 59
-    },
-    {
-      "label": "kashmir lounge",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 52
-    },
-    {
-      "label": "kashmir nantes",
-      "clicks": 0,
-      "impressions": 19,
-      "ctr": 0,
-      "position": 9.2
-    },
-    {
-      "label": "kasse la barak",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 53
-    },
-    {
-      "label": "kav'adom betton",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 56
-    },
-    {
-      "label": "kaytilolo",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 63
-    },
-    {
-      "label": "kebab broglie",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 58
-    },
-    {
-      "label": "kebab chez moi",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 39
-    },
-    {
-      "label": "kebab joyeuse",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 53
-    },
-    {
-      "label": "kebab la glacerie",
-      "clicks": 0,
-      "impressions": 2,
-      "ctr": 0,
-      "position": 55
-    },
-    {
-      "label": "kebab le theil",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 82
-    },
-    {
-      "label": "kebab sans soucis",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 60
-    },
-    {
-      "label": "kebab souillarderie",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 49
-    },
-    {
-      "label": "kebab sugiez",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 41
-    },
-    {
-      "label": "kemia feurs",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 59
-    },
-    {
-      "label": "kesako 16",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 43
-    },
-    {
-      "label": "kesako aigre",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 57
-    },
-    {
-      "label": "kesako mons",
-      "clicks": 0,
-      "impressions": 2,
-      "ctr": 0,
-      "position": 60.5
-    },
-    {
-      "label": "kfee des jeux",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 46
-    },
-    {
-      "label": "kfé del twins",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 46
-    },
-    {
-      "label": "kiboki restaurant",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 49
-    },
-    {
-      "label": "killian's bar",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 46
-    },
-    {
-      "label": "kilometre zero restaurant",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 43
-    },
-    {
-      "label": "kington lounge",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 58
-    },
-    {
-      "label": "kirikou restaurant",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 25
-    },
-    {
-      "label": "kiz kulesi restaurant",
-      "clicks": 0,
-      "impressions": 3,
-      "ctr": 0,
-      "position": 31.3
-    },
-    {
-      "label": "kod pobratimi",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 10
-    },
-    {
-      "label": "kod saveurs",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 15
-    },
-    {
-      "label": "kokajo grill",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 73
-    },
-    {
-      "label": "kokiriz lacanau",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 36
-    },
-    {
-      "label": "koko carquefou",
-      "clicks": 0,
-      "impressions": 2,
-      "ctr": 0,
-      "position": 53
-    },
-    {
-      "label": "kolla grill",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 33
-    },
-    {
-      "label": "komptoir des amis",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 76
-    },
-    {
-      "label": "konateam food",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 45
-    },
-    {
-      "label": "kouvert",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 1
-    },
-    {
-      "label": "krampouezh naoned",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 34
-    },
-    {
-      "label": "l affreux jojo",
-      "clicks": 0,
-      "impressions": 2,
-      "ctr": 0,
-      "position": 69
-    },
-    {
-      "label": "l ak vigie",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 60
-    },
-    {
-      "label": "l alibi hery",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 54
-    },
-    {
-      "label": "l antre du pirate",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 55
-    },
-    {
-      "label": "l assiette de jacou",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 81
-    },
-    {
-      "label": "l emportee",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 54
-    },
-    {
-      "label": "l endroit carré",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 72
-    },
-    {
-      "label": "l ephemere nantes",
-      "clicks": 0,
-      "impressions": 3,
-      "ctr": 0,
-      "position": 7
-    },
-    {
-      "label": "l epicerie chez jib",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 61
-    },
-    {
-      "label": "l heureux tour fabrezan",
-      "clicks": 0,
-      "impressions": 2,
-      "ctr": 0,
-      "position": 51.5
-    },
-    {
-      "label": "l impulsif",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 76
-    },
-    {
-      "label": "l insolite saint varent",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 18
-    },
-    {
-      "label": "l instant bressan",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 41
-    },
-    {
-      "label": "l instant poissy",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 66
-    },
-    {
-      "label": "l instant z",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 65
-    },
-    {
-      "label": "l instant z le thou",
-      "clicks": 0,
-      "impressions": 2,
-      "ctr": 0,
-      "position": 57.5
-    },
-    {
-      "label": "l invitation restaurant",
-      "clicks": 0,
-      "impressions": 2,
-      "ctr": 0,
-      "position": 59.5
-    },
-    {
-      "label": "l oiseau du temps menu",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 46
-    },
-    {
-      "label": "l oiseau qui chante menu",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 38
-    },
-    {
-      "label": "l option",
-      "clicks": 0,
-      "impressions": 2,
-      "ctr": 0,
-      "position": 52.5
-    },
-    {
-      "label": "l ours herbivore",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 87
-    },
-    {
-      "label": "l éphémère restaurant",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 49
-    },
-    {
-      "label": "l'acapulco carry le rouet",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 75
-    },
-    {
-      "label": "l'albizia orvault",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 63
-    },
-    {
-      "label": "l'aloe montauroux",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 42
-    },
-    {
-      "label": "l'alter native",
-      "clicks": 0,
-      "impressions": 2,
-      "ctr": 0,
-      "position": 60
-    },
-    {
-      "label": "l'alter-native",
-      "clicks": 0,
-      "impressions": 2,
-      "ctr": 0,
-      "position": 60.5
-    },
-    {
-      "label": "l'alternative la chambre",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 47
-    },
-    {
-      "label": "l'ambigu restaurant",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 39
-    },
-    {
-      "label": "l'ami coq",
-      "clicks": 0,
-      "impressions": 2,
-      "ctr": 0,
-      "position": 42.5
-    },
-    {
-      "label": "l'annexe migne",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 57
-    },
-    {
-      "label": "l'antre nous frahier",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 48
-    },
-    {
-      "label": "l'arch 1972 menu",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 38
-    },
-    {
-      "label": "l'arizona restaurant",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 57
-    },
-    {
-      "label": "l'as station",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 57
-    },
-    {
-      "label": "l'assiette jacou",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 55
-    },
-    {
-      "label": "l'atelier du 84",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 59
-    },
-    {
-      "label": "l'atelier speed",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 65
-    },
-    {
-      "label": "l'australien le bizet",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 38
-    },
-    {
-      "label": "l'effet délice",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 68
-    },
-    {
-      "label": "l'eko bleury",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 24
-    },
-    {
-      "label": "l'eldorado pompaire",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 56
-    },
-    {
-      "label": "l'en avant café",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 37
-    },
-    {
-      "label": "l'endroit carré",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 68
-    },
-    {
-      "label": "l'entrée suite",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 59
-    },
-    {
-      "label": "l'envie nevers",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 54
-    },
-    {
-      "label": "l'ephemere nantes",
-      "clicks": 0,
-      "impressions": 38,
-      "ctr": 0,
-      "position": 6.1
-    },
-    {
-      "label": "l'esquisse la tour du pin",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 75
-    },
-    {
-      "label": "l'express saint vite",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 36
-    },
-    {
-      "label": "l'heureux hazard",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 56
-    },
-    {
-      "label": "l'heureux tour fabrezan",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 52
-    },
-    {
-      "label": "l'hippocampe chez amy",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 55
-    },
-    {
-      "label": "l'ilon d'aristée",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 67
-    },
-    {
-      "label": "l'ilothentik",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 40
-    },
-    {
-      "label": "l'imaginarium montereau",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 54
-    },
-    {
-      "label": "l'impossible saint colomban",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 37
-    },
-    {
-      "label": "l'improbable menu",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 58
-    },
-    {
-      "label": "l'improbable saint-savin",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 66
-    },
-    {
-      "label": "l'impulsif",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 65
-    },
-    {
-      "label": "l'insolite saint varent",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 18
-    },
-    {
-      "label": "l'insolite saint-varent",
-      "clicks": 0,
-      "impressions": 2,
-      "ctr": 0,
-      "position": 36.5
-    },
-    {
-      "label": "l'instant ela",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 20
-    },
-    {
-      "label": "l'instant faure",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 66
-    },
-    {
-      "label": "l'instant loqui",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 54
-    },
-    {
-      "label": "l'instant noisette",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 67
-    },
-    {
-      "label": "l'instant partagé",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 41
-    },
-    {
-      "label": "l'instant pause menu",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 31
-    },
-    {
-      "label": "l'instant poissy",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 66
-    },
-    {
-      "label": "l'instant sav heureux",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 20
-    },
-    {
-      "label": "l'instant z",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 65
-    },
-    {
-      "label": "l'instant z le thou",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 55
-    },
-    {
-      "label": "l'invitation restaurant menu",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 49
-    },
-    {
-      "label": "l'invitation saint aubin",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 58
-    },
-    {
-      "label": "l'oie qui fume",
-      "clicks": 0,
-      "impressions": 2,
-      "ctr": 0,
-      "position": 59.5
-    },
-    {
-      "label": "l'option",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 67
-    },
-    {
-      "label": "l'option restaurant",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 55
-    },
-    {
-      "label": "l'or pizza chic",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 69
-    },
-    {
-      "label": "l'ordonnance villers-cotterêts",
-      "clicks": 0,
-      "impressions": 2,
-      "ctr": 0,
-      "position": 58
-    },
-    {
-      "label": "l'orée de la tour",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 51
-    },
-    {
-      "label": "l'ours herbivore",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 85
-    },
-    {
-      "label": "l'uliveto",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 43
-    },
-    {
-      "label": "l'éphémère nantes",
-      "clicks": 0,
-      "impressions": 4,
-      "ctr": 0,
-      "position": 8
-    },
-    {
-      "label": "l'éphémère restaurant nantes",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 9
-    },
-    {
-      "label": "l'épicerie chez jib menu",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 39
-    },
-    {
-      "label": "l'étiquette la ramée",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 61
-    },
-    {
-      "label": "l'étiquette seilh",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 50
-    },
-    {
-      "label": "la baraka pirmil",
-      "clicks": 0,
-      "impressions": 2,
-      "ctr": 0,
-      "position": 60
-    },
-    {
-      "label": "la bel excuse",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 47
-    },
-    {
-      "label": "la belle équipe 1877",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 53
-    },
-    {
-      "label": "la bicyclette bleue joyeux menu",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 9
-    },
-    {
-      "label": "la bicyclette bleue restaurant",
-      "clicks": 0,
-      "impressions": 3,
-      "ctr": 0,
-      "position": 17.3
-    },
-    {
-      "label": "la bisquine st vaast",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 65
-    },
-    {
-      "label": "la bobine restaurant",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 75
-    },
-    {
-      "label": "la bonne franquette pia",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 59
-    },
-    {
-      "label": "la bonne humm heure",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 56
-    },
-    {
-      "label": "la boîte à meuh sevrier",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 65
-    },
-    {
-      "label": "la boîte à saveurs",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 61
-    },
-    {
-      "label": "la brasserie lucky",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 28
-    },
-    {
-      "label": "la buvette de chez maman",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 59
-    },
-    {
-      "label": "la cafetiere felee",
-      "clicks": 0,
-      "impressions": 3,
-      "ctr": 0,
-      "position": 63.3
-    },
-    {
-      "label": "la cantine d'orée",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 70
-    },
-    {
-      "label": "la cantoche sur le pouce",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 63
-    },
-    {
-      "label": "la capsule bourg en bresse",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 59
-    },
-    {
-      "label": "la capsule gourmande",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 64
-    },
-    {
-      "label": "la case à tata",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 56
-    },
-    {
-      "label": "la causerie",
-      "clicks": 0,
-      "impressions": 4,
-      "ctr": 0,
-      "position": 84
-    },
-    {
-      "label": "la changerie restaurant",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 54
-    },
-    {
-      "label": "la chocolaterie restaurant",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 57
-    },
-    {
-      "label": "la choza grand village",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 51
-    },
-    {
-      "label": "la cible",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 54
-    },
-    {
-      "label": "la cible restaurant",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 46
-    },
-    {
-      "label": "la compagnie albigeoise menu",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 43
-    },
-    {
-      "label": "la cremaillere mercury",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 55
-    },
-    {
-      "label": "la croisette vindry",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 34
-    },
-    {
-      "label": "la croquerie",
-      "clicks": 0,
-      "impressions": 2,
-      "ctr": 0,
-      "position": 57.5
-    },
-    {
-      "label": "la croustillade",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 19
-    },
-    {
-      "label": "la croustinette",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 49
-    },
-    {
-      "label": "la crémaillère bréhan",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 75
-    },
-    {
-      "label": "la cuenta ifs",
-      "clicks": 0,
-      "impressions": 3,
-      "ctr": 0,
-      "position": 17.7
-    },
-    {
-      "label": "la cuizine plaisir",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 72
-    },
-    {
-      "label": "la diff restaurant",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 68
-    },
-    {
-      "label": "la dona virazeil",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 64
-    },
-    {
-      "label": "la doulesi menu",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 32
-    },
-    {
-      "label": "la dounia camion",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 57
-    },
-    {
-      "label": "la dwicherie",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 43
-    },
-    {
-      "label": "la fabrique des colibris mauvezin",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 65
-    },
-    {
-      "label": "la favorite restaurant",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 67
-    },
-    {
-      "label": "la fiancee du desert",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 73
-    },
-    {
-      "label": "la fine fourchette belley",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 51
     }
   ]
 }
