@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-08-10",
+  "generated_at": "2026-08-11",
   "period": [
-    "2026-07-10",
-    "2026-08-07"
+    "2026-07-11",
+    "2026-08-08"
   ],
   "rows": [
     {
       "label": "kouver",
-      "clicks": 158,
-      "impressions": 374,
-      "ctr": 42.25,
-      "position": 1.9
+      "clicks": 157,
+      "impressions": 367,
+      "ctr": 42.78,
+      "position": 1.8
     },
     {
       "label": "logiciel de réservation restaurant",
       "clicks": 10,
-      "impressions": 403,
-      "ctr": 2.48,
+      "impressions": 400,
+      "ctr": 2.5,
       "position": 2.9
     },
     {
       "label": "koover",
       "clicks": 9,
-      "impressions": 23,
-      "ctr": 39.13,
+      "impressions": 24,
+      "ctr": 37.5,
       "position": 2.2
     },
     {
@@ -36,15 +36,15 @@
     {
       "label": "logiciel reservation restaurant",
       "clicks": 5,
-      "impressions": 135,
-      "ctr": 3.7,
+      "impressions": 138,
+      "ctr": 3.62,
       "position": 3.4
     },
     {
       "label": "alternative thefork",
       "clicks": 2,
-      "impressions": 69,
-      "ctr": 2.9,
+      "impressions": 70,
+      "ctr": 2.86,
       "position": 1.8
     },
     {
@@ -57,23 +57,23 @@
     {
       "label": "chez hubert le mans",
       "clicks": 2,
-      "impressions": 195,
-      "ctr": 1.03,
-      "position": 7.6
+      "impressions": 249,
+      "ctr": 0.8,
+      "position": 7.7
     },
     {
       "label": "systeme reservation restaurant",
       "clicks": 2,
-      "impressions": 57,
-      "ctr": 3.51,
-      "position": 3
+      "impressions": 55,
+      "ctr": 3.64,
+      "position": 3.0
     },
     {
       "label": "système de réservation pour restaurant",
       "clicks": 2,
-      "impressions": 54,
-      "ctr": 3.7,
-      "position": 4.2
+      "impressions": 52,
+      "ctr": 3.85,
+      "position": 4.1
     },
     {
       "label": "the fork alternative",
@@ -85,8 +85,8 @@
     {
       "label": "application de reservation restaurant",
       "clicks": 1,
-      "impressions": 10,
-      "ctr": 10.0,
+      "impressions": 8,
+      "ctr": 12.5,
       "position": 6.1
     },
     {
@@ -99,9 +99,9 @@
     {
       "label": "application reservation restaurant",
       "clicks": 1,
-      "impressions": 35,
-      "ctr": 2.86,
-      "position": 11.5
+      "impressions": 36,
+      "ctr": 2.78,
+      "position": 11.7
     },
     {
       "label": "bistrot suzette nantes",
@@ -118,32 +118,32 @@
       "position": 2
     },
     {
-      "label": "code gerer un restaurant",
-      "clicks": 1,
-      "impressions": 5,
-      "ctr": 20.0,
-      "position": 6.6
-    },
-    {
       "label": "concurrent zenchef",
       "clicks": 1,
-      "impressions": 23,
-      "ctr": 4.35,
-      "position": 9.9
+      "impressions": 25,
+      "ctr": 4.0,
+      "position": 9.8
+    },
+    {
+      "label": "creperie chez hubert le mans",
+      "clicks": 1,
+      "impressions": 36,
+      "ctr": 2.78,
+      "position": 6.4
     },
     {
       "label": "creperie vieux mans",
       "clicks": 1,
-      "impressions": 6,
-      "ctr": 16.67,
-      "position": 11.8
+      "impressions": 10,
+      "ctr": 10.0,
+      "position": 11.9
     },
     {
       "label": "crêperie chez hubert le mans",
       "clicks": 1,
-      "impressions": 9,
-      "ctr": 11.11,
-      "position": 5.7
+      "impressions": 14,
+      "ctr": 7.14,
+      "position": 5.4
     },
     {
       "label": "dousto",
@@ -155,16 +155,16 @@
     {
       "label": "food collect",
       "clicks": 1,
-      "impressions": 94,
-      "ctr": 1.06,
+      "impressions": 93,
+      "ctr": 1.08,
       "position": 7.2
     },
     {
       "label": "gestion reservation restaurant",
       "clicks": 1,
-      "impressions": 22,
-      "ctr": 4.55,
-      "position": 8.4
+      "impressions": 23,
+      "ctr": 4.35,
+      "position": 8.5
     },
     {
       "label": "guestonline",
@@ -176,8 +176,8 @@
     {
       "label": "la vespa des carmes",
       "clicks": 1,
-      "impressions": 65,
-      "ctr": 1.54,
+      "impressions": 93,
+      "ctr": 1.08,
       "position": 6.6
     },
     {
@@ -197,22 +197,22 @@
     {
       "label": "logiciel de reservation en ligne restaurant",
       "clicks": 1,
-      "impressions": 20,
-      "ctr": 5.0,
-      "position": 5.9
+      "impressions": 19,
+      "ctr": 5.26,
+      "position": 6
     },
     {
       "label": "logiciel gestion réservation restaurant",
       "clicks": 1,
-      "impressions": 22,
-      "ctr": 4.55,
-      "position": 1.8
+      "impressions": 23,
+      "ctr": 4.35,
+      "position": 1.9
     },
     {
       "label": "logiciel réservation restaurant",
       "clicks": 1,
-      "impressions": 137,
-      "ctr": 0.73,
+      "impressions": 134,
+      "ctr": 0.75,
       "position": 2.1
     },
     {
@@ -246,23 +246,23 @@
     {
       "label": "solution réservation restaurant",
       "clicks": 1,
-      "impressions": 34,
-      "ctr": 2.94,
-      "position": 1.4
+      "impressions": 33,
+      "ctr": 3.03,
+      "position": 1.5
     },
     {
       "label": "systeme de reservation pour restaurant",
       "clicks": 1,
-      "impressions": 54,
-      "ctr": 1.85,
-      "position": 3.3
+      "impressions": 51,
+      "ctr": 1.96,
+      "position": 3.2
     },
     {
       "label": "yumcall",
       "clicks": 1,
-      "impressions": 91,
-      "ctr": 1.1,
-      "position": 4.3
+      "impressions": 95,
+      "ctr": 1.05,
+      "position": 4.4
     },
     {
       "label": "\"4 rue du couëdic\" commerce tram nantes",
@@ -274,9 +274,9 @@
     {
       "label": "\"4 rue du couëdic\" nantes \"commerce\" tram",
       "clicks": 0,
-      "impressions": 2,
+      "impressions": 3,
       "ctr": 0,
-      "position": 8.5
+      "position": 8.7
     },
     {
       "label": "\"4 rue du couëdic\" nantes commerce tram",
@@ -351,9 +351,9 @@
     {
       "label": "1001 restaurant",
       "clicks": 0,
-      "impressions": 2,
+      "impressions": 3,
       "ctr": 0,
-      "position": 35
+      "position": 31
     },
     {
       "label": "104 restaurant",
@@ -389,6 +389,13 @@
       "impressions": 2,
       "ctr": 0,
       "position": 31.5
+    },
+    {
+      "label": "125 restaurant",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 43
     },
     {
       "label": "129 cergy",
@@ -706,6 +713,13 @@
       "position": 29.7
     },
     {
+      "label": "83 restaurant",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 58
+    },
+    {
       "label": "88 villepinte",
       "clicks": 0,
       "impressions": 1,
@@ -732,6 +746,13 @@
       "impressions": 1,
       "ctr": 0,
       "position": 39
+    },
+    {
+      "label": "911 battant",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 58
     },
     {
       "label": "96 firminy",
@@ -820,9 +841,9 @@
     {
       "label": "acapulco carry",
       "clicks": 0,
-      "impressions": 2,
+      "impressions": 1,
       "ctr": 0,
-      "position": 38.5
+      "position": 53
     },
     {
       "label": "accès soir",
@@ -974,9 +995,9 @@
     {
       "label": "alternative lafourchette",
       "clicks": 0,
-      "impressions": 16,
+      "impressions": 17,
       "ctr": 0,
-      "position": 1.7
+      "position": 1.8
     },
     {
       "label": "alternative mozrest",
@@ -1009,9 +1030,9 @@
     {
       "label": "alternative the fork restaurateur",
       "clicks": 0,
-      "impressions": 13,
+      "impressions": 14,
       "ctr": 0,
-      "position": 4
+      "position": 3.9
     },
     {
       "label": "alternative thefork site propre",
@@ -1023,9 +1044,9 @@
     {
       "label": "alternative zenchef",
       "clicks": 0,
-      "impressions": 46,
+      "impressions": 48,
       "ctr": 0,
-      "position": 8.3
+      "position": 8.2
     },
     {
       "label": "alternatives to chef",
@@ -1089,6 +1110,13 @@
       "impressions": 1,
       "ctr": 0,
       "position": 27
+    },
+    {
+      "label": "annulation no show reservation restaurant",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 40
     },
     {
       "label": "anywhere restaurant",
@@ -1170,7 +1198,7 @@
     {
       "label": "application gestion réservation restaurant",
       "clicks": 0,
-      "impressions": 41,
+      "impressions": 42,
       "ctr": 0,
       "position": 4.4
     },
@@ -1184,9 +1212,9 @@
     {
       "label": "application réservation restaurant",
       "clicks": 0,
-      "impressions": 51,
+      "impressions": 53,
       "ctr": 0,
-      "position": 11.7
+      "position": 12.0
     },
     {
       "label": "application réservation restaurant gratuit",
@@ -1350,11 +1378,32 @@
       "position": 63.5
     },
     {
+      "label": "attablez vous",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 48
+    },
+    {
       "label": "attablez-vous",
       "clicks": 0,
       "impressions": 1,
       "ctr": 0,
       "position": 43
+    },
+    {
+      "label": "au 36... menu",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 27
+    },
+    {
+      "label": "au 404 br",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 61
     },
     {
       "label": "au 49 chez gwen et alex",
@@ -1376,6 +1425,20 @@
       "impressions": 1,
       "ctr": 0,
       "position": 71
+    },
+    {
+      "label": "au bureau nieppe",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 29.5
+    },
+    {
+      "label": "au carré by le 5 pi r",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 63
     },
     {
       "label": "au coin d'table menu",
@@ -1471,9 +1534,9 @@
     {
       "label": "au pais morlaas",
       "clicks": 0,
-      "impressions": 1,
+      "impressions": 2,
       "ctr": 0,
-      "position": 69
+      "position": 67.5
     },
     {
       "label": "au plaisir cuisiné",
@@ -1632,9 +1695,9 @@
     {
       "label": "avantages qr code restaurant",
       "clicks": 0,
-      "impressions": 17,
+      "impressions": 16,
       "ctr": 0,
-      "position": 6.5
+      "position": 6.6
     },
     {
       "label": "avel zo pleubian",
@@ -1653,7 +1716,7 @@
     {
       "label": "avis logiciel réservation restaurant",
       "clicks": 0,
-      "impressions": 21,
+      "impressions": 20,
       "ctr": 0,
       "position": 2.6
     },
@@ -1688,9 +1751,9 @@
     {
       "label": "avis sur chez hubert le mans",
       "clicks": 0,
-      "impressions": 27,
+      "impressions": 34,
       "ctr": 0,
-      "position": 3.6
+      "position": 3.7
     },
     {
       "label": "avis sur goudale-bethune",
@@ -1709,9 +1772,9 @@
     {
       "label": "avis sur la vespa des carmes",
       "clicks": 0,
-      "impressions": 10,
+      "impressions": 14,
       "ctr": 0,
-      "position": 4.8
+      "position": 4.7
     },
     {
       "label": "avis sur le cochon qui fume",
@@ -1723,7 +1786,7 @@
     {
       "label": "avis sur le kashmir nantes",
       "clicks": 0,
-      "impressions": 11,
+      "impressions": 12,
       "ctr": 0,
       "position": 8
     },
@@ -1796,6 +1859,13 @@
       "impressions": 1,
       "ctr": 0,
       "position": 70
+    },
+    {
+      "label": "azaytoona",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 45
     },
     {
       "label": "azizounette",
@@ -2059,9 +2129,9 @@
     {
       "label": "bien bien restaurant",
       "clicks": 0,
-      "impressions": 1,
+      "impressions": 2,
       "ctr": 0,
-      "position": 55
+      "position": 50
     },
     {
       "label": "bien boire et manger",
@@ -2118,13 +2188,6 @@
       "impressions": 1,
       "ctr": 0,
       "position": 60
-    },
-    {
-      "label": "binomio restaurant",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 92
     },
     {
       "label": "bipbip resto",
@@ -2423,9 +2486,9 @@
     {
       "label": "boutique en ligne restaurant",
       "clicks": 0,
-      "impressions": 1,
+      "impressions": 5,
       "ctr": 0,
-      "position": 20
+      "position": 23
     },
     {
       "label": "bouton réserver google restaurant",
@@ -2598,9 +2661,9 @@
     {
       "label": "buffet à volonté plaisir",
       "clicks": 0,
-      "impressions": 2,
+      "impressions": 1,
       "ctr": 0,
-      "position": 65.5
+      "position": 89
     },
     {
       "label": "burger et terroir",
@@ -2829,9 +2892,9 @@
     {
       "label": "cahier de reservation",
       "clicks": 0,
-      "impressions": 4,
+      "impressions": 3,
       "ctr": 0,
-      "position": 5.2
+      "position": 5.3
     },
     {
       "label": "cahier de reservation 2026",
@@ -2864,7 +2927,7 @@
     {
       "label": "cahier de réservation",
       "clicks": 0,
-      "impressions": 2,
+      "impressions": 1,
       "ctr": 0,
       "position": 5
     },
@@ -2892,9 +2955,9 @@
     {
       "label": "cahier réservation restaurant digital",
       "clicks": 0,
-      "impressions": 4,
+      "impressions": 3,
       "ctr": 0,
-      "position": 3.8
+      "position": 3.7
     },
     {
       "label": "caius pizzarium",
@@ -2906,9 +2969,9 @@
     {
       "label": "calcul commission réservation restaurant",
       "clicks": 0,
-      "impressions": 7,
+      "impressions": 8,
       "ctr": 0,
-      "position": 7.1
+      "position": 6.8
     },
     {
       "label": "canoun dou miejou",
@@ -2990,14 +3053,14 @@
     {
       "label": "carnet de reservation",
       "clicks": 0,
-      "impressions": 9,
+      "impressions": 8,
       "ctr": 0,
-      "position": 4.2
+      "position": 4.4
     },
     {
       "label": "carnet de reservation restaurant",
       "clicks": 0,
-      "impressions": 5,
+      "impressions": 4,
       "ctr": 0,
       "position": 10.2
     },
@@ -3028,6 +3091,13 @@
       "impressions": 3,
       "ctr": 0,
       "position": 23.7
+    },
+    {
+      "label": "carte du moment",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 40.5
     },
     {
       "label": "carte du restaurant",
@@ -3147,13 +3217,6 @@
       "impressions": 1,
       "ctr": 0,
       "position": 55
-    },
-    {
-      "label": "checker restaurant",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 90
     },
     {
       "label": "cherry garden bourg saint maurice",
@@ -3315,6 +3378,13 @@
       "impressions": 1,
       "ctr": 0,
       "position": 17
+    },
+    {
+      "label": "chez erol",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 25
     },
     {
       "label": "chez ever",
@@ -3949,9 +4019,9 @@
     {
       "label": "chez pava",
       "clicks": 0,
-      "impressions": 4,
+      "impressions": 5,
       "ctr": 0,
-      "position": 34.2
+      "position": 33.6
     },
     {
       "label": "chez pepe jean",
@@ -3984,9 +4054,9 @@
     {
       "label": "chez pipon",
       "clicks": 0,
-      "impressions": 1,
+      "impressions": 2,
       "ctr": 0,
-      "position": 47
+      "position": 45.5
     },
     {
       "label": "chez poon",
@@ -4129,6 +4199,13 @@
       "position": 22
     },
     {
+      "label": "chez toko",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 42
+    },
+    {
       "label": "chez tonio",
       "clicks": 0,
       "impressions": 1,
@@ -4253,13 +4330,6 @@
       "impressions": 2,
       "ctr": 0,
       "position": 37.5
-    },
-    {
-      "label": "chicken parmigiana near me",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 54
     },
     {
       "label": "chicken spot mantes",
@@ -4409,6 +4479,13 @@
       "position": 46
     },
     {
+      "label": "click & collect restaurant",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 47
+    },
+    {
       "label": "click and collect restaurant",
       "clicks": 0,
       "impressions": 10,
@@ -4465,6 +4542,13 @@
       "position": 59
     },
     {
+      "label": "code gerer un restaurant",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 8.3
+    },
+    {
       "label": "code menu",
       "clicks": 0,
       "impressions": 1,
@@ -4507,13 +4591,6 @@
       "position": 28.2
     },
     {
-      "label": "combo by dia",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 13
-    },
-    {
       "label": "combo restaurant",
       "clicks": 0,
       "impressions": 1,
@@ -4530,16 +4607,16 @@
     {
       "label": "commande en ligne restaurant",
       "clicks": 0,
-      "impressions": 9,
+      "impressions": 10,
       "ctr": 0,
-      "position": 60.7
+      "position": 61
     },
     {
       "label": "commande en terrasse",
       "clicks": 0,
-      "impressions": 9,
+      "impressions": 10,
       "ctr": 0,
-      "position": 83.7
+      "position": 83.2
     },
     {
       "label": "commande restaurant",
@@ -4551,9 +4628,9 @@
     {
       "label": "commande resto",
       "clicks": 0,
-      "impressions": 3,
+      "impressions": 5,
       "ctr": 0,
-      "position": 31.3
+      "position": 33
     },
     {
       "label": "commande resto en ligne",
@@ -4568,13 +4645,6 @@
       "impressions": 3,
       "ctr": 0,
       "position": 49
-    },
-    {
-      "label": "commander a manger autour de moi",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 46
     },
     {
       "label": "commander a manger et payer en espece",
@@ -4617,6 +4687,13 @@
       "impressions": 1,
       "ctr": 0,
       "position": 76
+    },
+    {
+      "label": "commander un repas",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 51
     },
     {
       "label": "commander à manger autour de moi",
@@ -4712,16 +4789,16 @@
     {
       "label": "comment réserver votre restaurant avec notre outil",
       "clicks": 0,
-      "impressions": 7,
+      "impressions": 9,
       "ctr": 0,
-      "position": 12.3
+      "position": 12
     },
     {
       "label": "commission réservation restaurant",
       "clicks": 0,
-      "impressions": 2,
+      "impressions": 5,
       "ctr": 0,
-      "position": 9
+      "position": 6.8
     },
     {
       "label": "commission thefork",
@@ -4761,7 +4838,7 @@
     {
       "label": "comparatif logiciel réservation restaurant",
       "clicks": 0,
-      "impressions": 16,
+      "impressions": 15,
       "ctr": 0,
       "position": 1.3
     },
@@ -4775,9 +4852,9 @@
     {
       "label": "comparatif sites marché réservation restauration",
       "clicks": 0,
-      "impressions": 11,
+      "impressions": 10,
       "ctr": 0,
-      "position": 2.9
+      "position": 3.1
     },
     {
       "label": "complete reservation",
@@ -4869,13 +4946,6 @@
       "impressions": 1,
       "ctr": 0,
       "position": 61
-    },
-    {
-      "label": "cool k'cahuète menu",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 68
     },
     {
       "label": "coquo lambersart",
@@ -4988,13 +5058,6 @@
       "impressions": 1,
       "ctr": 0,
       "position": 4
-    },
-    {
-      "label": "creperie chez hubert le mans",
-      "clicks": 0,
-      "impressions": 26,
-      "ctr": 0,
-      "position": 6.2
     },
     {
       "label": "creperie hubert",
@@ -5384,9 +5447,9 @@
     {
       "label": "dö la pi",
       "clicks": 0,
-      "impressions": 8,
+      "impressions": 7,
       "ctr": 0,
-      "position": 18.1
+      "position": 18.6
     },
     {
       "label": "e pellicci",
@@ -5566,9 +5629,9 @@
     {
       "label": "empreinte bancaire restaurant",
       "clicks": 0,
-      "impressions": 12,
+      "impressions": 13,
       "ctr": 0,
-      "position": 15
+      "position": 14.2
     },
     {
       "label": "empreinte bancaire réservation restaurant",
@@ -5865,9 +5928,16 @@
       "position": 16.6
     },
     {
+      "label": "fermeture exceptionnelle ce jour",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 6
+    },
+    {
       "label": "fermeture exceptionnelle restaurant",
       "clicks": 0,
-      "impressions": 7,
+      "impressions": 8,
       "ctr": 0,
       "position": 5.4
     },
@@ -5902,7 +5972,7 @@
     {
       "label": "fidélisation client restaurant",
       "clicks": 0,
-      "impressions": 17,
+      "impressions": 16,
       "ctr": 0,
       "position": 7.2
     },
@@ -6021,9 +6091,9 @@
     {
       "label": "foodcollect",
       "clicks": 0,
-      "impressions": 328,
+      "impressions": 337,
       "ctr": 0,
-      "position": 7.1
+      "position": 7
     },
     {
       "label": "foodcourt 786",
@@ -6145,13 +6215,6 @@
       "position": 82
     },
     {
-      "label": "frenchiez mantes la jolie",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 56
-    },
-    {
       "label": "frezel marie",
       "clicks": 0,
       "impressions": 1,
@@ -6243,6 +6306,13 @@
       "position": 31
     },
     {
+      "label": "félicie loos",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 72
+    },
+    {
       "label": "gabistro",
       "clicks": 0,
       "impressions": 1,
@@ -6301,16 +6371,16 @@
     {
       "label": "gestion avis client restaurant cholet",
       "clicks": 0,
-      "impressions": 15,
+      "impressions": 14,
       "ctr": 0,
-      "position": 21.5
+      "position": 21.9
     },
     {
       "label": "gestion avis google restaurant",
       "clicks": 0,
-      "impressions": 14,
+      "impressions": 13,
       "ctr": 0,
-      "position": 9.2
+      "position": 9.1
     },
     {
       "label": "gestion avis restaurant",
@@ -6343,16 +6413,16 @@
     {
       "label": "gestion des réservations restaurant",
       "clicks": 0,
-      "impressions": 28,
+      "impressions": 30,
       "ctr": 0,
       "position": 5.4
     },
     {
       "label": "gestion des réservations restaurant gratuit",
       "clicks": 0,
-      "impressions": 10,
+      "impressions": 9,
       "ctr": 0,
-      "position": 5.8
+      "position": 5.7
     },
     {
       "label": "gestion file d'attente restaurant",
@@ -6378,7 +6448,7 @@
     {
       "label": "gestion réservation restaurant",
       "clicks": 0,
-      "impressions": 21,
+      "impressions": 20,
       "ctr": 0,
       "position": 3.9
     },
@@ -6394,7 +6464,7 @@
       "clicks": 0,
       "impressions": 9,
       "ctr": 0,
-      "position": 53.2
+      "position": 53.8
     },
     {
       "label": "ghys et lo",
@@ -6504,9 +6574,16 @@
     {
       "label": "google reservation restaurant",
       "clicks": 0,
-      "impressions": 6,
+      "impressions": 9,
       "ctr": 0,
-      "position": 10.2
+      "position": 10.4
+    },
+    {
+      "label": "google reserve restaurant",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 14
     },
     {
       "label": "google restaurant",
@@ -6749,7 +6826,7 @@
     {
       "label": "hand restaurant",
       "clicks": 0,
-      "impressions": 13,
+      "impressions": 14,
       "ctr": 0,
       "position": 55.6
     },
@@ -6880,6 +6957,13 @@
       "position": 40.3
     },
     {
+      "label": "hissez ô",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 56
+    },
+    {
       "label": "histoire sans faim nay",
       "clicks": 0,
       "impressions": 1,
@@ -6920,90 +7004,6 @@
       "impressions": 1,
       "ctr": 0,
       "position": 39
-    },
-    {
-      "label": "hopla gresswiller",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 56
-    },
-    {
-      "label": "hoppy monkey purpan",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 70
-    },
-    {
-      "label": "horaire cuisine",
-      "clicks": 0,
-      "impressions": 2,
-      "ctr": 0,
-      "position": 69
-    },
-    {
-      "label": "horaire lunch",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 32
-    },
-    {
-      "label": "horaire restaurant",
-      "clicks": 0,
-      "impressions": 36,
-      "ctr": 0,
-      "position": 22.1
-    },
-    {
-      "label": "horaires restaurant",
-      "clicks": 0,
-      "impressions": 5,
-      "ctr": 0,
-      "position": 31.6
-    },
-    {
-      "label": "horiz restaurant",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 59
-    },
-    {
-      "label": "house factory nevers",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 56
-    },
-    {
-      "label": "hungry belly biarritz",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 43
-    },
-    {
-      "label": "hututu ohain",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 54
-    },
-    {
-      "label": "hé pates moi",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 49
-    },
-    {
-      "label": "ici et là-bas menu",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 29
     }
   ]
 }
