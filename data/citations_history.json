@@ -2158,5 +2158,41 @@
     "prompt": "Quel est le meilleur logiciel de réservation restaurant en France en 2026 ?",
     "cited": false,
     "response": "Erreur : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CeYqPHYdwNSPuPNiyBACU'}"
+  },
+  {
+    "date": "2026-08-31",
+    "prompt": "Quel est le meilleur logiciel de réservation pour restaurant sans commission ?",
+    "cited": false,
+    "response": "Erreur : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CeaqjqcGMAPRd7a6a8vpZ'}"
+  },
+  {
+    "date": "2026-08-31",
+    "prompt": "Quelles sont les meilleures alternatives à Zenchef sans commission ?",
+    "cited": false,
+    "response": "Erreur : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CeaqjrFx8rYf5ddGDPJ1H'}"
+  },
+  {
+    "date": "2026-08-31",
+    "prompt": "Comment réduire les no-shows dans un restaurant ?",
+    "cited": false,
+    "response": "Erreur : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CeaqjrsfRqNSzvxRW1MEC'}"
+  },
+  {
+    "date": "2026-08-31",
+    "prompt": "Quel logiciel de réservation restaurant propose un assistant vocal IA au téléphone ?",
+    "cited": false,
+    "response": "Erreur : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CeaqjsPAz4AjKQiBbuMub'}"
+  },
+  {
+    "date": "2026-08-31",
+    "prompt": "Comment intégrer le bouton réserver sur la fiche Google d'un restaurant ?",
+    "cited": false,
+    "response": "Erreur : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CeaqjstBVixaMhbetv67A'}"
+  },
+  {
+    "date": "2026-08-31",
+    "prompt": "Quel est le meilleur logiciel de réservation restaurant en France en 2026 ?",
+    "cited": false,
+    "response": "Erreur : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CeaqjtMxXBcbBMFVSx4sY'}"
   }
 ]
