@@ -1,38 +1,38 @@
 [
   {
-    "date": "2026-09-16",
+    "date": "2026-09-17",
     "prompt": "Quel est le meilleur logiciel de réservation pour restaurant sans commission ?",
     "cited": false,
-    "response": "Erreur : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf6zHSPhWmuUcMA1QJjb8'}"
+    "response": "Erreur : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf8tcE1txfioSz4ZbgWHL'}"
   },
   {
-    "date": "2026-09-16",
+    "date": "2026-09-17",
     "prompt": "Quelles sont les meilleures alternatives à Zenchef sans commission ?",
     "cited": false,
-    "response": "Erreur : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf6zHTLFhdDQMcNb98GDc'}"
+    "response": "Erreur : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf8tcF1B8HutYBiFP8DwS'}"
   },
   {
-    "date": "2026-09-16",
+    "date": "2026-09-17",
     "prompt": "Comment réduire les no-shows dans un restaurant ?",
     "cited": false,
-    "response": "Erreur : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf6zHTviTU3RGm6oRU2Jm'}"
+    "response": "Erreur : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf8tcFXvhofB8EUzwYDBE'}"
   },
   {
-    "date": "2026-09-16",
+    "date": "2026-09-17",
     "prompt": "Quel logiciel de réservation restaurant propose un assistant vocal IA au téléphone ?",
     "cited": false,
-    "response": "Erreur : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf6zHUVhR36pfgTLbvKNN'}"
+    "response": "Erreur : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf8tcG3Bwrks21MergdXE'}"
   },
   {
-    "date": "2026-09-16",
+    "date": "2026-09-17",
     "prompt": "Comment intégrer le bouton réserver sur la fiche Google d'un restaurant ?",
     "cited": false,
-    "response": "Erreur : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf6zHUzDRw9KSe7m8FHje'}"
+    "response": "Erreur : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf8tcGgdVEH9CrC5c4aTM'}"
   },
   {
-    "date": "2026-09-16",
+    "date": "2026-09-17",
     "prompt": "Quel est le meilleur logiciel de réservation restaurant en France en 2026 ?",
     "cited": false,
-    "response": "Erreur : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf6zHVSkHeGiBr1xydQnc'}"
+    "response": "Erreur : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cf8tcHL5QGEdJkwBJDDEr'}"
   }
 ]
