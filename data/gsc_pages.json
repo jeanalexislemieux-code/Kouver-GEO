@@ -1,79 +1,79 @@
 {
-  "generated_at": "2026-09-24",
+  "generated_at": "2026-09-25",
   "period": [
-    "2026-08-24",
-    "2026-09-21"
+    "2026-08-25",
+    "2026-09-22"
   ],
   "rows": [
     {
       "label": "https://www.kouver.fr/",
-      "clicks": 276,
-      "impressions": 3104,
-      "ctr": 8.89,
-      "position": 28.6
+      "clicks": 277,
+      "impressions": 3064,
+      "ctr": 9.04,
+      "position": 28.4
     },
     {
       "label": "https://www.kouver.fr/logiciel-de-reservation-restaurant/",
-      "clicks": 66,
-      "impressions": 8979,
-      "ctr": 0.74,
+      "clicks": 63,
+      "impressions": 8973,
+      "ctr": 0.7,
       "position": 9.1
     },
     {
       "label": "https://www.kouver.fr/nos-solutions/",
-      "clicks": 27,
-      "impressions": 833,
-      "ctr": 3.24,
+      "clicks": 30,
+      "impressions": 842,
+      "ctr": 3.56,
       "position": 3.2
     },
     {
       "label": "https://www.kouver.fr/alternative-thefork/",
       "clicks": 15,
-      "impressions": 770,
-      "ctr": 1.95,
-      "position": 4.2
+      "impressions": 762,
+      "ctr": 1.97,
+      "position": 4.4
     },
     {
       "label": "https://www.kouver.fr/ia-reservation-restaurant/",
       "clicks": 15,
-      "impressions": 722,
-      "ctr": 2.08,
-      "position": 2.2
+      "impressions": 734,
+      "ctr": 2.04,
+      "position": 2.3
     },
     {
       "label": "https://www.kouver.fr/alternative-a-zenchef/",
-      "clicks": 7,
-      "impressions": 313,
-      "ctr": 2.24,
-      "position": 6.2
+      "clicks": 8,
+      "impressions": 325,
+      "ctr": 2.46,
+      "position": 6.1
     },
     {
       "label": "https://www.kouver.fr/blog-gestion-restaurant/",
       "clicks": 3,
-      "impressions": 406,
-      "ctr": 0.74,
-      "position": 5.7
+      "impressions": 410,
+      "ctr": 0.73,
+      "position": 5.6
     },
     {
       "label": "https://www.kouver.fr/chez-hubert-creperie/",
       "clicks": 3,
-      "impressions": 45,
-      "ctr": 6.67,
+      "impressions": 44,
+      "ctr": 6.82,
       "position": 5.4
-    },
-    {
-      "label": "https://www.kouver.fr/logiciel-de-reservation-restaurant",
-      "clicks": 3,
-      "impressions": 32,
-      "ctr": 9.38,
-      "position": 1.8
     },
     {
       "label": "https://www.kouver.fr/meilleurs-outils-restaurant-francais/",
       "clicks": 3,
-      "impressions": 73,
-      "ctr": 4.11,
-      "position": 7.2
+      "impressions": 71,
+      "ctr": 4.23,
+      "position": 7.3
+    },
+    {
+      "label": "https://www.kouver.fr/activer-reservation-google-restaurant/",
+      "clicks": 2,
+      "impressions": 173,
+      "ctr": 1.16,
+      "position": 9.7
     },
     {
       "label": "https://www.kouver.fr/alternative-a-dousto/",
@@ -85,9 +85,16 @@
     {
       "label": "https://www.kouver.fr/alternative-a-guestonline/",
       "clicks": 2,
-      "impressions": 71,
-      "ctr": 2.82,
-      "position": 3.6
+      "impressions": 73,
+      "ctr": 2.74,
+      "position": 3.8
+    },
+    {
+      "label": "https://www.kouver.fr/logiciel-de-reservation-restaurant",
+      "clicks": 2,
+      "impressions": 32,
+      "ctr": 6.25,
+      "position": 1.8
     },
     {
       "label": "https://www.kouver.fr/telephone-restaurant-decroche-ia/",
@@ -97,18 +104,11 @@
       "position": 10.1
     },
     {
-      "label": "https://www.kouver.fr/activer-reservation-google-restaurant/",
-      "clicks": 1,
-      "impressions": 171,
-      "ctr": 0.58,
-      "position": 9.8
-    },
-    {
       "label": "https://www.kouver.fr/adresses/le-kashmir/",
       "clicks": 1,
-      "impressions": 91,
-      "ctr": 1.1,
-      "position": 8.8
+      "impressions": 111,
+      "ctr": 0.9,
+      "position": 8.6
     },
     {
       "label": "https://www.kouver.fr/alternative-a-overfull/",
@@ -125,11 +125,32 @@
       "position": 5
     },
     {
+      "label": "https://www.kouver.fr/bonnes-adresses-nantes/le-cochon-qui-fume/",
+      "clicks": 1,
+      "impressions": 386,
+      "ctr": 0.26,
+      "position": 8.3
+    },
+    {
+      "label": "https://www.kouver.fr/bonnes-adresses-nantes/le-pationnement/",
+      "clicks": 1,
+      "impressions": 28,
+      "ctr": 3.57,
+      "position": 8.2
+    },
+    {
       "label": "https://www.kouver.fr/empreinte-bancaire-restaurant-anti-no-show/",
       "clicks": 1,
-      "impressions": 94,
-      "ctr": 1.06,
-      "position": 7.2
+      "impressions": 122,
+      "ctr": 0.82,
+      "position": 8.4
+    },
+    {
+      "label": "https://www.kouver.fr/franchises-francaises/",
+      "clicks": 1,
+      "impressions": 29,
+      "ctr": 3.45,
+      "position": 11.3
     },
     {
       "label": "https://www.kouver.fr/gerer-avis-negatifs-google-restaurant/",
@@ -141,16 +162,16 @@
     {
       "label": "https://www.kouver.fr/integrations/",
       "clicks": 1,
-      "impressions": 14,
-      "ctr": 7.14,
-      "position": 2
+      "impressions": 17,
+      "ctr": 5.88,
+      "position": 1.9
     },
     {
       "label": "https://www.kouver.fr/le-pationnement/",
       "clicks": 1,
-      "impressions": 3,
-      "ctr": 33.33,
-      "position": 4.7
+      "impressions": 2,
+      "ctr": 50.0,
+      "position": 4.5
     },
     {
       "label": "https://www.kouver.fr/le-vespa-des-carmes/",
@@ -162,23 +183,30 @@
     {
       "label": "https://www.kouver.fr/liste-attente-restaurant-efficace/",
       "clicks": 1,
-      "impressions": 14,
-      "ctr": 7.14,
-      "position": 5.4
+      "impressions": 18,
+      "ctr": 5.56,
+      "position": 7.7
     },
     {
       "label": "https://www.kouver.fr/logiciel-rh-restauration-top-5-des-meilleures-solutions/",
       "clicks": 1,
-      "impressions": 219,
-      "ctr": 0.46,
+      "impressions": 224,
+      "ctr": 0.45,
       "position": 7.8
     },
     {
       "label": "https://www.kouver.fr/mentions-legales/",
       "clicks": 1,
-      "impressions": 254,
+      "impressions": 258,
       "ctr": 0.39,
-      "position": 2.8
+      "position": 2.5
+    },
+    {
+      "label": "https://www.kouver.fr/ouvrir-un-restaurant/",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 20.0,
+      "position": 3.8
     },
     {
       "label": "https://www.kouver.fr/partenariat-kouver-x-cashpad/",
@@ -204,23 +232,23 @@
     {
       "label": "https://www.kouver.fr/adresses/4-44-bar-lounge/",
       "clicks": 0,
-      "impressions": 33,
+      "impressions": 30,
       "ctr": 0,
-      "position": 8.5
+      "position": 8.7
     },
     {
       "label": "https://www.kouver.fr/alternative-a-sevenrooms/",
       "clicks": 0,
-      "impressions": 10,
+      "impressions": 9,
       "ctr": 0,
-      "position": 6.6
+      "position": 6.3
     },
     {
       "label": "https://www.kouver.fr/alternative-opentable/",
       "clicks": 0,
-      "impressions": 9,
+      "impressions": 8,
       "ctr": 0,
-      "position": 8.1
+      "position": 6.8
     },
     {
       "label": "https://www.kouver.fr/artn-blum/",
@@ -260,86 +288,79 @@
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/",
       "clicks": 0,
-      "impressions": 2,
+      "impressions": 13,
       "ctr": 0,
-      "position": 7.5
+      "position": 10.5
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/4-44-bar-lounge/",
       "clicks": 0,
-      "impressions": 12,
+      "impressions": 23,
       "ctr": 0,
-      "position": 7.5
+      "position": 8.1
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/balthazar/",
       "clicks": 0,
-      "impressions": 5,
+      "impressions": 9,
       "ctr": 0,
-      "position": 8.2
+      "position": 7.7
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/circus/",
       "clicks": 0,
-      "impressions": 103,
+      "impressions": 168,
       "ctr": 0,
-      "position": 6.8
+      "position": 6.6
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/la-villa-roma-brasserie-pizzeria-a-sautron/",
       "clicks": 0,
-      "impressions": 12,
+      "impressions": 19,
       "ctr": 0,
-      "position": 9.1
+      "position": 9.4
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/le-cambronne-bistrot-chic/",
       "clicks": 0,
-      "impressions": 77,
+      "impressions": 122,
       "ctr": 0,
-      "position": 8.5
-    },
-    {
-      "label": "https://www.kouver.fr/bonnes-adresses-nantes/le-cochon-qui-fume/",
-      "clicks": 0,
-      "impressions": 248,
-      "ctr": 0,
-      "position": 8.1
+      "position": 8.2
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/le-josephine-b/",
       "clicks": 0,
-      "impressions": 21,
-      "ctr": 0,
-      "position": 8.6
-    },
-    {
-      "label": "https://www.kouver.fr/bonnes-adresses-nantes/le-kashmir/",
-      "clicks": 0,
-      "impressions": 20,
+      "impressions": 28,
       "ctr": 0,
       "position": 8.1
     },
     {
+      "label": "https://www.kouver.fr/bonnes-adresses-nantes/le-kashmir/",
+      "clicks": 0,
+      "impressions": 31,
+      "ctr": 0,
+      "position": 9.2
+    },
+    {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/le-mas-des-oliviers-a-saint-herblain/",
       "clicks": 0,
-      "impressions": 93,
+      "impressions": 197,
       "ctr": 0,
-      "position": 6.5
+      "position": 6.9
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/le-vespa-des-carmes/",
       "clicks": 0,
-      "impressions": 98,
+      "impressions": 124,
       "ctr": 0,
-      "position": 8.9
+      "position": 9
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/pny/",
       "clicks": 0,
-      "impressions": 26,
+      "impressions": 45,
       "ctr": 0,
-      "position": 6.7
+      "position": 7.2
     },
     {
       "label": "https://www.kouver.fr/cahier-de-reservation-digital/",
@@ -351,9 +372,9 @@
     {
       "label": "https://www.kouver.fr/cahier-de-reservation-papier/",
       "clicks": 0,
-      "impressions": 5,
+      "impressions": 4,
       "ctr": 0,
-      "position": 6
+      "position": 7
     },
     {
       "label": "https://www.kouver.fr/comment-eviter-les-no-show-en-restauration/",
@@ -365,23 +386,23 @@
     {
       "label": "https://www.kouver.fr/confirmation-automatique-reservation-restaurant/",
       "clicks": 0,
-      "impressions": 41,
+      "impressions": 40,
       "ctr": 0,
       "position": 3.2
     },
     {
       "label": "https://www.kouver.fr/empreinte-bancaire-no-show-restaurant/",
       "clicks": 0,
-      "impressions": 26,
+      "impressions": 25,
       "ctr": 0,
       "position": 3.1
     },
     {
       "label": "https://www.kouver.fr/faq/",
       "clicks": 0,
-      "impressions": 611,
+      "impressions": 609,
       "ctr": 0,
-      "position": 1.9
+      "position": 2.0
     },
     {
       "label": "https://www.kouver.fr/fiche-google-restaurant-clients/",
@@ -398,13 +419,6 @@
       "position": 2
     },
     {
-      "label": "https://www.kouver.fr/franchises-francaises/",
-      "clicks": 0,
-      "impressions": 29,
-      "ctr": 0,
-      "position": 11.4
-    },
-    {
       "label": "https://www.kouver.fr/google-reservation/",
       "clicks": 0,
       "impressions": 12,
@@ -414,9 +428,9 @@
     {
       "label": "https://www.kouver.fr/guide-fermeture-exceptionnelle-restaurant/",
       "clicks": 0,
-      "impressions": 39,
+      "impressions": 40,
       "ctr": 0,
-      "position": 8.0
+      "position": 7.9
     },
     {
       "label": "https://www.kouver.fr/guide-ultime-avis-google-restaurant/",
@@ -435,14 +449,14 @@
     {
       "label": "https://www.kouver.fr/le-mestizo-restaurant/",
       "clicks": 0,
-      "impressions": 50,
+      "impressions": 51,
       "ctr": 0,
-      "position": 5.9
+      "position": 5.8
     },
     {
       "label": "https://www.kouver.fr/logiciel-de-restaurant-restaurant",
       "clicks": 0,
-      "impressions": 15,
+      "impressions": 16,
       "ctr": 0,
       "position": 1.4
     },
@@ -456,16 +470,16 @@
     {
       "label": "https://www.kouver.fr/mise-en-place/",
       "clicks": 0,
-      "impressions": 10,
+      "impressions": 11,
       "ctr": 0,
-      "position": 6
+      "position": 6.1
     },
     {
       "label": "https://www.kouver.fr/optimiser-horaires-restaurant-guide/",
       "clicks": 0,
-      "impressions": 9,
+      "impressions": 8,
       "ctr": 0,
-      "position": 9.7
+      "position": 9.9
     },
     {
       "label": "https://www.kouver.fr/outils-gestion-restaurant-indispensables/",
@@ -475,25 +489,18 @@
       "position": 13.9
     },
     {
-      "label": "https://www.kouver.fr/ouvrir-un-restaurant/",
-      "clicks": 0,
-      "impressions": 3,
-      "ctr": 0,
-      "position": 3
-    },
-    {
       "label": "https://www.kouver.fr/pilgrim-restaurant-nantes/",
       "clicks": 0,
-      "impressions": 35,
+      "impressions": 33,
       "ctr": 0,
-      "position": 8.9
+      "position": 8.7
     },
     {
       "label": "https://www.kouver.fr/privatiser-restaurant-groupe-strategie/",
       "clicks": 0,
-      "impressions": 4,
+      "impressions": 5,
       "ctr": 0,
-      "position": 8.5
+      "position": 7
     },
     {
       "label": "https://www.kouver.fr/rentabilite-click-and-collect-restaurant/",
@@ -512,7 +519,7 @@
     {
       "label": "https://www.kouver.fr/site-internet-restaurant-guide-abordable/",
       "clicks": 0,
-      "impressions": 31,
+      "impressions": 30,
       "ctr": 0,
       "position": 6.6
     }
