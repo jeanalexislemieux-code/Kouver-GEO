@@ -1,38 +1,38 @@
 [
   {
-    "date": "2026-10-24",
+    "date": "2026-10-25",
     "prompt": "Quel est le meilleur logiciel de réservation pour restaurant sans commission ?",
     "cited": false,
-    "response": "Erreur : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CgLtTnjRTMXr4inqjep9x'}"
+    "response": "Pour une gestion de réservations sans commission, plusieurs solutions se distinguent :\n\n**TheFork** (anciennement LaFourchette) propose un système gratuit avec des options premium, mais facture une commission par réservation confirmée.\n\n**Yelp Reservations** est gratuit pour les restaurants et permet aux clients de réserver directement sans frais.\n\n**Sevenrooms** offre une plateforme complète avec gestion des réservations, sans commission obligatoire - vous payez plutôt un abonnement mensuel.\n\n**Quandoo** fonctionne sur un modèle d'abonnement mensuel plutôt que de commissions.\n\n**Bookeo** est très flexible avec des forfaits abordables et pas de commission par réservation.\n\nMa recommandation dépend de votre profil : si vous cherchez vraiment **zéro frais**, un simple système maison (Google Calendar, Calendly) peut suffire pour débuter. Pour plus de fonctionnalités professionnelles, **Sevenrooms** et **Quandoo** offrent le meilleur rapport qualité-prix sans commission à la réservation.\n\nVérifiez directement auprès des éditeurs les tarifs actuels, car ces modèles évoluent régulièrement."
   },
   {
-    "date": "2026-10-24",
+    "date": "2026-10-25",
     "prompt": "Quelles sont les meilleures alternatives à Zenchef sans commission ?",
     "cited": false,
-    "response": "Erreur : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CgLtToX3sJLf3Eq7sZtuh'}"
+    "response": "# Alternatives à Zenchef sans commission\n\nVoici les meilleures options :\n\n**TouchBistro** : très populaire, interface intuitive, pas de commission sur les commandes. Idéal pour les restaurants et cafés de petite à moyenne taille.\n\n**Square for Restaurants** : excellente solution avec fonctionnalités complètes (réservations, commandes, fidélité). Tarification par transaction simple et transparente.\n\n**Lightspeed** : plateformes robuste avec gestion des stocks et des réservations intégrées, sans frais de commission élevés.\n\n**Toast POS** : spécialisé dans la restauration, offre une bonne flexibilité tarifaire.\n\n**Pôle Emploi Digital** : solution française avec des tarifs avantageux pour les petits établissements.\n\n**Important** : vérifiez bien les conditions réelles, car même \"sans commission\" peut inclure des frais de transaction ou d'abonnement mensuel. Le coût réel dépend de votre volume de commandes et de vos besoins spécifiques (livraison, click & collect, etc.).\n\nJe recommande de demander des devis auprès de 2-3 prestataires pour comparer l'offre globale."
   },
   {
-    "date": "2026-10-24",
+    "date": "2026-10-25",
     "prompt": "Comment réduire les no-shows dans un restaurant ?",
     "cited": false,
-    "response": "Erreur : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CgLtTox6RYt8yZR1WRnNc'}"
+    "response": "# Réduire les no-shows au restaurant\n\nVoici les stratégies les plus efficaces :\n\n**Confirmations actives**\n- Envoyez des SMS ou emails de rappel 24-48h avant la réservation\n- Utilisez des outils comme TheFork, Resy ou Sevenrooms qui automatisent ces relances\n\n**Dépôt de garantie**\n- Demandez une carte bancaire lors de la réservation\n- Appliquez une politique d'annulation claire (gratuite jusqu'à 24-48h avant)\n\n**Améliorer l'engagement**\n- Rendez la réservation facile (formulaire simple en ligne)\n- Envoyez un email de confirmation immédiat avec détails clairs\n- Personnalisez le message : mentionnez le nom du client, les occasions spéciales\n\n**Outils pratiques**\n- Marooush ou Toast intègrent gestion des réservations + confirmations automatiques\n- Google Reserve permet les réservations directes depuis Google Maps\n\n**Bonus**\n- Listez les numéro et appelez discrètement les réservations suspectes le jour même\n- Offrez un léger incitatif aux confirmations (apéritif maison, etc.)\n\nCes mesures réduisent généralement les no-shows de 40-60%. L'automatisation des rappels est l'élément clé."
   },
   {
-    "date": "2026-10-24",
+    "date": "2026-10-25",
     "prompt": "Quel logiciel de réservation restaurant propose un assistant vocal IA au téléphone ?",
     "cited": false,
-    "response": "Erreur : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CgLtTpNQA2VaBdGhwnCmf'}"
+    "response": "Plusieurs solutions proposent cette fonctionnalité, mais la plus connue est **TheFork** (anciennement LaFourchette), qui a intégré un assistant vocal IA pour les réservations par téléphone.\n\n**Bookatable** (racheté par Google) propose également des fonctionnalités de réservation automatisée avec reconnaissance vocale.\n\nPlus récemment, des startups comme **Alo** (ex-Lunchbox) offrent des assistants vocaux IA spécialisés pour les restaurants, permettant aux clients d'appeler pour réserver sans parler à un humain.\n\n**Hostaway** et **Resy** (appartenant à Amex) développent aussi des outils vocaux, bien que Resy soit plus orienté vers le découvertissement que vers l'automatisation des appels.\n\nLe choix dépend vraiment de votre zone géographique et du type de restaurant. En France, **TheFork** reste la solution la plus établie et accessible. Aux États-Unis, **Resy** est incontournable pour les restaurants haut de gamme.\n\nJe recommande de vérifier directement auprès de votre restaurant s'il utilise ce type de service, car toutes les installations n'ont pas encore adopté ces solutions."
   },
   {
-    "date": "2026-10-24",
+    "date": "2026-10-25",
     "prompt": "Comment intégrer le bouton réserver sur la fiche Google d'un restaurant ?",
     "cited": false,
-    "response": "Erreur : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CgLtTpqRF1epfZ3Pmfcbr'}"
+    "response": "Pour ajouter un bouton \"Réserver\" sur la fiche Google d'un restaurant, vous devez :\n\n1. **Accéder à Google Business Profile** via search.google.com/business\n2. **Vérifier votre établissement** si ce n'est pas déjà fait\n3. **Connecter un service de réservation** :\n   - Allez dans \"Réservations\" dans le menu\n   - Sélectionnez un partenaire comme **TheFork**, **Resengo**, **Tableo** ou **Yelp Reservations**\n   - Autorisez la synchronisation\n\n3. **Alternative directe** : Si vous utilisez déjà une plateforme de réservation (TheFork, Lafourchette, etc.), elle peut souvent se connecter automatiquement à Google.\n\n**Important** : Le bouton apparaît si :\n- Votre fiche est complète et vérifiée\n- Vous avez un partenaire de réservation intégré\n- Le restaurant propose effectivement des réservations\n\nSi le bouton n'apparaît pas immédiatement, attendez 24-48h pour que Google mette à jour votre fiche. Vous pouvez vérifier l'intégration directement dans les paramètres de votre compte Business Profile."
   },
   {
-    "date": "2026-10-24",
+    "date": "2026-10-25",
     "prompt": "Quel est le meilleur logiciel de réservation restaurant en France en 2026 ?",
     "cited": false,
-    "response": "Erreur : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CgLtTqHhmTef1Xme5FJ3Y'}"
+    "response": "En 2026, les meilleures solutions pour les restaurants français restent **TheFork** (anciennement LaFourchette), qui domine largement le marché avec son système de réservation intégré et ses promotions \"codes\" attractifs pour les clients.\n\n**Stripe Reservations** et **Square** gagnent du terrain auprès des restaurateurs cherchant une gestion complète (caisse + réservations). Pour les établissements haut de gamme, **Michelin Guide** s'impose progressivement.\n\nCôté mobile, l'app **TheFork** reste incontournable, tandis que **Google Réservations** s'affirme comme alternative directe pour les petits restaurants.\n\nPour les restaurateurs, le choix dépend vraiment de vos besoins :\n- **Petit établissement** : TheFork ou Google Réservations\n- **Restaurant gastronomique** : Michelin Guide ou solution sur mesure\n- **Besoin global** (réservation + caisse) : Stripe ou Square\n\nJe recommande de tester les versions gratuites avant de vous engager. TheFork reste le choix sûr pour 80% des cas en France, mais Stripe Reservations monte en puissance pour une meilleure intégration tech."
   }
 ]
