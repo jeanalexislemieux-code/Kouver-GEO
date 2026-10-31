@@ -845,5 +845,12 @@
     "total_impressions": 58382,
     "pages_count": 419,
     "queries_count": 1000
+  },
+  {
+    "date": "2026-10-31",
+    "total_clicks": 652,
+    "total_impressions": 65573,
+    "pages_count": 421,
+    "queries_count": 1000
   }
 ]
