@@ -1,205 +1,212 @@
 {
-  "generated_at": "2026-11-06",
+  "generated_at": "2026-11-07",
   "period": [
-    "2026-10-06",
-    "2026-11-03"
+    "2026-10-07",
+    "2026-11-04"
   ],
   "rows": [
     {
       "label": "https://www.kouver.fr/",
-      "clicks": 344,
-      "impressions": 2808,
-      "ctr": 12.25,
-      "position": 29.6
+      "clicks": 333,
+      "impressions": 2796,
+      "ctr": 11.91,
+      "position": 29.9
     },
     {
       "label": "https://www.kouver.fr/logiciel-de-reservation-restaurant/",
-      "clicks": 60,
-      "impressions": 6185,
-      "ctr": 0.97,
-      "position": 9.1
+      "clicks": 57,
+      "impressions": 6146,
+      "ctr": 0.93,
+      "position": 9.0
     },
     {
       "label": "https://www.kouver.fr/nos-solutions/",
-      "clicks": 30,
-      "impressions": 684,
-      "ctr": 4.39,
+      "clicks": 31,
+      "impressions": 673,
+      "ctr": 4.61,
       "position": 2.3
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/la-grange-saint-reverend/",
       "clicks": 20,
-      "impressions": 1608,
-      "ctr": 1.24,
-      "position": 6.1
+      "impressions": 1756,
+      "ctr": 1.14,
+      "position": 6.0
     },
     {
       "label": "https://www.kouver.fr/ia-reservation-restaurant/",
-      "clicks": 13,
-      "impressions": 685,
-      "ctr": 1.9,
+      "clicks": 12,
+      "impressions": 672,
+      "ctr": 1.79,
       "position": 2.2
     },
     {
-      "label": "https://www.kouver.fr/alternative-a-zenchef/",
-      "clicks": 8,
-      "impressions": 429,
-      "ctr": 1.86,
-      "position": 5.3
+      "label": "https://www.kouver.fr/bonnes-adresses-nantes/l-ideal-saint-sebastien-sur-loire/",
+      "clicks": 9,
+      "impressions": 1495,
+      "ctr": 0.6,
+      "position": 6.3
     },
     {
       "label": "https://www.kouver.fr/alternative-thefork/",
       "clicks": 8,
-      "impressions": 474,
-      "ctr": 1.69,
-      "position": 5.0
+      "impressions": 492,
+      "ctr": 1.63,
+      "position": 5.1
     },
     {
-      "label": "https://www.kouver.fr/bonnes-adresses-nantes/l-ideal-saint-sebastien-sur-loire/",
-      "clicks": 8,
-      "impressions": 1325,
-      "ctr": 0.6,
+      "label": "https://www.kouver.fr/alternative-a-zenchef/",
+      "clicks": 7,
+      "impressions": 434,
+      "ctr": 1.61,
+      "position": 5.3
+    },
+    {
+      "label": "https://www.kouver.fr/bonnes-adresses-nantes/auberge-de-l-erdre-la-chapelle-sur-erdre/",
+      "clicks": 7,
+      "impressions": 802,
+      "ctr": 0.87,
       "position": 6.3
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/le-tire-fesses-bouguenais/",
       "clicks": 7,
-      "impressions": 3453,
-      "ctr": 0.2,
+      "impressions": 3687,
+      "ctr": 0.19,
       "position": 7.7
-    },
-    {
-      "label": "https://www.kouver.fr/bonnes-adresses-nantes/auberge-de-l-erdre-la-chapelle-sur-erdre/",
-      "clicks": 6,
-      "impressions": 733,
-      "ctr": 0.82,
-      "position": 6.2
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/le-petit-nakama-nantes/",
       "clicks": 6,
-      "impressions": 956,
-      "ctr": 0.63,
-      "position": 7.7
+      "impressions": 1030,
+      "ctr": 0.58,
+      "position": 7.6
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/tout-au-comptoir-nantes/",
       "clicks": 6,
-      "impressions": 685,
-      "ctr": 0.88,
+      "impressions": 760,
+      "ctr": 0.79,
       "position": 7.8
     },
     {
       "label": "https://www.kouver.fr/logiciel-de-caisse-restaurant/",
       "clicks": 6,
-      "impressions": 1031,
-      "ctr": 0.58,
-      "position": 13.6
-    },
-    {
-      "label": "https://www.kouver.fr/bonnes-adresses-nantes/4-44-bar-lounge/",
-      "clicks": 5,
-      "impressions": 343,
-      "ctr": 1.46,
-      "position": 7.4
+      "impressions": 1128,
+      "ctr": 0.53,
+      "position": 13.9
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/l-amour-des-mets-orvault/",
       "clicks": 5,
-      "impressions": 662,
-      "ctr": 0.76,
+      "impressions": 706,
+      "ctr": 0.71,
       "position": 8.5
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/le-b-arts-nantes/",
       "clicks": 5,
-      "impressions": 148,
-      "ctr": 3.38,
-      "position": 7.0
+      "impressions": 159,
+      "ctr": 3.14,
+      "position": 6.9
+    },
+    {
+      "label": "https://www.kouver.fr/bonnes-adresses-nantes/le-comptoir-de-mamie-bigoude-nantes/",
+      "clicks": 5,
+      "impressions": 1677,
+      "ctr": 0.3,
+      "position": 8.1
+    },
+    {
+      "label": "https://www.kouver.fr/bonnes-adresses-nantes/pur-jus-nantes/",
+      "clicks": 5,
+      "impressions": 509,
+      "ctr": 0.98,
+      "position": 7.4
+    },
+    {
+      "label": "https://www.kouver.fr/bonnes-adresses-nantes/sorya-nantes/",
+      "clicks": 5,
+      "impressions": 191,
+      "ctr": 2.62,
+      "position": 5.8
+    },
+    {
+      "label": "https://www.kouver.fr/bonnes-adresses-nantes/4-44-bar-lounge/",
+      "clicks": 4,
+      "impressions": 342,
+      "ctr": 1.17,
+      "position": 7.5
+    },
+    {
+      "label": "https://www.kouver.fr/bonnes-adresses-nantes/cafe-des-expos-nantes/",
+      "clicks": 4,
+      "impressions": 93,
+      "ctr": 4.3,
+      "position": 9.1
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/inde-et-vous-bindi-nantes/",
       "clicks": 4,
-      "impressions": 250,
-      "ctr": 1.6,
-      "position": 10.5
+      "impressions": 264,
+      "ctr": 1.52,
+      "position": 10.4
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/l-ecailleur-la-baule-escoublac/",
       "clicks": 4,
-      "impressions": 102,
-      "ctr": 3.92,
+      "impressions": 112,
+      "ctr": 3.57,
       "position": 8.5
-    },
-    {
-      "label": "https://www.kouver.fr/bonnes-adresses-nantes/le-comptoir-de-mamie-bigoude-nantes/",
-      "clicks": 4,
-      "impressions": 1641,
-      "ctr": 0.24,
-      "position": 8.1
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/le-fogg-orvault/",
       "clicks": 4,
-      "impressions": 850,
-      "ctr": 0.47,
+      "impressions": 883,
+      "ctr": 0.45,
       "position": 8.2
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/le-hangar-24-nantes/",
       "clicks": 4,
-      "impressions": 3141,
-      "ctr": 0.13,
+      "impressions": 3297,
+      "ctr": 0.12,
       "position": 7.7
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/mamatte-commerce-nantes/",
       "clicks": 4,
-      "impressions": 805,
-      "ctr": 0.5,
+      "impressions": 875,
+      "ctr": 0.46,
       "position": 9.3
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/oh-k-fee-nantes/",
       "clicks": 4,
-      "impressions": 346,
-      "ctr": 1.16,
-      "position": 9.1
+      "impressions": 368,
+      "ctr": 1.09,
+      "position": 9.2
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/pepite-la-chapelle-sur-erdre/",
       "clicks": 4,
-      "impressions": 298,
-      "ctr": 1.34,
-      "position": 5.3
-    },
-    {
-      "label": "https://www.kouver.fr/bonnes-adresses-nantes/pur-jus-nantes/",
-      "clicks": 4,
-      "impressions": 463,
-      "ctr": 0.86,
-      "position": 7.4
-    },
-    {
-      "label": "https://www.kouver.fr/bonnes-adresses-nantes/sorya-nantes/",
-      "clicks": 4,
-      "impressions": 169,
-      "ctr": 2.37,
-      "position": 5.9
+      "impressions": 321,
+      "ctr": 1.25,
+      "position": 5.4
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/wild-burger-nantes/",
       "clicks": 4,
-      "impressions": 518,
-      "ctr": 0.77,
+      "impressions": 553,
+      "ctr": 0.72,
       "position": 6.4
     },
     {
       "label": "https://www.kouver.fr/logiciel-rh-restauration-top-5/",
       "clicks": 4,
-      "impressions": 346,
-      "ctr": 1.16,
-      "position": 10.6
+      "impressions": 336,
+      "ctr": 1.19,
+      "position": 10.2
     },
     {
       "label": "https://www.kouver.fr/on-mange-ou/",
@@ -209,32 +216,39 @@
       "position": 6.2
     },
     {
-      "label": "https://www.kouver.fr/bonnes-adresses-nantes/cafe-des-expos-nantes/",
-      "clicks": 3,
-      "impressions": 80,
-      "ctr": 3.75,
-      "position": 9.0
+      "label": "https://www.kouver.fr/simulateur-restaurant/",
+      "clicks": 4,
+      "impressions": 211,
+      "ctr": 1.9,
+      "position": 4.2
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/en-champs-the-nantes/",
       "clicks": 3,
-      "impressions": 320,
-      "ctr": 0.94,
-      "position": 7.2
+      "impressions": 343,
+      "ctr": 0.87,
+      "position": 7.4
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/fusion-food-nantes/",
       "clicks": 3,
-      "impressions": 238,
-      "ctr": 1.26,
-      "position": 10.8
+      "impressions": 250,
+      "ctr": 1.2,
+      "position": 10.7
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/jean-de-la-queue-la-haie-fouassiere/",
       "clicks": 3,
-      "impressions": 1120,
-      "ctr": 0.27,
+      "impressions": 1231,
+      "ctr": 0.24,
       "position": 7.2
+    },
+    {
+      "label": "https://www.kouver.fr/bonnes-adresses-nantes/l-archipel-la-chapelle-sur-erdre/",
+      "clicks": 3,
+      "impressions": 643,
+      "ctr": 0.47,
+      "position": 8.6
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/l-ardoise-saint-gilles-croix-de-vie/",
@@ -246,72 +260,79 @@
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/la-crepette-saint-jean-de-monts/",
       "clicks": 3,
-      "impressions": 291,
-      "ctr": 1.03,
+      "impressions": 299,
+      "ctr": 1.0,
       "position": 6.9
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/le-broceliande-nantes/",
       "clicks": 3,
-      "impressions": 881,
-      "ctr": 0.34,
+      "impressions": 923,
+      "ctr": 0.33,
       "position": 8.9
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/le-seven-reze/",
       "clicks": 3,
-      "impressions": 191,
-      "ctr": 1.57,
-      "position": 6.1
+      "impressions": 205,
+      "ctr": 1.46,
+      "position": 5.9
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/les-cabines-saint-gilles-croix-de-vie/",
       "clicks": 3,
-      "impressions": 924,
-      "ctr": 0.32,
+      "impressions": 991,
+      "ctr": 0.3,
       "position": 7.5
+    },
+    {
+      "label": "https://www.kouver.fr/bonnes-adresses-nantes/ma-sur-et-moi-nantes/",
+      "clicks": 3,
+      "impressions": 345,
+      "ctr": 0.87,
+      "position": 9.4
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/mahi-mahi-saint-gilles-croix-de-vie/",
       "clicks": 3,
-      "impressions": 360,
-      "ctr": 0.83,
-      "position": 7.6
+      "impressions": 385,
+      "ctr": 0.78,
+      "position": 7.5
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/makoto-nantes/",
       "clicks": 3,
-      "impressions": 139,
-      "ctr": 2.16,
-      "position": 7.0
+      "impressions": 149,
+      "ctr": 2.01,
+      "position": 7
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/pho-minh-nantes/",
       "clicks": 3,
-      "impressions": 369,
-      "ctr": 0.81,
-      "position": 6.3
+      "impressions": 403,
+      "ctr": 0.74,
+      "position": 6.4
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/pilgrim-restaurant-nantes/",
       "clicks": 3,
-      "impressions": 804,
-      "ctr": 0.37,
-      "position": 9.6
+      "impressions": 790,
+      "ctr": 0.38,
+      "position": 9.7
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/villa-cosare-la-bernerie-en-retz/",
       "clicks": 3,
-      "impressions": 358,
-      "ctr": 0.84,
-      "position": 8.6
+      "impressions": 387,
+      "ctr": 0.78,
+      "position": 8.5
     },
     {
       "label": "https://www.kouver.fr/mentions-legales/",
       "clicks": 3,
       "impressions": 203,
       "ctr": 1.48,
-      "position": 2.6
+      "position": 2.7
     },
     {
       "label": "https://www.kouver.fr/partenariat-kouver-x-cashpad/",
@@ -319,27 +340,6 @@
       "impressions": 13,
       "ctr": 23.08,
       "position": 4.7
-    },
-    {
-      "label": "https://www.kouver.fr/simulateur-restaurant/",
-      "clicks": 3,
-      "impressions": 211,
-      "ctr": 1.42,
-      "position": 4.2
-    },
-    {
-      "label": "https://www.kouver.fr/alternative-a-guestonline/",
-      "clicks": 2,
-      "impressions": 327,
-      "ctr": 0.61,
-      "position": 6.8
-    },
-    {
-      "label": "https://www.kouver.fr/blog-gestion-restaurant/",
-      "clicks": 2,
-      "impressions": 258,
-      "ctr": 0.78,
-      "position": 12.3
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/",
@@ -351,128 +351,149 @@
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/14-avenue-la-baule-escoublac/",
       "clicks": 2,
-      "impressions": 221,
-      "ctr": 0.9,
-      "position": 6.8
+      "impressions": 246,
+      "ctr": 0.81,
+      "position": 6.9
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/a-poele-nantes/",
       "clicks": 2,
-      "impressions": 120,
-      "ctr": 1.67,
-      "position": 9.3
+      "impressions": 132,
+      "ctr": 1.52,
+      "position": 9.4
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/auberge-la-grignotiere-bouaye/",
       "clicks": 2,
-      "impressions": 134,
-      "ctr": 1.49,
-      "position": 10.1
+      "impressions": 142,
+      "ctr": 1.41,
+      "position": 9.9
+    },
+    {
+      "label": "https://www.kouver.fr/bonnes-adresses-nantes/bang-bang-nantes/",
+      "clicks": 2,
+      "impressions": 787,
+      "ctr": 0.25,
+      "position": 9.2
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/bistrot-marcel-reze/",
       "clicks": 2,
-      "impressions": 206,
-      "ctr": 0.97,
-      "position": 7.1
+      "impressions": 229,
+      "ctr": 0.87,
+      "position": 7.2
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/cafe-pepone-orvault/",
       "clicks": 2,
-      "impressions": 257,
-      "ctr": 0.78,
+      "impressions": 268,
+      "ctr": 0.75,
       "position": 9.9
+    },
+    {
+      "label": "https://www.kouver.fr/bonnes-adresses-nantes/cly-coffee-house-nantes/",
+      "clicks": 2,
+      "impressions": 403,
+      "ctr": 0.5,
+      "position": 7.5
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/curry-house-a-nantes-lindien-de-la-rue-de-la-juiverie/",
       "clicks": 2,
-      "impressions": 266,
-      "ctr": 0.75,
-      "position": 7.4
+      "impressions": 250,
+      "ctr": 0.8,
+      "position": 7.3
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/dalle-a-nantes/",
       "clicks": 2,
-      "impressions": 641,
-      "ctr": 0.31,
+      "impressions": 699,
+      "ctr": 0.29,
       "position": 8.7
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/db-burger-nantes/",
       "clicks": 2,
-      "impressions": 353,
-      "ctr": 0.57,
+      "impressions": 399,
+      "ctr": 0.5,
       "position": 7.4
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/ferveur-saint-sebastien-sur-loire/",
       "clicks": 2,
-      "impressions": 266,
-      "ctr": 0.75,
-      "position": 9.7
+      "impressions": 295,
+      "ctr": 0.68,
+      "position": 9.8
+    },
+    {
+      "label": "https://www.kouver.fr/bonnes-adresses-nantes/l-annexe-la-barre-de-monts/",
+      "clicks": 2,
+      "impressions": 138,
+      "ctr": 1.45,
+      "position": 7.2
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/l-antre-nous-pornic/",
       "clicks": 2,
-      "impressions": 153,
-      "ctr": 1.31,
+      "impressions": 162,
+      "ctr": 1.23,
       "position": 8.5
     },
     {
-      "label": "https://www.kouver.fr/bonnes-adresses-nantes/l-archipel-la-chapelle-sur-erdre/",
+      "label": "https://www.kouver.fr/bonnes-adresses-nantes/l-itineraire-treillieres/",
       "clicks": 2,
-      "impressions": 620,
-      "ctr": 0.32,
-      "position": 8.6
+      "impressions": 601,
+      "ctr": 0.33,
+      "position": 7.2
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/la-bigoudene-la-chapelle-sur-erdre/",
       "clicks": 2,
-      "impressions": 747,
-      "ctr": 0.27,
-      "position": 7.7
+      "impressions": 790,
+      "ctr": 0.25,
+      "position": 7.6
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/la-civelle-trentemoult/",
       "clicks": 2,
-      "impressions": 564,
-      "ctr": 0.35,
-      "position": 9.8
+      "impressions": 594,
+      "ctr": 0.34,
+      "position": 9.6
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/la-kaz-pornic/",
       "clicks": 2,
-      "impressions": 251,
-      "ctr": 0.8,
+      "impressions": 265,
+      "ctr": 0.75,
       "position": 8.9
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/la-moulerie-brule-doigts-nantes/",
       "clicks": 2,
-      "impressions": 269,
-      "ctr": 0.74,
+      "impressions": 277,
+      "ctr": 0.72,
       "position": 7.8
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/la-moulerie-notre-dame-de-monts/",
       "clicks": 2,
-      "impressions": 202,
-      "ctr": 0.99,
+      "impressions": 211,
+      "ctr": 0.95,
       "position": 7.0
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/la-table-des-bons-vivants-sainte-luce-sur-loire/",
       "clicks": 2,
-      "impressions": 803,
-      "ctr": 0.25,
-      "position": 7.7
+      "impressions": 857,
+      "ctr": 0.23,
+      "position": 7.6
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/la-taverne-royale-nantes/",
       "clicks": 2,
-      "impressions": 72,
-      "ctr": 2.78,
-      "position": 10.3
+      "impressions": 77,
+      "ctr": 2.6,
+      "position": 10.5
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/lacertus-les-sables-d-olonne/",
@@ -484,142 +505,156 @@
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/le-beau-nid-suce-sur-erdre/",
       "clicks": 2,
-      "impressions": 120,
-      "ctr": 1.67,
+      "impressions": 136,
+      "ctr": 1.47,
       "position": 8.1
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/le-bistrot-des-halles-savenay/",
       "clicks": 2,
-      "impressions": 302,
-      "ctr": 0.66,
+      "impressions": 318,
+      "ctr": 0.63,
       "position": 9.0
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/le-christina-clisson/",
       "clicks": 2,
-      "impressions": 216,
-      "ctr": 0.93,
+      "impressions": 234,
+      "ctr": 0.85,
       "position": 7.5
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/le-grand-four-noirmoutier-en-l-ile/",
       "clicks": 2,
-      "impressions": 177,
-      "ctr": 1.13,
+      "impressions": 199,
+      "ctr": 1.01,
       "position": 8.7
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/le-rayon-vert-saint-gilles-croix-de-vie/",
       "clicks": 2,
-      "impressions": 476,
-      "ctr": 0.42,
-      "position": 9.0
+      "impressions": 498,
+      "ctr": 0.4,
+      "position": 9.1
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/le-select-nantes/",
       "clicks": 2,
-      "impressions": 170,
-      "ctr": 1.18,
-      "position": 7.4
-    },
-    {
-      "label": "https://www.kouver.fr/bonnes-adresses-nantes/ma-sur-et-moi-nantes/",
-      "clicks": 2,
-      "impressions": 325,
-      "ctr": 0.62,
-      "position": 9.5
+      "impressions": 193,
+      "ctr": 1.04,
+      "position": 7.3
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/maison-bagarre-nantes/",
       "clicks": 2,
-      "impressions": 83,
-      "ctr": 2.41,
-      "position": 7.9
+      "impressions": 89,
+      "ctr": 2.25,
+      "position": 7.8
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/melbourne-coffee-nantes/",
       "clicks": 2,
-      "impressions": 272,
-      "ctr": 0.74,
-      "position": 7.9
+      "impressions": 279,
+      "ctr": 0.72,
+      "position": 8.1
+    },
+    {
+      "label": "https://www.kouver.fr/bonnes-adresses-nantes/naniwa-by-edo-nantes/",
+      "clicks": 2,
+      "impressions": 235,
+      "ctr": 0.85,
+      "position": 8.4
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/o-4-saisons-coueron/",
       "clicks": 2,
-      "impressions": 152,
-      "ctr": 1.32,
-      "position": 6.9
+      "impressions": 174,
+      "ctr": 1.15,
+      "position": 7.0
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/pepe-guinguette-nantes/",
       "clicks": 2,
-      "impressions": 149,
-      "ctr": 1.34,
-      "position": 10.2
+      "impressions": 158,
+      "ctr": 1.27,
+      "position": 10.1
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/quartier-libre-nantes/",
       "clicks": 2,
-      "impressions": 518,
-      "ctr": 0.39,
+      "impressions": 536,
+      "ctr": 0.37,
       "position": 8.0
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/reginella-saint-sebastien-sur-loire/",
       "clicks": 2,
-      "impressions": 803,
-      "ctr": 0.25,
-      "position": 7.5
+      "impressions": 830,
+      "ctr": 0.24,
+      "position": 7.4
+    },
+    {
+      "label": "https://www.kouver.fr/bonnes-adresses-nantes/restaurant-de-la-vallee-clisson/",
+      "clicks": 2,
+      "impressions": 316,
+      "ctr": 0.63,
+      "position": 9.1
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/restaurant-l-ephemere/",
       "clicks": 2,
-      "impressions": 773,
+      "impressions": 763,
       "ctr": 0.26,
       "position": 7.9
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/restaurant-le-bourgeois-saint-sebastien-sur-loire/",
       "clicks": 2,
-      "impressions": 1190,
-      "ctr": 0.17,
+      "impressions": 1276,
+      "ctr": 0.16,
       "position": 7.7
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/table-d-elephant-nantes/",
       "clicks": 2,
-      "impressions": 390,
-      "ctr": 0.51,
-      "position": 8.2
+      "impressions": 408,
+      "ctr": 0.49,
+      "position": 8.1
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/thamaris-saint-michel-chef-chef/",
       "clicks": 2,
-      "impressions": 474,
-      "ctr": 0.42,
+      "impressions": 491,
+      "ctr": 0.41,
       "position": 8.8
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/topette-esprit-bistrot-thouare-sur-loire/",
       "clicks": 2,
-      "impressions": 322,
-      "ctr": 0.62,
-      "position": 8.4
+      "impressions": 352,
+      "ctr": 0.57,
+      "position": 8.3
     },
     {
       "label": "https://www.kouver.fr/le-mestizo-restaurant/",
       "clicks": 2,
-      "impressions": 44,
-      "ctr": 4.55,
-      "position": 6.1
+      "impressions": 43,
+      "ctr": 4.65,
+      "position": 6.0
     },
     {
       "label": "https://www.kouver.fr/activer-reservation-google-restaurant/",
       "clicks": 1,
-      "impressions": 203,
-      "ctr": 0.49,
-      "position": 8.8
+      "impressions": 215,
+      "ctr": 0.47,
+      "position": 8.9
+    },
+    {
+      "label": "https://www.kouver.fr/alternative-a-guestonline/",
+      "clicks": 1,
+      "impressions": 307,
+      "ctr": 0.33,
+      "position": 6.8
     },
     {
       "label": "https://www.kouver.fr/alternative-a-sevenrooms/",
@@ -629,46 +664,46 @@
       "position": 6.2
     },
     {
+      "label": "https://www.kouver.fr/bonnes-adresses-nantes/2-potes-au-feu-nantes/",
+      "clicks": 1,
+      "impressions": 141,
+      "ctr": 0.71,
+      "position": 10.4
+    },
+    {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/ak-shelter-saint-herblain/",
       "clicks": 1,
-      "impressions": 553,
-      "ctr": 0.18,
-      "position": 7.3
+      "impressions": 597,
+      "ctr": 0.17,
+      "position": 7.4
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/amour-de-pomme-de-terre-nantes/",
       "clicks": 1,
-      "impressions": 799,
-      "ctr": 0.13,
+      "impressions": 873,
+      "ctr": 0.11,
       "position": 8.1
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/au-d-tour-nantes/",
       "clicks": 1,
-      "impressions": 20,
-      "ctr": 5.0,
-      "position": 11.9
+      "impressions": 24,
+      "ctr": 4.17,
+      "position": 11.0
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/au-p-tit-plaisir-l-epine/",
       "clicks": 1,
-      "impressions": 112,
-      "ctr": 0.89,
-      "position": 6.9
-    },
-    {
-      "label": "https://www.kouver.fr/bonnes-adresses-nantes/bang-bang-nantes/",
-      "clicks": 1,
-      "impressions": 742,
-      "ctr": 0.13,
-      "position": 9.3
+      "impressions": 118,
+      "ctr": 0.85,
+      "position": 6.8
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/basta-nantes/",
       "clicks": 1,
-      "impressions": 250,
-      "ctr": 0.4,
-      "position": 7.9
+      "impressions": 290,
+      "ctr": 0.34,
+      "position": 7.7
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/beau-reve-nantes/",
@@ -687,71 +722,71 @@
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/bistrot-somar-le-croisic/",
       "clicks": 1,
-      "impressions": 59,
-      "ctr": 1.69,
+      "impressions": 60,
+      "ctr": 1.67,
       "position": 10.1
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/black-white-burger-commerce-nantes/",
       "clicks": 1,
-      "impressions": 76,
-      "ctr": 1.32,
-      "position": 9.8
+      "impressions": 83,
+      "ctr": 1.2,
+      "position": 9.9
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/brunch-brunch-nantes/",
       "clicks": 1,
-      "impressions": 81,
-      "ctr": 1.23,
-      "position": 11.7
+      "impressions": 84,
+      "ctr": 1.19,
+      "position": 12.5
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/burger-lab-nantes/",
       "clicks": 1,
-      "impressions": 95,
-      "ctr": 1.05,
+      "impressions": 97,
+      "ctr": 1.03,
       "position": 9.0
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/cafe-de-la-plage-le-pouliguen/",
       "clicks": 1,
-      "impressions": 381,
-      "ctr": 0.26,
-      "position": 7.5
+      "impressions": 414,
+      "ctr": 0.24,
+      "position": 7.7
+    },
+    {
+      "label": "https://www.kouver.fr/bonnes-adresses-nantes/chez-alex-carquefou/",
+      "clicks": 1,
+      "impressions": 90,
+      "ctr": 1.11,
+      "position": 10.1
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/circus/",
       "clicks": 1,
-      "impressions": 77,
-      "ctr": 1.3,
-      "position": 6.0
-    },
-    {
-      "label": "https://www.kouver.fr/bonnes-adresses-nantes/cly-coffee-house-nantes/",
-      "clicks": 1,
-      "impressions": 375,
-      "ctr": 0.27,
-      "position": 7.1
+      "impressions": 74,
+      "ctr": 1.35,
+      "position": 6.1
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/cote-et-baie-la-bernerie-en-retz/",
       "clicks": 1,
-      "impressions": 280,
-      "ctr": 0.36,
+      "impressions": 300,
+      "ctr": 0.33,
       "position": 8.4
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/dockside-food-hall-saint-herblain/",
       "clicks": 1,
-      "impressions": 1291,
-      "ctr": 0.08,
-      "position": 8.8
+      "impressions": 1343,
+      "ctr": 0.07,
+      "position": 8.7
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/giorgia-nantes/",
       "clicks": 1,
-      "impressions": 273,
-      "ctr": 0.37,
+      "impressions": 303,
+      "ctr": 0.33,
       "position": 7.9
     },
     {
@@ -764,107 +799,100 @@
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/grandma-sautron/",
       "clicks": 1,
-      "impressions": 234,
-      "ctr": 0.43,
+      "impressions": 252,
+      "ctr": 0.4,
       "position": 8.2
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/house-of-merry-s-nantes/",
       "clicks": 1,
-      "impressions": 24,
-      "ctr": 4.17,
-      "position": 6.6
+      "impressions": 25,
+      "ctr": 4.0,
+      "position": 6.7
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/kalouna-nantes/",
       "clicks": 1,
-      "impressions": 155,
-      "ctr": 0.65,
-      "position": 7.7
+      "impressions": 170,
+      "ctr": 0.59,
+      "position": 7.6
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/l-alplaya-saint-michel-chef-chef/",
       "clicks": 1,
-      "impressions": 59,
-      "ctr": 1.69,
-      "position": 10.5
-    },
-    {
-      "label": "https://www.kouver.fr/bonnes-adresses-nantes/l-annexe-la-barre-de-monts/",
-      "clicks": 1,
-      "impressions": 132,
-      "ctr": 0.76,
-      "position": 7.2
+      "impressions": 60,
+      "ctr": 1.67,
+      "position": 10.4
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/l-apostrophe-suce-sur-erdre/",
       "clicks": 1,
-      "impressions": 76,
-      "ctr": 1.32,
-      "position": 8.4
+      "impressions": 88,
+      "ctr": 1.14,
+      "position": 8.5
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/l-atelier-du-bobun-nantes/",
       "clicks": 1,
-      "impressions": 267,
-      "ctr": 0.37,
-      "position": 5.6
+      "impressions": 284,
+      "ctr": 0.35,
+      "position": 5.5
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/l-auberge-du-menhir-saint-nazaire/",
       "clicks": 1,
-      "impressions": 259,
-      "ctr": 0.39,
-      "position": 9.4
+      "impressions": 277,
+      "ctr": 0.36,
+      "position": 9.5
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/l-entrecote-nantes/",
       "clicks": 1,
-      "impressions": 146,
-      "ctr": 0.68,
-      "position": 10.9
-    },
-    {
-      "label": "https://www.kouver.fr/bonnes-adresses-nantes/l-itineraire-treillieres/",
-      "clicks": 1,
-      "impressions": 542,
-      "ctr": 0.18,
-      "position": 7.2
+      "impressions": 154,
+      "ctr": 0.65,
+      "position": 10.7
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/la-500-nantes/",
       "clicks": 1,
-      "impressions": 859,
-      "ctr": 0.12,
-      "position": 7.7
+      "impressions": 944,
+      "ctr": 0.11,
+      "position": 7.6
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/la-brasserie-constance-les-sorinieres/",
       "clicks": 1,
-      "impressions": 417,
-      "ctr": 0.24,
+      "impressions": 453,
+      "ctr": 0.22,
       "position": 9.0
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/la-cantine-du-cure-nantes/",
       "clicks": 1,
-      "impressions": 162,
-      "ctr": 0.62,
+      "impressions": 172,
+      "ctr": 0.58,
       "position": 8.4
+    },
+    {
+      "label": "https://www.kouver.fr/bonnes-adresses-nantes/la-cascade-clisson/",
+      "clicks": 1,
+      "impressions": 120,
+      "ctr": 0.83,
+      "position": 16.0
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/la-flambee-saint-brevin-les-pins/",
       "clicks": 1,
-      "impressions": 216,
-      "ctr": 0.46,
-      "position": 8.9
+      "impressions": 226,
+      "ctr": 0.44,
+      "position": 9.0
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/la-gigouillette-saint-jean-de-monts/",
       "clicks": 1,
-      "impressions": 271,
-      "ctr": 0.37,
-      "position": 7.3
+      "impressions": 282,
+      "ctr": 0.35,
+      "position": 7.2
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/la-grange-la-barre-de-monts/",
@@ -876,9 +904,9 @@
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/la-p-tite-crepe-rit-pornic/",
       "clicks": 1,
-      "impressions": 192,
-      "ctr": 0.52,
-      "position": 10.9
+      "impressions": 199,
+      "ctr": 0.5,
+      "position": 10.8
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/la-parenthese-les-sorinieres/",
@@ -890,37 +918,37 @@
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/la-pente-douce-nantes/",
       "clicks": 1,
-      "impressions": 236,
-      "ctr": 0.42,
-      "position": 7.7
+      "impressions": 265,
+      "ctr": 0.38,
+      "position": 7.6
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/la-ritournelle-coueron/",
       "clicks": 1,
-      "impressions": 234,
-      "ctr": 0.43,
-      "position": 9.1
+      "impressions": 253,
+      "ctr": 0.4,
+      "position": 9.2
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/la-sabliere-sainte-luce-sur-loire/",
       "clicks": 1,
-      "impressions": 114,
-      "ctr": 0.88,
+      "impressions": 118,
+      "ctr": 0.85,
       "position": 9.4
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/la-vache-nantaise/",
       "clicks": 1,
-      "impressions": 152,
-      "ctr": 0.66,
+      "impressions": 113,
+      "ctr": 0.88,
       "position": 8.4
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/le-20-six-saint-jean-de-monts/",
       "clicks": 1,
-      "impressions": 130,
-      "ctr": 0.77,
-      "position": 9.7
+      "impressions": 142,
+      "ctr": 0.7,
+      "position": 9.6
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/le-bistrot-basque-nantes/",
@@ -932,58 +960,65 @@
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/le-boya-bouaye/",
       "clicks": 1,
-      "impressions": 121,
-      "ctr": 0.83,
-      "position": 8.3
+      "impressions": 143,
+      "ctr": 0.7,
+      "position": 8.2
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/le-centre-prefailles/",
       "clicks": 1,
-      "impressions": 225,
-      "ctr": 0.44,
+      "impressions": 249,
+      "ctr": 0.4,
       "position": 9.0
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/le-comptoir-de-goul-treillieres/",
       "clicks": 1,
-      "impressions": 64,
-      "ctr": 1.56,
+      "impressions": 73,
+      "ctr": 1.37,
       "position": 8.0
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/le-homard-frites-nantes/",
       "clicks": 1,
-      "impressions": 376,
-      "ctr": 0.27,
+      "impressions": 414,
+      "ctr": 0.24,
       "position": 8.9
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/le-kashmir/",
       "clicks": 1,
-      "impressions": 39,
-      "ctr": 2.56,
-      "position": 7.7
+      "impressions": 41,
+      "ctr": 2.44,
+      "position": 7.5
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/le-laumas-pornic/",
       "clicks": 1,
-      "impressions": 160,
-      "ctr": 0.62,
+      "impressions": 167,
+      "ctr": 0.6,
       "position": 7.3
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/le-manoir-de-la-regate-nantes/",
       "clicks": 1,
-      "impressions": 425,
-      "ctr": 0.24,
+      "impressions": 477,
+      "ctr": 0.21,
       "position": 10.2
+    },
+    {
+      "label": "https://www.kouver.fr/bonnes-adresses-nantes/le-mesopotamia-2-orvault/",
+      "clicks": 1,
+      "impressions": 437,
+      "ctr": 0.23,
+      "position": 5.4
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/le-pationnement/",
       "clicks": 1,
-      "impressions": 677,
+      "impressions": 681,
       "ctr": 0.15,
-      "position": 9.0
+      "position": 9.2
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/le-petit-boucot-nantes/",
@@ -995,71 +1030,78 @@
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/le-ptit-tonneau-nantes/",
       "clicks": 1,
-      "impressions": 398,
-      "ctr": 0.25,
+      "impressions": 419,
+      "ctr": 0.24,
       "position": 6.9
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/le-saint-valentin-pornichet/",
       "clicks": 1,
-      "impressions": 214,
-      "ctr": 0.47,
-      "position": 6.8
+      "impressions": 223,
+      "ctr": 0.45,
+      "position": 6.7
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/le-semaphore-nantes/",
       "clicks": 1,
-      "impressions": 327,
-      "ctr": 0.31,
-      "position": 8.9
+      "impressions": 343,
+      "ctr": 0.29,
+      "position": 8.8
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/le-soleil-nantes/",
       "clicks": 1,
-      "impressions": 143,
-      "ctr": 0.7,
+      "impressions": 145,
+      "ctr": 0.69,
       "position": 8.5
+    },
+    {
+      "label": "https://www.kouver.fr/bonnes-adresses-nantes/le-tova-la-baule-escoublac/",
+      "clicks": 1,
+      "impressions": 142,
+      "ctr": 0.7,
+      "position": 8.3
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/le-vespa-des-carmes/",
       "clicks": 1,
-      "impressions": 559,
+      "impressions": 563,
       "ctr": 0.18,
-      "position": 9.5
+      "position": 9.4
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/les-bains-saint-gilles-croix-de-vie/",
       "clicks": 1,
-      "impressions": 182,
-      "ctr": 0.55,
+      "impressions": 186,
+      "ctr": 0.54,
       "position": 6.8
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/les-chants-d-avril-nantes/",
       "clicks": 1,
-      "impressions": 80,
-      "ctr": 1.25,
+      "impressions": 83,
+      "ctr": 1.2,
       "position": 9.9
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/les-garcons-bouchers-la-chapelle-sur-erdre/",
       "clicks": 1,
-      "impressions": 790,
-      "ctr": 0.13,
+      "impressions": 817,
+      "ctr": 0.12,
       "position": 8.5
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/les-lapins-de-la-butte-nantes/",
       "clicks": 1,
-      "impressions": 388,
-      "ctr": 0.26,
-      "position": 8.5
+      "impressions": 410,
+      "ctr": 0.24,
+      "position": 8.6
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/les-nantais-saint-herblain/",
       "clicks": 1,
-      "impressions": 174,
-      "ctr": 0.57,
+      "impressions": 184,
+      "ctr": 0.54,
       "position": 7.9
     },
     {
@@ -1072,9 +1114,9 @@
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/little-william-nantes/",
       "clicks": 1,
-      "impressions": 309,
-      "ctr": 0.32,
-      "position": 7.3
+      "impressions": 356,
+      "ctr": 0.28,
+      "position": 7.5
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/madeleine-cafe-nantes/",
@@ -1086,8 +1128,8 @@
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/maison-loic-la-baule-escoublac/",
       "clicks": 1,
-      "impressions": 190,
-      "ctr": 0.53,
+      "impressions": 199,
+      "ctr": 0.5,
       "position": 8.4
     },
     {
@@ -1100,72 +1142,65 @@
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/meiga-nantes/",
       "clicks": 1,
-      "impressions": 213,
-      "ctr": 0.47,
-      "position": 9.2
+      "impressions": 230,
+      "ctr": 0.43,
+      "position": 9.1
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/mets-entre-potes-clisson/",
       "clicks": 1,
-      "impressions": 210,
-      "ctr": 0.48,
+      "impressions": 218,
+      "ctr": 0.46,
       "position": 8.2
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/nuvola-pizzeria-italiana-thouare-sur-loire/",
       "clicks": 1,
-      "impressions": 237,
-      "ctr": 0.42,
+      "impressions": 261,
+      "ctr": 0.38,
       "position": 9.7
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/o-6-bis-les-sorinieres/",
       "clicks": 1,
-      "impressions": 57,
-      "ctr": 1.75,
-      "position": 10.3
+      "impressions": 65,
+      "ctr": 1.54,
+      "position": 10.0
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/o-gout-du-temple-le-temple-de-bretagne/",
       "clicks": 1,
-      "impressions": 449,
-      "ctr": 0.22,
+      "impressions": 470,
+      "ctr": 0.21,
       "position": 5.9
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/oneul-nantes/",
       "clicks": 1,
-      "impressions": 212,
-      "ctr": 0.47,
-      "position": 7.2
+      "impressions": 237,
+      "ctr": 0.42,
+      "position": 7.1
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/pizzeria-pirouette-nantes/",
       "clicks": 1,
-      "impressions": 588,
-      "ctr": 0.17,
+      "impressions": 615,
+      "ctr": 0.16,
       "position": 8.1
-    },
-    {
-      "label": "https://www.kouver.fr/bonnes-adresses-nantes/restaurant-de-la-vallee-clisson/",
-      "clicks": 1,
-      "impressions": 262,
-      "ctr": 0.38,
-      "position": 8.9
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/tulli-clisson/",
       "clicks": 1,
-      "impressions": 172,
-      "ctr": 0.58,
-      "position": 7.9
+      "impressions": 183,
+      "ctr": 0.55,
+      "position": 8.0
     },
     {
       "label": "https://www.kouver.fr/confirmation-automatique-reservation-restaurant/",
       "clicks": 1,
-      "impressions": 19,
-      "ctr": 5.26,
-      "position": 6.4
+      "impressions": 18,
+      "ctr": 5.56,
+      "position": 6.2
     },
     {
       "label": "https://www.kouver.fr/empreinte-bancaire-no-show-restaurant/",
@@ -1177,23 +1212,16 @@
     {
       "label": "https://www.kouver.fr/mise-en-place/",
       "clicks": 1,
-      "impressions": 10,
-      "ctr": 10.0,
-      "position": 6
-    },
-    {
-      "label": "https://www.kouver.fr/reservation-en-ligne-restaurant-2026/",
-      "clicks": 1,
       "impressions": 9,
       "ctr": 11.11,
-      "position": 8.6
+      "position": 6.2
     },
     {
       "label": "https://www.kouver.fr/telephone-restaurant-decroche-ia/",
       "clicks": 1,
-      "impressions": 30,
-      "ctr": 3.33,
-      "position": 6.0
+      "impressions": 33,
+      "ctr": 3.03,
+      "position": 6.1
     },
     {
       "label": "https://www.kouver.fr/adresses/le-kashmir/",
@@ -1231,11 +1259,11 @@
       "position": 7.2
     },
     {
-      "label": "https://www.kouver.fr/bonnes-adresses-nantes/2-potes-au-feu-nantes/",
+      "label": "https://www.kouver.fr/blog-gestion-restaurant/",
       "clicks": 0,
-      "impressions": 130,
+      "impressions": 267,
       "ctr": 0,
-      "position": 10.4
+      "position": 13.7
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/257-bar-restaurant-nantes/",
@@ -1247,51 +1275,51 @@
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/a-la-boca-nantes/",
       "clicks": 0,
-      "impressions": 194,
+      "impressions": 234,
       "ctr": 0,
-      "position": 7.8
+      "position": 8.4
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/a-la-parisienne-saint-herblain/",
       "clicks": 0,
-      "impressions": 139,
+      "impressions": 152,
       "ctr": 0,
-      "position": 9.8
+      "position": 9.9
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/abbaye-de-villeneuve-les-sorinieres/",
       "clicks": 0,
-      "impressions": 243,
+      "impressions": 256,
       "ctr": 0,
-      "position": 10.9
+      "position": 11.1
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/agape-nantes/",
       "clicks": 0,
-      "impressions": 60,
+      "impressions": 65,
       "ctr": 0,
       "position": 8.3
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/alma-les-sables-d-olonne/",
       "clicks": 0,
-      "impressions": 26,
+      "impressions": 27,
       "ctr": 0,
       "position": 9.1
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/almarea-saint-hilaire-de-riez/",
       "clicks": 0,
-      "impressions": 139,
+      "impressions": 158,
       "ctr": 0,
-      "position": 9.1
+      "position": 9.2
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/art-n-blum-nantes/",
       "clicks": 0,
-      "impressions": 69,
+      "impressions": 78,
       "ctr": 0,
-      "position": 11.0
+      "position": 10.9
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/au-coup-d-arrosoir-nantes/",
@@ -1310,21 +1338,21 @@
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/au-petit-raphael-nantes/",
       "clicks": 0,
-      "impressions": 57,
+      "impressions": 61,
       "ctr": 0,
-      "position": 11.1
+      "position": 11.0
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/au-pont-divin-saint-julien-de-concelles/",
       "clicks": 0,
-      "impressions": 166,
+      "impressions": 172,
       "ctr": 0,
-      "position": 9.7
+      "position": 9.8
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/au-temps-a-nouveau-reze/",
       "clicks": 0,
-      "impressions": 143,
+      "impressions": 144,
       "ctr": 0,
       "position": 7.4
     },
@@ -1338,49 +1366,49 @@
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/baia-sainte-luce-sur-loire/",
       "clicks": 0,
-      "impressions": 324,
+      "impressions": 343,
       "ctr": 0,
       "position": 10.4
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/bairoz-nantes/",
       "clicks": 0,
-      "impressions": 48,
+      "impressions": 49,
       "ctr": 0,
       "position": 9.6
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/baite-nantes/",
       "clicks": 0,
-      "impressions": 130,
+      "impressions": 131,
       "ctr": 0,
       "position": 8.9
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/balme-la-baule-escoublac/",
       "clicks": 0,
-      "impressions": 55,
+      "impressions": 60,
       "ctr": 0,
-      "position": 12.4
+      "position": 12.2
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/balneair-saint-jean-de-monts/",
       "clicks": 0,
-      "impressions": 99,
+      "impressions": 103,
       "ctr": 0,
       "position": 8.7
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/balthazar/",
       "clicks": 0,
-      "impressions": 6,
+      "impressions": 7,
       "ctr": 0,
-      "position": 7.2
+      "position": 7.6
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/bar-ile-nantes/",
       "clicks": 0,
-      "impressions": 275,
+      "impressions": 296,
       "ctr": 0,
       "position": 9.6
     },
@@ -1408,21 +1436,21 @@
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/bistro-du-cours-nantes/",
       "clicks": 0,
-      "impressions": 30,
+      "impressions": 37,
       "ctr": 0,
-      "position": 10.3
+      "position": 10.1
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/bistrot-delorme-nantes/",
       "clicks": 0,
-      "impressions": 29,
+      "impressions": 31,
       "ctr": 0,
-      "position": 17.0
+      "position": 16.5
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/bistrot-napoleone-nantes/",
       "clicks": 0,
-      "impressions": 62,
+      "impressions": 63,
       "ctr": 0,
       "position": 7.8
     },
@@ -1443,9 +1471,9 @@
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/brasserie-le-square-nantes/",
       "clicks": 0,
-      "impressions": 47,
+      "impressions": 50,
       "ctr": 0,
-      "position": 9.4
+      "position": 9.3
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/by-self-saint-nazaire/",
@@ -1457,72 +1485,65 @@
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/cafe-de-la-plage-saint-hilaire-de-riez/",
       "clicks": 0,
-      "impressions": 200,
+      "impressions": 208,
       "ctr": 0,
       "position": 8.4
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/cafe-du-musee-nantes/",
       "clicks": 0,
-      "impressions": 79,
+      "impressions": 81,
       "ctr": 0,
-      "position": 11.0
+      "position": 10.9
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/cafe-okami-nantes/",
       "clicks": 0,
-      "impressions": 132,
+      "impressions": 143,
       "ctr": 0,
       "position": 8.1
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/celestine-nantes/",
       "clicks": 0,
-      "impressions": 153,
+      "impressions": 162,
       "ctr": 0,
-      "position": 8.5
+      "position": 8.4
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/chacha-nantes/",
       "clicks": 0,
-      "impressions": 105,
+      "impressions": 112,
       "ctr": 0,
       "position": 9.4
     },
     {
-      "label": "https://www.kouver.fr/bonnes-adresses-nantes/chez-alex-carquefou/",
-      "clicks": 0,
-      "impressions": 79,
-      "ctr": 0,
-      "position": 9.9
-    },
-    {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/chez-bastien-saint-jean-de-monts/",
       "clicks": 0,
-      "impressions": 82,
+      "impressions": 84,
       "ctr": 0,
       "position": 10.2
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/chez-cannelle-nantes/",
       "clicks": 0,
-      "impressions": 80,
+      "impressions": 83,
       "ctr": 0,
       "position": 8.5
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/chez-les-ducs-nantes/",
       "clicks": 0,
-      "impressions": 99,
+      "impressions": 111,
       "ctr": 0,
       "position": 8.4
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/chez-maman-nantes/",
       "clicks": 0,
-      "impressions": 63,
+      "impressions": 122,
       "ctr": 0,
-      "position": 11.1
+      "position": 10.9
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/chez-patacol-les-sables-d-olonne/",
@@ -1534,9 +1555,9 @@
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/chez-pipette-la-haie-fouassiere/",
       "clicks": 0,
-      "impressions": 105,
+      "impressions": 116,
       "ctr": 0,
-      "position": 9.3
+      "position": 9.4
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/chez-wo-saint-aignan-grandlieu/",
@@ -1548,23 +1569,23 @@
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/cigale-jard-sur-mer/",
       "clicks": 0,
-      "impressions": 26,
+      "impressions": 28,
       "ctr": 0,
-      "position": 9.8
+      "position": 12.5
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/coco-batz-sur-mer/",
       "clicks": 0,
-      "impressions": 96,
+      "impressions": 100,
       "ctr": 0,
-      "position": 9.1
+      "position": 9.3
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/creperie-du-p-tit-marche-saint-jean-de-monts/",
       "clicks": 0,
-      "impressions": 83,
+      "impressions": 87,
       "ctr": 0,
-      "position": 10.5
+      "position": 10.4
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/creperie-heb-ken-nantes/",
@@ -1576,23 +1597,23 @@
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/creperie-sainte-croix-nantes/",
       "clicks": 0,
-      "impressions": 270,
+      "impressions": 281,
       "ctr": 0,
-      "position": 8.0
+      "position": 8.3
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/da-peppe-saint-sebastien-sur-loire/",
       "clicks": 0,
-      "impressions": 103,
+      "impressions": 113,
       "ctr": 0,
       "position": 8.9
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/dakoo-nantes/",
       "clicks": 0,
-      "impressions": 152,
+      "impressions": 177,
       "ctr": 0,
-      "position": 9.9
+      "position": 9.8
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/dom-tom-saint-nazaire/",
@@ -1611,44 +1632,44 @@
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/domoro-nantes/",
       "clicks": 0,
-      "impressions": 165,
+      "impressions": 183,
       "ctr": 0,
       "position": 9.9
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/du-coq-a-l-ane-bouguenais/",
       "clicks": 0,
-      "impressions": 126,
+      "impressions": 133,
       "ctr": 0,
-      "position": 8.9
+      "position": 8.8
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/el-chaco-la-baule-escoublac/",
       "clicks": 0,
-      "impressions": 48,
+      "impressions": 55,
       "ctr": 0,
-      "position": 8.5
+      "position": 8.1
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/entre-potes-bretignolles-sur-mer/",
       "clicks": 0,
-      "impressions": 128,
+      "impressions": 134,
       "ctr": 0,
-      "position": 7.1
+      "position": 7.2
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/ernest-restaurant-reze/",
       "clicks": 0,
-      "impressions": 316,
+      "impressions": 349,
       "ctr": 0,
-      "position": 10.5
+      "position": 10.3
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/fleming-s-irish-pub-nantes/",
       "clicks": 0,
-      "impressions": 337,
+      "impressions": 356,
       "ctr": 0,
-      "position": 9.5
+      "position": 9.4
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/freia-nantes/",
@@ -1660,30 +1681,30 @@
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/gasparelli-nantes/",
       "clicks": 0,
-      "impressions": 492,
+      "impressions": 533,
       "ctr": 0,
-      "position": 9.1
+      "position": 9.0
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/giorgio-ristorante-nantes/",
       "clicks": 0,
-      "impressions": 118,
+      "impressions": 136,
       "ctr": 0,
-      "position": 11.4
+      "position": 11.7
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/glouton-saint-sebastien-sur-loire/",
       "clicks": 0,
-      "impressions": 838,
+      "impressions": 893,
       "ctr": 0,
       "position": 7.1
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/goupil-street-rotisserie-nantes/",
       "clicks": 0,
-      "impressions": 215,
+      "impressions": 227,
       "ctr": 0,
-      "position": 9.0
+      "position": 8.9
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/grain-de-folie-pornichet/",
@@ -1695,23 +1716,23 @@
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/grain-de-sable-saint-gilles-croix-de-vie/",
       "clicks": 0,
-      "impressions": 812,
+      "impressions": 888,
       "ctr": 0,
       "position": 7.7
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/grenailles-vertou/",
       "clicks": 0,
-      "impressions": 364,
+      "impressions": 399,
       "ctr": 0,
-      "position": 7.7
+      "position": 7.8
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/guinguette-la-huchette-chateau-thebaud/",
       "clicks": 0,
-      "impressions": 221,
+      "impressions": 230,
       "ctr": 0,
-      "position": 11.3
+      "position": 11.2
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/hotel-kyriad-bouaye/",
@@ -1723,16 +1744,16 @@
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/ibla-cheix-en-retz/",
       "clicks": 0,
-      "impressions": 127,
+      "impressions": 136,
       "ctr": 0,
-      "position": 8.3
+      "position": 8.2
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/ikimasho-nantes/",
       "clicks": 0,
-      "impressions": 387,
+      "impressions": 405,
       "ctr": 0,
-      "position": 10.1
+      "position": 10.2
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/il-sole-d-italia-saint-nazaire/",
@@ -1744,7 +1765,7 @@
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/inde-et-vous-nantes/",
       "clicks": 0,
-      "impressions": 348,
+      "impressions": 394,
       "ctr": 0,
       "position": 8.6
     },
@@ -1765,9 +1786,9 @@
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/kmarade-vertou/",
       "clicks": 0,
-      "impressions": 39,
+      "impressions": 43,
       "ctr": 0,
-      "position": 10.3
+      "position": 10.0
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/l-adresse-nantes/",
@@ -1786,7 +1807,7 @@
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/l-ardoiz-notre-dame-de-monts/",
       "clicks": 0,
-      "impressions": 42,
+      "impressions": 44,
       "ctr": 0,
       "position": 9.2
     },
@@ -1807,14 +1828,14 @@
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/l-avenue-saint-nazaire/",
       "clicks": 0,
-      "impressions": 121,
+      "impressions": 124,
       "ctr": 0,
-      "position": 10.0
+      "position": 9.9
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/l-entre-2-verres-nantes/",
       "clicks": 0,
-      "impressions": 11,
+      "impressions": 12,
       "ctr": 0,
       "position": 11.5
     },
@@ -1828,23 +1849,23 @@
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/l-espuma-nantes/",
       "clicks": 0,
-      "impressions": 125,
+      "impressions": 143,
       "ctr": 0,
-      "position": 8.3
+      "position": 8.2
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/l-estacade-saint-jean-de-monts/",
       "clicks": 0,
-      "impressions": 21,
+      "impressions": 23,
       "ctr": 0,
-      "position": 10.4
+      "position": 10.2
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/l-etelle-noirmoutier-en-l-ile/",
       "clicks": 0,
-      "impressions": 56,
+      "impressions": 58,
       "ctr": 0,
-      "position": 12
+      "position": 11.9
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/l-ethiquete-nantes/",
@@ -1863,114 +1884,107 @@
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/l-inattendu-saint-gilles-croix-de-vie/",
       "clicks": 0,
-      "impressions": 155,
+      "impressions": 184,
       "ctr": 0,
-      "position": 7.9
+      "position": 8.2
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/l-oceanic-la-bernerie-en-retz/",
       "clicks": 0,
-      "impressions": 222,
+      "impressions": 233,
       "ctr": 0,
       "position": 9.1
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/l-oliveraie-saint-sebastien-sur-loire/",
       "clicks": 0,
-      "impressions": 299,
+      "impressions": 320,
       "ctr": 0,
       "position": 8.3
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/l-uchronie-saint-sebastien-sur-loire/",
       "clicks": 0,
-      "impressions": 507,
+      "impressions": 560,
       "ctr": 0,
-      "position": 8.8
+      "position": 8.7
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/la-bodega-nantes/",
       "clicks": 0,
-      "impressions": 264,
-      "ctr": 0,
-      "position": 9.3
-    },
-    {
-      "label": "https://www.kouver.fr/bonnes-adresses-nantes/la-cabane-des-pins-saint-brevin-les-pins/",
-      "clicks": 0,
-      "impressions": 268,
-      "ctr": 0,
-      "position": 9.0
-    },
-    {
-      "label": "https://www.kouver.fr/bonnes-adresses-nantes/la-cabane-du-bouffay-nantes/",
-      "clicks": 0,
-      "impressions": 315,
+      "impressions": 290,
       "ctr": 0,
       "position": 9.4
     },
     {
-      "label": "https://www.kouver.fr/bonnes-adresses-nantes/la-casbah-du-quai-pornichet/",
+      "label": "https://www.kouver.fr/bonnes-adresses-nantes/la-cabane-des-pins-saint-brevin-les-pins/",
       "clicks": 0,
-      "impressions": 63,
+      "impressions": 277,
       "ctr": 0,
-      "position": 8.9
+      "position": 9
     },
     {
-      "label": "https://www.kouver.fr/bonnes-adresses-nantes/la-cascade-clisson/",
+      "label": "https://www.kouver.fr/bonnes-adresses-nantes/la-cabane-du-bouffay-nantes/",
       "clicks": 0,
-      "impressions": 105,
+      "impressions": 336,
       "ctr": 0,
-      "position": 15.2
+      "position": 9.5
+    },
+    {
+      "label": "https://www.kouver.fr/bonnes-adresses-nantes/la-casbah-du-quai-pornichet/",
+      "clicks": 0,
+      "impressions": 72,
+      "ctr": 0,
+      "position": 8.8
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/la-chope-gourmande-sainte-luce-sur-loire/",
       "clicks": 0,
-      "impressions": 59,
+      "impressions": 69,
       "ctr": 0,
-      "position": 12.5
+      "position": 11.7
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/la-cour-du-coin-nantes/",
       "clicks": 0,
-      "impressions": 25,
+      "impressions": 29,
       "ctr": 0,
-      "position": 14.3
+      "position": 13.7
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/la-creperie-du-bouffay-nantes/",
       "clicks": 0,
-      "impressions": 515,
+      "impressions": 540,
       "ctr": 0,
       "position": 7.8
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/la-ferme-du-blanchot-crossac/",
       "clicks": 0,
-      "impressions": 50,
+      "impressions": 54,
       "ctr": 0,
-      "position": 13.7
+      "position": 14.1
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/la-houle-saint-hilaire-de-riez/",
       "clicks": 0,
-      "impressions": 94,
+      "impressions": 100,
       "ctr": 0,
-      "position": 13.0
+      "position": 13.1
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/la-langoust-in-saint-jean-de-monts/",
       "clicks": 0,
-      "impressions": 31,
+      "impressions": 33,
       "ctr": 0,
-      "position": 15.0
+      "position": 16.2
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/la-loco-nantes/",
       "clicks": 0,
-      "impressions": 88,
+      "impressions": 103,
       "ctr": 0,
-      "position": 9.9
+      "position": 10.3
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/la-mandale-nantes/",
@@ -1982,37 +1996,37 @@
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/la-mare-aux-oiseaux-saint-joachim/",
       "clicks": 0,
-      "impressions": 612,
+      "impressions": 633,
       "ctr": 0,
       "position": 11.6
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/la-marine-noirmoutier-en-l-ile/",
       "clicks": 0,
-      "impressions": 111,
+      "impressions": 119,
       "ctr": 0,
-      "position": 24.7
+      "position": 23.6
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/la-moulerie-de-la-gare-saint-gilles-croix-de-vie/",
       "clicks": 0,
-      "impressions": 428,
+      "impressions": 445,
       "ctr": 0,
       "position": 9.1
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/la-p-tite-place-les-moutiers-en-retz/",
       "clicks": 0,
-      "impressions": 344,
+      "impressions": 360,
       "ctr": 0,
       "position": 7.2
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/la-paillote-de-coco-galette-pornic/",
       "clicks": 0,
-      "impressions": 27,
+      "impressions": 31,
       "ctr": 0,
-      "position": 7.0
+      "position": 7.4
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/la-peau-de-vache-orvault/",
@@ -2031,23 +2045,23 @@
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/la-robe-montaigu/",
       "clicks": 0,
-      "impressions": 174,
+      "impressions": 192,
       "ctr": 0,
-      "position": 9.9
+      "position": 10.2
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/la-souris-d-agneau-nantes/",
       "clicks": 0,
-      "impressions": 221,
+      "impressions": 237,
       "ctr": 0,
       "position": 9.8
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/la-table-vertime-les-sables-d-olonne/",
       "clicks": 0,
-      "impressions": 12,
+      "impressions": 13,
       "ctr": 0,
-      "position": 13.3
+      "position": 13.2
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/la-tete-de-l-art-guerande/",
@@ -2059,7 +2073,7 @@
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/la-vacherie-nantes/",
       "clicks": 0,
-      "impressions": 54,
+      "impressions": 57,
       "ctr": 0,
       "position": 10.4
     },
@@ -2080,16 +2094,16 @@
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/la-villa-roma-brasserie-pizzeria-a-sautron/",
       "clicks": 0,
-      "impressions": 5,
+      "impressions": 4,
       "ctr": 0,
-      "position": 8
+      "position": 7.8
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/le-16-saint-nazaire/",
       "clicks": 0,
-      "impressions": 260,
+      "impressions": 276,
       "ctr": 0,
-      "position": 11.1
+      "position": 11.4
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/le-b-la-baule-escoublac/",
@@ -2108,9 +2122,9 @@
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/le-bien-heureux-saint-jean-de-monts/",
       "clicks": 0,
-      "impressions": 33,
+      "impressions": 35,
       "ctr": 0,
-      "position": 14.9
+      "position": 15.0
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/le-bistrot-des-filles-pornic/",
@@ -2122,7 +2136,7 @@
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/le-bistrot-des-halles-bretignolles-sur-mer/",
       "clicks": 0,
-      "impressions": 110,
+      "impressions": 120,
       "ctr": 0,
       "position": 8.6
     },
@@ -2136,21 +2150,21 @@
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/le-bouche-a-oreille-nantes/",
       "clicks": 0,
-      "impressions": 258,
+      "impressions": 273,
       "ctr": 0,
-      "position": 8.2
+      "position": 8.1
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/le-butcher-saint-sebastien-sur-loire/",
       "clicks": 0,
-      "impressions": 321,
+      "impressions": 333,
       "ctr": 0,
-      "position": 8.3
+      "position": 8.4
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/le-cabanon-l-epine/",
       "clicks": 0,
-      "impressions": 185,
+      "impressions": 201,
       "ctr": 0,
       "position": 9.2
     },
@@ -2164,42 +2178,42 @@
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/le-cambronne-bistrot-chic/",
       "clicks": 0,
-      "impressions": 25,
+      "impressions": 26,
       "ctr": 0,
-      "position": 6.2
+      "position": 6.4
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/le-carre-de-service-sautron/",
       "clicks": 0,
-      "impressions": 34,
+      "impressions": 37,
       "ctr": 0,
       "position": 8.2
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/le-casier-saint-gilles-croix-de-vie/",
       "clicks": 0,
-      "impressions": 166,
+      "impressions": 174,
       "ctr": 0,
-      "position": 9.8
+      "position": 9.9
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/le-chalet-nantes/",
       "clicks": 0,
-      "impressions": 130,
+      "impressions": 141,
       "ctr": 0,
-      "position": 10.3
+      "position": 10.2
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/le-chalet-vallons-de-l-erdre/",
       "clicks": 0,
-      "impressions": 171,
+      "impressions": 177,
       "ctr": 0,
-      "position": 8.7
+      "position": 8.8
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/le-clot-margot-saint-nazaire/",
       "clicks": 0,
-      "impressions": 239,
+      "impressions": 256,
       "ctr": 0,
       "position": 9.2
     },
@@ -2208,14 +2222,14 @@
       "clicks": 0,
       "impressions": 23,
       "ctr": 0,
-      "position": 7.8
+      "position": 7.6
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/le-diable-rouge-nantes/",
       "clicks": 0,
-      "impressions": 137,
+      "impressions": 143,
       "ctr": 0,
-      "position": 7.3
+      "position": 7.5
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/le-francois-2-coueron/",
@@ -2227,14 +2241,14 @@
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/le-galet-bretignolles-sur-mer/",
       "clicks": 0,
-      "impressions": 159,
+      "impressions": 171,
       "ctr": 0,
       "position": 9.1
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/le-galway-les-sables-d-olonne/",
       "clicks": 0,
-      "impressions": 24,
+      "impressions": 26,
       "ctr": 0,
       "position": 7.2
     },
@@ -2248,72 +2262,65 @@
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/le-kervegon-bouguenais/",
       "clicks": 0,
-      "impressions": 266,
+      "impressions": 288,
       "ctr": 0,
-      "position": 7.7
+      "position": 7.8
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/le-kregrand-nantes/",
       "clicks": 0,
-      "impressions": 185,
+      "impressions": 200,
       "ctr": 0,
-      "position": 7.2
+      "position": 7.1
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/le-lamparo-saint-hilaire-de-riez/",
       "clicks": 0,
-      "impressions": 63,
+      "impressions": 65,
       "ctr": 0,
       "position": 8.7
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/le-louis-blanc-nantes/",
       "clicks": 0,
-      "impressions": 306,
+      "impressions": 315,
       "ctr": 0,
       "position": 9.2
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/le-manoir-de-la-mortiere-les-sables-d-olonne/",
       "clicks": 0,
-      "impressions": 51,
+      "impressions": 57,
       "ctr": 0,
-      "position": 10.6
+      "position": 10.7
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/le-marina-bay-les-moutiers-en-retz/",
       "clicks": 0,
-      "impressions": 74,
+      "impressions": 77,
       "ctr": 0,
       "position": 7.4
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/le-mas-des-oliviers-a-saint-herblain/",
       "clicks": 0,
-      "impressions": 38,
+      "impressions": 39,
       "ctr": 0,
       "position": 8.3
     },
     {
-      "label": "https://www.kouver.fr/bonnes-adresses-nantes/le-mesopotamia-2-orvault/",
-      "clicks": 0,
-      "impressions": 409,
-      "ctr": 0,
-      "position": 5.4
-    },
-    {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/le-mille-pates-l-ile-d-yeu/",
       "clicks": 0,
-      "impressions": 289,
+      "impressions": 299,
       "ctr": 0,
       "position": 7.4
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/le-panoramique-de-la-pree-la-plaine-sur-mer/",
       "clicks": 0,
-      "impressions": 99,
+      "impressions": 115,
       "ctr": 0,
-      "position": 8.7
+      "position": 8.5
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/le-patio-du-fouquet-pornic/",
@@ -2325,7 +2332,7 @@
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/le-petit-bouchot-noirmoutier-en-l-ile/",
       "clicks": 0,
-      "impressions": 68,
+      "impressions": 71,
       "ctr": 0,
       "position": 9.0
     },
@@ -2339,7 +2346,7 @@
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/le-phare-saint-jean-de-monts/",
       "clicks": 0,
-      "impressions": 135,
+      "impressions": 141,
       "ctr": 0,
       "position": 8.3
     },
@@ -2353,9 +2360,9 @@
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/le-recif-saint-gilles-croix-de-vie/",
       "clicks": 0,
-      "impressions": 360,
+      "impressions": 376,
       "ctr": 0,
-      "position": 9.6
+      "position": 9.5
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/le-reflet-nantes/",
@@ -2374,14 +2381,14 @@
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/le-romarin-sautron/",
       "clicks": 0,
-      "impressions": 85,
+      "impressions": 94,
       "ctr": 0,
-      "position": 10.2
+      "position": 10.0
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/le-rozell-saint-brevin-les-pins/",
       "clicks": 0,
-      "impressions": 106,
+      "impressions": 112,
       "ctr": 0,
       "position": 9.7
     },
@@ -2409,30 +2416,23 @@
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/le-sloop-les-sables-d-olonne/",
       "clicks": 0,
-      "impressions": 42,
+      "impressions": 46,
       "ctr": 0,
       "position": 11.4
     },
     {
-      "label": "https://www.kouver.fr/bonnes-adresses-nantes/le-tova-la-baule-escoublac/",
-      "clicks": 0,
-      "impressions": 110,
-      "ctr": 0,
-      "position": 8.6
-    },
-    {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/le-zed-nantes/",
       "clicks": 0,
-      "impressions": 246,
+      "impressions": 268,
       "ctr": 0,
-      "position": 8.9
+      "position": 8.8
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/les-3-brasseurs-saint-sebastien-sur-loire/",
       "clicks": 0,
-      "impressions": 179,
+      "impressions": 186,
       "ctr": 0,
-      "position": 9.8
+      "position": 9.7
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/les-baigneuses-les-sables-d-olonne/",
@@ -2444,23 +2444,23 @@
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/les-chardons-les-sables-d-olonne/",
       "clicks": 0,
-      "impressions": 121,
+      "impressions": 130,
       "ctr": 0,
-      "position": 8.7
+      "position": 8.6
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/les-delices-de-beyrouth-nantes/",
       "clicks": 0,
-      "impressions": 289,
+      "impressions": 302,
       "ctr": 0,
-      "position": 12.0
+      "position": 11.9
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/les-epices-de-l-inde-nantes/",
       "clicks": 0,
-      "impressions": 174,
+      "impressions": 181,
       "ctr": 0,
-      "position": 10.3
+      "position": 10.1
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/les-fils-a-maman-saint-herblain/",
@@ -2472,100 +2472,93 @@
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/les-petits-paves-nantes/",
       "clicks": 0,
-      "impressions": 216,
+      "impressions": 240,
       "ctr": 0,
-      "position": 11.9
+      "position": 11.7
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/les-tontons-nageurs-la-bernerie-en-retz/",
       "clicks": 0,
-      "impressions": 102,
+      "impressions": 110,
       "ctr": 0,
-      "position": 9.0
+      "position": 9.4
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/lucciola-trattoria-nantes/",
       "clicks": 0,
-      "impressions": 187,
+      "impressions": 201,
       "ctr": 0,
       "position": 9.8
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/lulu-paulette-carquefou/",
       "clicks": 0,
-      "impressions": 184,
+      "impressions": 230,
       "ctr": 0,
-      "position": 9.8
+      "position": 9.9
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/maioann-carquefou/",
       "clicks": 0,
-      "impressions": 68,
+      "impressions": 89,
       "ctr": 0,
-      "position": 8.8
+      "position": 8.6
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/maison-bb-carquefou/",
       "clicks": 0,
-      "impressions": 61,
+      "impressions": 63,
       "ctr": 0,
-      "position": 6.9
+      "position": 6.8
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/maleo-talmont-saint-hilaire/",
       "clicks": 0,
-      "impressions": 59,
+      "impressions": 67,
       "ctr": 0,
       "position": 9.2
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/mamzelle-edith-ancenis-saint-gereon/",
       "clicks": 0,
-      "impressions": 276,
+      "impressions": 306,
       "ctr": 0,
-      "position": 7.6
+      "position": 7.5
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/melon-nantes/",
       "clicks": 0,
-      "impressions": 52,
+      "impressions": 51,
       "ctr": 0,
-      "position": 8.2
+      "position": 8.1
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/mia-nonna-nantes/",
       "clicks": 0,
-      "impressions": 159,
+      "impressions": 188,
       "ctr": 0,
-      "position": 9.1
+      "position": 9.4
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/mimosa-nantes/",
       "clicks": 0,
-      "impressions": 182,
+      "impressions": 183,
       "ctr": 0,
       "position": 8.6
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/moia-saint-herblain/",
       "clicks": 0,
-      "impressions": 260,
+      "impressions": 278,
       "ctr": 0,
       "position": 8.6
     },
     {
-      "label": "https://www.kouver.fr/bonnes-adresses-nantes/naniwa-by-edo-nantes/",
-      "clicks": 0,
-      "impressions": 213,
-      "ctr": 0,
-      "position": 8.4
-    },
-    {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/nina-to-plage-pornichet/",
       "clicks": 0,
-      "impressions": 87,
+      "impressions": 90,
       "ctr": 0,
-      "position": 15.5
+      "position": 16.1
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/nos-belles-annees-pornic/",
@@ -2584,7 +2577,7 @@
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/ohmyfish-nantes/",
       "clicks": 0,
-      "impressions": 20,
+      "impressions": 22,
       "ctr": 0,
       "position": 8.4
     },
@@ -2598,9 +2591,9 @@
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/olio-e-burro-clisson/",
       "clicks": 0,
-      "impressions": 255,
+      "impressions": 271,
       "ctr": 0,
-      "position": 7.5
+      "position": 7.6
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/oro-di-napoli/",
@@ -2619,28 +2612,28 @@
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/panem-saint-nazaire/",
       "clicks": 0,
-      "impressions": 62,
+      "impressions": 65,
       "ctr": 0,
-      "position": 10.4
+      "position": 10.3
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/picota-nantes/",
       "clicks": 0,
-      "impressions": 78,
+      "impressions": 83,
       "ctr": 0,
-      "position": 8.9
+      "position": 9.0
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/pilours-saint-hilaire-de-riez/",
       "clicks": 0,
-      "impressions": 95,
+      "impressions": 99,
       "ctr": 0,
       "position": 9.1
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/pizza-scaramouche-saint-sebastien-sur-loire/",
       "clicks": 0,
-      "impressions": 467,
+      "impressions": 496,
       "ctr": 0,
       "position": 8.8
     },
@@ -2649,12 +2642,12 @@
       "clicks": 0,
       "impressions": 26,
       "ctr": 0,
-      "position": 6.2
+      "position": 6.3
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/pocha-nantes/",
       "clicks": 0,
-      "impressions": 510,
+      "impressions": 512,
       "ctr": 0,
       "position": 8.8
     },
@@ -2675,14 +2668,14 @@
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/restaurant-les-bons-vivants-vertou/",
       "clicks": 0,
-      "impressions": 309,
+      "impressions": 338,
       "ctr": 0,
       "position": 9.6
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/resto-les-isles-reze/",
       "clicks": 0,
-      "impressions": 148,
+      "impressions": 164,
       "ctr": 0,
       "position": 9.2
     },
@@ -2696,7 +2689,7 @@
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/station-nuage-saint-sebastien-sur-loire/",
       "clicks": 0,
-      "impressions": 202,
+      "impressions": 211,
       "ctr": 0,
       "position": 10.4
     },
@@ -2710,37 +2703,37 @@
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/tata-bobun-nantes/",
       "clicks": 0,
-      "impressions": 282,
+      "impressions": 312,
       "ctr": 0,
       "position": 8.5
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/terravega-nantes/",
       "clicks": 0,
-      "impressions": 64,
+      "impressions": 71,
       "ctr": 0,
-      "position": 9.6
+      "position": 12.5
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/topaze-saint-nazaire/",
       "clicks": 0,
-      "impressions": 239,
+      "impressions": 250,
       "ctr": 0,
-      "position": 10.6
+      "position": 10.7
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/un-pave-dans-la-vigne-nantes/",
       "clicks": 0,
-      "impressions": 129,
+      "impressions": 145,
       "ctr": 0,
-      "position": 13.0
+      "position": 12.4
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/une-histoire-de-gout-bouguenais/",
       "clicks": 0,
-      "impressions": 113,
+      "impressions": 128,
       "ctr": 0,
-      "position": 9.2
+      "position": 9.0
     },
     {
       "label": "https://www.kouver.fr/bonnes-adresses-nantes/villa-mon-reve-basse-goulaine/",
@@ -2752,9 +2745,9 @@
     {
       "label": "https://www.kouver.fr/cahier-de-reservation-digital/",
       "clicks": 0,
-      "impressions": 43,
+      "impressions": 48,
       "ctr": 0,
-      "position": 4.5
+      "position": 4.3
     },
     {
       "label": "https://www.kouver.fr/cahier-de-reservation-papier/",
@@ -2780,30 +2773,30 @@
     {
       "label": "https://www.kouver.fr/communication-restaurant/",
       "clicks": 0,
-      "impressions": 8,
+      "impressions": 4,
       "ctr": 0,
-      "position": 4.9
+      "position": 4.5
     },
     {
       "label": "https://www.kouver.fr/empreinte-bancaire-restaurant-anti-no-show/",
       "clicks": 0,
-      "impressions": 62,
+      "impressions": 65,
       "ctr": 0,
       "position": 8.3
     },
     {
       "label": "https://www.kouver.fr/faq/",
       "clicks": 0,
-      "impressions": 516,
+      "impressions": 503,
       "ctr": 0,
       "position": 1.7
     },
     {
       "label": "https://www.kouver.fr/fiche-google-restaurant-clients/",
       "clicks": 0,
-      "impressions": 2,
+      "impressions": 3,
       "ctr": 0,
-      "position": 1.5
+      "position": 4.7
     },
     {
       "label": "https://www.kouver.fr/fidelisation-client-restaurant-2/",
@@ -2822,16 +2815,16 @@
     {
       "label": "https://www.kouver.fr/franchises-francaises/",
       "clicks": 0,
-      "impressions": 42,
+      "impressions": 43,
       "ctr": 0,
-      "position": 13.5
+      "position": 13.3
     },
     {
       "label": "https://www.kouver.fr/gerer-avis-negatifs-google-restaurant/",
       "clicks": 0,
-      "impressions": 60,
+      "impressions": 61,
       "ctr": 0,
-      "position": 14
+      "position": 14.1
     },
     {
       "label": "https://www.kouver.fr/google-reservation/",
@@ -2843,9 +2836,9 @@
     {
       "label": "https://www.kouver.fr/guide-fermeture-exceptionnelle-restaurant/",
       "clicks": 0,
-      "impressions": 29,
+      "impressions": 28,
       "ctr": 0,
-      "position": 6.8
+      "position": 7.0
     },
     {
       "label": "https://www.kouver.fr/guide-ultime-avis-google-restaurant/",
@@ -2864,16 +2857,16 @@
     {
       "label": "https://www.kouver.fr/integrations/",
       "clicks": 0,
-      "impressions": 38,
+      "impressions": 39,
       "ctr": 0,
       "position": 3.7
     },
     {
       "label": "https://www.kouver.fr/liste-attente-restaurant-efficace/",
       "clicks": 0,
-      "impressions": 126,
+      "impressions": 130,
       "ctr": 0,
-      "position": 14.2
+      "position": 14.5
     },
     {
       "label": "https://www.kouver.fr/logiciel-de-reservation-restaurant",
@@ -2885,9 +2878,9 @@
     {
       "label": "https://www.kouver.fr/logiciel-rh-restauration-top-5-des-meilleures-solutions/",
       "clicks": 0,
-      "impressions": 61,
+      "impressions": 55,
       "ctr": 0,
-      "position": 8.2
+      "position": 7.9
     },
     {
       "label": "https://www.kouver.fr/logiciels-restaurant-performance-2026/",
@@ -2899,9 +2892,9 @@
     {
       "label": "https://www.kouver.fr/meilleurs-outils-restaurant-francais/",
       "clicks": 0,
-      "impressions": 53,
+      "impressions": 62,
       "ctr": 0,
-      "position": 7.2
+      "position": 11.1
     },
     {
       "label": "https://www.kouver.fr/optimiser-horaires-restaurant-guide/",
@@ -2925,18 +2918,25 @@
       "position": 5.1
     },
     {
+      "label": "https://www.kouver.fr/reservation-en-ligne-restaurant-2026/",
+      "clicks": 0,
+      "impressions": 10,
+      "ctr": 0,
+      "position": 11.3
+    },
+    {
       "label": "https://www.kouver.fr/reservation-sans-commission/",
       "clicks": 0,
-      "impressions": 154,
+      "impressions": 125,
       "ctr": 0,
-      "position": 3.3
+      "position": 3.8
     },
     {
       "label": "https://www.kouver.fr/reveillon-restaurant-organiser/",
       "clicks": 0,
-      "impressions": 11,
+      "impressions": 14,
       "ctr": 0,
-      "position": 5.8
+      "position": 5.9
     },
     {
       "label": "https://www.kouver.fr/site-internet-restaurant-guide-abordable/",
