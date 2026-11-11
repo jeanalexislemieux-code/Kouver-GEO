@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-11-10",
+  "generated_at": "2026-11-11",
   "period": [
-    "2026-10-10",
-    "2026-11-07"
+    "2026-10-11",
+    "2026-11-08"
   ],
   "rows": [
     {
       "label": "kouver",
-      "clicks": 255,
-      "impressions": 461,
-      "ctr": 55.31,
+      "clicks": 243,
+      "impressions": 445,
+      "ctr": 54.61,
       "position": 1.4
     },
     {
       "label": "kouver reservation",
-      "clicks": 37,
-      "impressions": 45,
-      "ctr": 82.22,
+      "clicks": 38,
+      "impressions": 46,
+      "ctr": 82.61,
       "position": 1
     },
     {
@@ -29,30 +29,30 @@
     {
       "label": "logiciel reservation restaurant",
       "clicks": 5,
-      "impressions": 128,
-      "ctr": 3.91,
+      "impressions": 131,
+      "ctr": 3.82,
       "position": 3.4
-    },
-    {
-      "label": "logiciel de réservation restaurant",
-      "clicks": 4,
-      "impressions": 307,
-      "ctr": 1.3,
-      "position": 6.0
     },
     {
       "label": "sorya nantes",
       "clicks": 4,
-      "impressions": 108,
-      "ctr": 3.7,
-      "position": 5.0
+      "impressions": 111,
+      "ctr": 3.6,
+      "position": 4.9
     },
     {
       "label": "auberge de l'erdre",
       "clicks": 3,
-      "impressions": 313,
-      "ctr": 0.96,
+      "impressions": 318,
+      "ctr": 0.94,
       "position": 6.7
+    },
+    {
+      "label": "avis sur la grange - restaurant bar / saint révérend",
+      "clicks": 3,
+      "impressions": 83,
+      "ctr": 3.61,
+      "position": 2.7
     },
     {
       "label": "bistro des arts nantes",
@@ -64,22 +64,29 @@
     {
       "label": "l'idéal nantes",
       "clicks": 3,
-      "impressions": 323,
-      "ctr": 0.93,
+      "impressions": 348,
+      "ctr": 0.86,
       "position": 5.7
+    },
+    {
+      "label": "logiciel de réservation restaurant",
+      "clicks": 3,
+      "impressions": 310,
+      "ctr": 0.97,
+      "position": 5.9
     },
     {
       "label": "maison bagarre nantes",
       "clicks": 3,
-      "impressions": 50,
-      "ctr": 6.0,
-      "position": 7.1
+      "impressions": 51,
+      "ctr": 5.88,
+      "position": 7.2
     },
     {
       "label": "pur jus nantes",
       "clicks": 3,
-      "impressions": 334,
-      "ctr": 0.9,
+      "impressions": 340,
+      "ctr": 0.88,
       "position": 7.6
     },
     {
@@ -92,16 +99,16 @@
     {
       "label": "4.44 bar lounge",
       "clicks": 2,
-      "impressions": 76,
-      "ctr": 2.63,
+      "impressions": 77,
+      "ctr": 2.6,
       "position": 7.6
     },
     {
       "label": "alternative thefork",
       "clicks": 2,
-      "impressions": 32,
-      "ctr": 6.25,
-      "position": 3.9
+      "impressions": 33,
+      "ctr": 6.06,
+      "position": 3.8
     },
     {
       "label": "comptoir mamie bigoude",
@@ -113,14 +120,14 @@
     {
       "label": "fusion food nantes",
       "clicks": 2,
-      "impressions": 89,
-      "ctr": 2.25,
-      "position": 8.3
+      "impressions": 92,
+      "ctr": 2.17,
+      "position": 8.2
     },
     {
       "label": "hangar 24 nantes",
       "clicks": 2,
-      "impressions": 1306,
+      "impressions": 1371,
       "ctr": 0.15,
       "position": 7.7
     },
@@ -134,23 +141,30 @@
     {
       "label": "l'auberge de l'erdre",
       "clicks": 2,
-      "impressions": 83,
-      "ctr": 2.41,
+      "impressions": 88,
+      "ctr": 2.27,
       "position": 5.2
     },
     {
       "label": "l'idéal restaurant nantes",
       "clicks": 2,
-      "impressions": 59,
-      "ctr": 3.39,
-      "position": 6.0
+      "impressions": 64,
+      "ctr": 3.12,
+      "position": 5.9
     },
     {
       "label": "la grange - restaurant bar / saint révérend photos",
       "clicks": 2,
-      "impressions": 70,
-      "ctr": 2.86,
+      "impressions": 72,
+      "ctr": 2.78,
       "position": 5.5
+    },
+    {
+      "label": "la grange saint gilles croix de vie",
+      "clicks": 2,
+      "impressions": 278,
+      "ctr": 0.72,
+      "position": 6.4
     },
     {
       "label": "le petit nakama bar bistro 2 pl. françois ii, 44200 nantes",
@@ -162,9 +176,9 @@
     {
       "label": "le petit nakama nantes",
       "clicks": 2,
-      "impressions": 133,
-      "ctr": 1.5,
-      "position": 8.3
+      "impressions": 136,
+      "ctr": 1.47,
+      "position": 8.4
     },
     {
       "label": "le rayon vert saint gilles croix de vie",
@@ -176,57 +190,57 @@
     {
       "label": "logiciel de reservation restaurant",
       "clicks": 2,
-      "impressions": 88,
-      "ctr": 2.27,
-      "position": 3.0
+      "impressions": 92,
+      "ctr": 2.17,
+      "position": 2.9
     },
     {
       "label": "magari bistrot",
       "clicks": 2,
-      "impressions": 77,
-      "ctr": 2.6,
+      "impressions": 78,
+      "ctr": 2.56,
       "position": 8.0
     },
     {
       "label": "magari nantes",
       "clicks": 2,
-      "impressions": 700,
-      "ctr": 0.29,
-      "position": 8.5
+      "impressions": 715,
+      "ctr": 0.28,
+      "position": 8.6
     },
     {
       "label": "makoto nantes",
       "clicks": 2,
-      "impressions": 84,
-      "ctr": 2.38,
-      "position": 7.4
+      "impressions": 95,
+      "ctr": 2.11,
+      "position": 7.5
     },
     {
       "label": "menu de le grand four",
       "clicks": 2,
-      "impressions": 22,
-      "ctr": 9.09,
+      "impressions": 23,
+      "ctr": 8.7,
       "position": 7.1
     },
     {
       "label": "menu de wild burger",
       "clicks": 2,
-      "impressions": 48,
-      "ctr": 4.17,
-      "position": 7.0
+      "impressions": 52,
+      "ctr": 3.85,
+      "position": 6.9
     },
     {
       "label": "naniwa by edo",
       "clicks": 2,
-      "impressions": 59,
-      "ctr": 3.39,
-      "position": 5.9
+      "impressions": 64,
+      "ctr": 3.12,
+      "position": 5.8
     },
     {
       "label": "restaurant route de vannes orvault",
       "clicks": 2,
-      "impressions": 309,
-      "ctr": 0.65,
+      "impressions": 313,
+      "ctr": 0.64,
       "position": 7.0
     },
     {
@@ -239,9 +253,9 @@
     {
       "label": "14 avenue la baule",
       "clicks": 1,
-      "impressions": 133,
-      "ctr": 0.75,
-      "position": 4.6
+      "impressions": 140,
+      "ctr": 0.71,
+      "position": 4.7
     },
     {
       "label": "2 potes au feu avis",
@@ -249,6 +263,13 @@
       "impressions": 2,
       "ctr": 50.0,
       "position": 6.5
+    },
+    {
+      "label": "3 place catinat nantes",
+      "clicks": 1,
+      "impressions": 12,
+      "ctr": 8.33,
+      "position": 5.2
     },
     {
       "label": "ak shelter nantes",
@@ -272,11 +293,18 @@
       "position": 5.8
     },
     {
+      "label": "avis sur cafe okami",
+      "clicks": 1,
+      "impressions": 46,
+      "ctr": 2.17,
+      "position": 9.3
+    },
+    {
       "label": "avis sur l'auberge du menhir",
       "clicks": 1,
-      "impressions": 37,
-      "ctr": 2.7,
-      "position": 7.1
+      "impressions": 39,
+      "ctr": 2.56,
+      "position": 7.0
     },
     {
       "label": "avis sur l'itinéraire",
@@ -288,8 +316,8 @@
     {
       "label": "avis sur restaurant almarea",
       "clicks": 1,
-      "impressions": 39,
-      "ctr": 2.56,
+      "impressions": 40,
+      "ctr": 2.5,
       "position": 8.4
     },
     {
@@ -309,9 +337,16 @@
     {
       "label": "avis sur villa cosare",
       "clicks": 1,
-      "impressions": 29,
-      "ctr": 3.45,
-      "position": 7.8
+      "impressions": 31,
+      "ctr": 3.23,
+      "position": 7.9
+    },
+    {
+      "label": "banh mi nantes",
+      "clicks": 1,
+      "impressions": 7,
+      "ctr": 14.29,
+      "position": 8.4
     },
     {
       "label": "bistrot basque nantes",
@@ -337,22 +372,22 @@
     {
       "label": "bobun nantes",
       "clicks": 1,
-      "impressions": 67,
-      "ctr": 1.49,
+      "impressions": 68,
+      "ctr": 1.47,
       "position": 8.6
     },
     {
       "label": "bourgeois restaurant",
       "clicks": 1,
-      "impressions": 52,
-      "ctr": 1.92,
+      "impressions": 54,
+      "ctr": 1.85,
       "position": 7.8
     },
     {
       "label": "brasserie constance abbaye de villeneuve",
       "clicks": 1,
-      "impressions": 50,
-      "ctr": 2.0,
+      "impressions": 51,
+      "ctr": 1.96,
       "position": 9.4
     },
     {
@@ -365,9 +400,9 @@
     {
       "label": "cascade clisson",
       "clicks": 1,
-      "impressions": 9,
-      "ctr": 11.11,
-      "position": 10.2
+      "impressions": 10,
+      "ctr": 10.0,
+      "position": 10.4
     },
     {
       "label": "chez alex carquefou",
@@ -386,9 +421,9 @@
     {
       "label": "cly coffee house",
       "clicks": 1,
-      "impressions": 241,
-      "ctr": 0.41,
-      "position": 7.8
+      "impressions": 261,
+      "ctr": 0.38,
+      "position": 7.7
     },
     {
       "label": "concurrent zenchef",
@@ -414,51 +449,51 @@
     {
       "label": "creperie saint jean de monts",
       "clicks": 1,
-      "impressions": 46,
-      "ctr": 2.17,
-      "position": 7.0
+      "impressions": 49,
+      "ctr": 2.04,
+      "position": 7.2
     },
     {
       "label": "crêperie mamie bigoude nantes",
       "clicks": 1,
-      "impressions": 173,
-      "ctr": 0.58,
+      "impressions": 178,
+      "ctr": 0.56,
       "position": 10.2
     },
     {
       "label": "crêperie mamie bigoude nantes photos",
       "clicks": 1,
-      "impressions": 167,
-      "ctr": 0.6,
-      "position": 6.2
+      "impressions": 185,
+      "ctr": 0.54,
+      "position": 6.0
     },
     {
       "label": "db burger",
       "clicks": 1,
-      "impressions": 132,
-      "ctr": 0.76,
+      "impressions": 147,
+      "ctr": 0.68,
       "position": 8.3
     },
     {
       "label": "db burger nantes",
       "clicks": 1,
-      "impressions": 181,
-      "ctr": 0.55,
-      "position": 7.6
+      "impressions": 201,
+      "ctr": 0.5,
+      "position": 7.5
     },
     {
       "label": "en champs the nantes",
       "clicks": 1,
-      "impressions": 86,
-      "ctr": 1.16,
+      "impressions": 92,
+      "ctr": 1.09,
       "position": 8.2
     },
     {
       "label": "en champs thé nantes",
       "clicks": 1,
-      "impressions": 22,
-      "ctr": 4.55,
-      "position": 6.1
+      "impressions": 25,
+      "ctr": 4.0,
+      "position": 6.2
     },
     {
       "label": "ferveur",
@@ -470,23 +505,23 @@
     {
       "label": "ferveur restaurant",
       "clicks": 1,
-      "impressions": 75,
-      "ctr": 1.33,
+      "impressions": 79,
+      "ctr": 1.27,
       "position": 10.3
     },
     {
       "label": "foodcollect",
       "clicks": 1,
-      "impressions": 194,
-      "ctr": 0.52,
+      "impressions": 190,
+      "ctr": 0.53,
       "position": 7.6
     },
     {
       "label": "gestion reservation restaurant",
       "clicks": 1,
-      "impressions": 35,
-      "ctr": 2.86,
-      "position": 2.6
+      "impressions": 34,
+      "ctr": 2.94,
+      "position": 2.5
     },
     {
       "label": "hot pot nantes",
@@ -498,7 +533,7 @@
     {
       "label": "jean de la queue",
       "clicks": 1,
-      "impressions": 975,
+      "impressions": 1036,
       "ctr": 0.1,
       "position": 6.6
     },
@@ -512,16 +547,16 @@
     {
       "label": "l'amour des mets orvault",
       "clicks": 1,
-      "impressions": 163,
-      "ctr": 0.61,
+      "impressions": 169,
+      "ctr": 0.59,
       "position": 8.0
     },
     {
       "label": "l'annexe fromentine",
       "clicks": 1,
-      "impressions": 42,
-      "ctr": 2.38,
-      "position": 5.6
+      "impressions": 43,
+      "ctr": 2.33,
+      "position": 5.5
     },
     {
       "label": "l'antre nous pornic",
@@ -540,36 +575,29 @@
     {
       "label": "la chope gourmande",
       "clicks": 1,
-      "impressions": 22,
-      "ctr": 4.55,
-      "position": 8.5
+      "impressions": 23,
+      "ctr": 4.35,
+      "position": 8.8
     },
     {
       "label": "la grange - restaurant bar / saint révérend",
       "clicks": 1,
-      "impressions": 59,
-      "ctr": 1.69,
+      "impressions": 62,
+      "ctr": 1.61,
       "position": 6.0
-    },
-    {
-      "label": "la grange saint gilles croix de vie",
-      "clicks": 1,
-      "impressions": 264,
-      "ctr": 0.38,
-      "position": 6.4
     },
     {
       "label": "la grange saint reverend",
       "clicks": 1,
-      "impressions": 412,
-      "ctr": 0.24,
+      "impressions": 442,
+      "ctr": 0.23,
       "position": 6.7
     },
     {
       "label": "la grange st reverend",
       "clicks": 1,
-      "impressions": 162,
-      "ctr": 0.62,
+      "impressions": 169,
+      "ctr": 0.59,
       "position": 6.6
     },
     {
@@ -603,15 +631,15 @@
     {
       "label": "la pente douce nantes",
       "clicks": 1,
-      "impressions": 148,
-      "ctr": 0.68,
+      "impressions": 150,
+      "ctr": 0.67,
       "position": 7.9
     },
     {
       "label": "la ritournelle coueron",
       "clicks": 1,
-      "impressions": 31,
-      "ctr": 3.23,
+      "impressions": 32,
+      "ctr": 3.12,
       "position": 9.9
     },
     {
@@ -638,58 +666,65 @@
     {
       "label": "le 14 avenue la baule",
       "clicks": 1,
-      "impressions": 33,
-      "ctr": 3.03,
-      "position": 7.5
+      "impressions": 40,
+      "ctr": 2.5,
+      "position": 7.6
     },
     {
       "label": "le 20 six saint jean de monts",
       "clicks": 1,
-      "impressions": 20,
-      "ctr": 5.0,
+      "impressions": 21,
+      "ctr": 4.76,
       "position": 11
     },
     {
       "label": "le bourgeois nantes",
       "clicks": 1,
-      "impressions": 375,
-      "ctr": 0.27,
-      "position": 8.9
+      "impressions": 405,
+      "ctr": 0.25,
+      "position": 8.8
     },
     {
       "label": "le boya",
       "clicks": 1,
-      "impressions": 47,
-      "ctr": 2.13,
+      "impressions": 50,
+      "ctr": 2.0,
       "position": 7.6
     },
     {
       "label": "le broceliande nantes",
       "clicks": 1,
-      "impressions": 50,
-      "ctr": 2.0,
-      "position": 7.8
+      "impressions": 52,
+      "ctr": 1.92,
+      "position": 7.9
     },
     {
       "label": "le brocéliande bistro 40 rue préfet bonnefoy, 44000 nantes",
       "clicks": 1,
-      "impressions": 23,
-      "ctr": 4.35,
-      "position": 7.7
+      "impressions": 27,
+      "ctr": 3.7,
+      "position": 7.9
     },
     {
       "label": "le brocéliande nantes",
       "clicks": 1,
-      "impressions": 214,
-      "ctr": 0.47,
+      "impressions": 219,
+      "ctr": 0.46,
       "position": 8.9
+    },
+    {
+      "label": "le comptoir de mamie bigoude",
+      "clicks": 1,
+      "impressions": 44,
+      "ctr": 2.27,
+      "position": 7.4
     },
     {
       "label": "le mesopotamia 2",
       "clicks": 1,
-      "impressions": 76,
-      "ctr": 1.32,
-      "position": 5.8
+      "impressions": 80,
+      "ctr": 1.25,
+      "position": 5.9
     },
     {
       "label": "le panem",
@@ -715,114 +750,100 @@
     {
       "label": "le select nantes",
       "clicks": 1,
-      "impressions": 64,
-      "ctr": 1.56,
+      "impressions": 66,
+      "ctr": 1.52,
       "position": 8.3
     },
     {
       "label": "le seven rezé",
       "clicks": 1,
-      "impressions": 62,
-      "ctr": 1.61,
+      "impressions": 66,
+      "ctr": 1.52,
       "position": 5.8
     },
     {
       "label": "le tova",
       "clicks": 1,
-      "impressions": 30,
-      "ctr": 3.33,
-      "position": 7.9
+      "impressions": 33,
+      "ctr": 3.03,
+      "position": 8.2
     },
     {
       "label": "le tova la baule",
       "clicks": 1,
-      "impressions": 41,
-      "ctr": 2.44,
+      "impressions": 47,
+      "ctr": 2.13,
       "position": 7.4
     },
     {
       "label": "les 500 nantes",
       "clicks": 1,
-      "impressions": 6,
-      "ctr": 16.67,
+      "impressions": 10,
+      "ctr": 10.0,
       "position": 7.8
     },
     {
       "label": "les cabines saint gilles croix de vie",
       "clicks": 1,
-      "impressions": 484,
-      "ctr": 0.21,
+      "impressions": 508,
+      "ctr": 0.2,
       "position": 7.4
     },
     {
       "label": "les lapins de la butte menu",
       "clicks": 1,
-      "impressions": 46,
-      "ctr": 2.17,
+      "impressions": 47,
+      "ctr": 2.13,
       "position": 9.5
     },
     {
       "label": "little william",
       "clicks": 1,
-      "impressions": 142,
-      "ctr": 0.7,
-      "position": 7.6
+      "impressions": 150,
+      "ctr": 0.67,
+      "position": 7.7
     },
     {
       "label": "logiciel de reservation en ligne",
       "clicks": 1,
       "impressions": 30,
       "ctr": 3.33,
-      "position": 15.6
+      "position": 15.8
     },
     {
       "label": "logiciel de reservation pour restaurant",
       "clicks": 1,
-      "impressions": 71,
-      "ctr": 1.41,
+      "impressions": 75,
+      "ctr": 1.33,
       "position": 2.6
     },
     {
       "label": "logiciel de réservation",
       "clicks": 1,
-      "impressions": 155,
-      "ctr": 0.65,
-      "position": 10.8
-    },
-    {
-      "label": "logiciel de réservation en ligne restaurant",
-      "clicks": 1,
-      "impressions": 96,
-      "ctr": 1.04,
-      "position": 5.6
-    },
-    {
-      "label": "logiciel restaurant sans commission",
-      "clicks": 1,
-      "impressions": 11,
-      "ctr": 9.09,
-      "position": 13.1
+      "impressions": 150,
+      "ctr": 0.67,
+      "position": 11.1
     },
     {
       "label": "logiciel réservation restaurant",
       "clicks": 1,
-      "impressions": 147,
-      "ctr": 0.68,
+      "impressions": 151,
+      "ctr": 0.66,
       "position": 7.5
     },
     {
       "label": "mamatte nantes commerce - café & brunch avis",
       "clicks": 1,
-      "impressions": 23,
-      "ctr": 4.35,
-      "position": 3
+      "impressions": 28,
+      "ctr": 3.57,
+      "position": 3.2
     },
     {
       "label": "meiga nantes",
       "clicks": 1,
-      "impressions": 64,
-      "ctr": 1.56,
-      "position": 8.5
+      "impressions": 65,
+      "ctr": 1.54,
+      "position": 8.6
     },
     {
       "label": "meilleur restaurant saint-gilles-croix-de-vie",
@@ -848,23 +869,23 @@
     {
       "label": "melbourne coffee",
       "clicks": 1,
-      "impressions": 133,
-      "ctr": 0.75,
-      "position": 9.1
+      "impressions": 143,
+      "ctr": 0.7,
+      "position": 9.2
     },
     {
       "label": "menu de la grange - restaurant bar / saint révérend",
       "clicks": 1,
-      "impressions": 71,
-      "ctr": 1.41,
+      "impressions": 75,
+      "ctr": 1.33,
       "position": 4.0
     },
     {
       "label": "menu de le christina clisson",
       "clicks": 1,
-      "impressions": 19,
-      "ctr": 5.26,
-      "position": 7.9
+      "impressions": 21,
+      "ctr": 4.76,
+      "position": 8.0
     },
     {
       "label": "menu de le petit nakama",
@@ -897,9 +918,16 @@
     {
       "label": "moulerie de la gare saint gilles croix de vie",
       "clicks": 1,
-      "impressions": 22,
-      "ctr": 4.55,
-      "position": 9.4
+      "impressions": 24,
+      "ctr": 4.17,
+      "position": 9.5
+    },
+    {
+      "label": "naniwa nantes",
+      "clicks": 1,
+      "impressions": 86,
+      "ctr": 1.16,
+      "position": 10.5
     },
     {
       "label": "o quatre saisons coueron",
@@ -918,22 +946,22 @@
     {
       "label": "oneul",
       "clicks": 1,
-      "impressions": 100,
-      "ctr": 1.0,
-      "position": 7.2
+      "impressions": 105,
+      "ctr": 0.95,
+      "position": 7.1
     },
     {
       "label": "oneul nantes",
       "clicks": 1,
-      "impressions": 56,
-      "ctr": 1.79,
-      "position": 7
+      "impressions": 59,
+      "ctr": 1.69,
+      "position": 7.0
     },
     {
       "label": "outil de réservation restaurant",
       "clicks": 1,
-      "impressions": 8,
-      "ctr": 12.5,
+      "impressions": 7,
+      "ctr": 14.29,
       "position": 1
     },
     {
@@ -953,29 +981,36 @@
     {
       "label": "pho minh",
       "clicks": 1,
-      "impressions": 126,
-      "ctr": 0.79,
-      "position": 5.5
+      "impressions": 140,
+      "ctr": 0.71,
+      "position": 5.6
     },
     {
       "label": "pho minh nantes",
       "clicks": 1,
-      "impressions": 64,
-      "ctr": 1.56,
-      "position": 5.0
+      "impressions": 72,
+      "ctr": 1.39,
+      "position": 5.1
+    },
+    {
+      "label": "photos de la grange - restaurant bar / saint révérend",
+      "clicks": 1,
+      "impressions": 38,
+      "ctr": 2.63,
+      "position": 5
     },
     {
       "label": "pilgrim nantes",
       "clicks": 1,
-      "impressions": 241,
-      "ctr": 0.41,
+      "impressions": 237,
+      "ctr": 0.42,
       "position": 9.8
     },
     {
       "label": "pilgrim restaurant nantes",
       "clicks": 1,
-      "impressions": 76,
-      "ctr": 1.32,
+      "impressions": 75,
+      "ctr": 1.33,
       "position": 8.5
     },
     {
@@ -988,37 +1023,37 @@
     {
       "label": "pur jus photos",
       "clicks": 1,
-      "impressions": 11,
-      "ctr": 9.09,
-      "position": 5.6
+      "impressions": 12,
+      "ctr": 8.33,
+      "position": 6.1
     },
     {
       "label": "quartier libre nantes",
       "clicks": 1,
-      "impressions": 190,
-      "ctr": 0.53,
+      "impressions": 192,
+      "ctr": 0.52,
       "position": 8.3
     },
     {
       "label": "reginella pizza",
       "clicks": 1,
-      "impressions": 128,
-      "ctr": 0.78,
+      "impressions": 134,
+      "ctr": 0.75,
       "position": 6.6
     },
     {
       "label": "reservation en ligne restaurant",
       "clicks": 1,
-      "impressions": 17,
-      "ctr": 5.88,
-      "position": 17.7
+      "impressions": 14,
+      "ctr": 7.14,
+      "position": 18.1
     },
     {
       "label": "restaurant dalle nantes",
       "clicks": 1,
-      "impressions": 36,
-      "ctr": 2.78,
-      "position": 8.9
+      "impressions": 39,
+      "ctr": 2.56,
+      "position": 8.8
     },
     {
       "label": "restaurant gastronomique les sorinières",
@@ -1030,30 +1065,30 @@
     {
       "label": "restaurant ideal nantes",
       "clicks": 1,
-      "impressions": 20,
-      "ctr": 5.0,
-      "position": 6.5
+      "impressions": 23,
+      "ctr": 4.35,
+      "position": 6.3
     },
     {
       "label": "restaurant jean de la queue",
       "clicks": 1,
-      "impressions": 164,
-      "ctr": 0.61,
-      "position": 8.5
+      "impressions": 179,
+      "ctr": 0.56,
+      "position": 8.4
     },
     {
       "label": "restaurant l'idéal nantes",
       "clicks": 1,
-      "impressions": 31,
-      "ctr": 3.23,
-      "position": 6.5
+      "impressions": 36,
+      "ctr": 2.78,
+      "position": 6.6
     },
     {
       "label": "restaurant l'inattendu saint gilles croix de vie",
       "clicks": 1,
-      "impressions": 9,
-      "ctr": 11.11,
-      "position": 11.9
+      "impressions": 10,
+      "ctr": 10.0,
+      "position": 11.7
     },
     {
       "label": "restaurant la grange",
@@ -1065,15 +1100,15 @@
     {
       "label": "restaurant la grange saint reverend",
       "clicks": 1,
-      "impressions": 288,
-      "ctr": 0.35,
+      "impressions": 309,
+      "ctr": 0.32,
       "position": 6.6
     },
     {
       "label": "restaurant la grange saint-révérend",
       "clicks": 1,
-      "impressions": 22,
-      "ctr": 4.55,
+      "impressions": 23,
+      "ctr": 4.35,
       "position": 6.8
     },
     {
@@ -1086,8 +1121,8 @@
     {
       "label": "restaurant les bons vivants vertou",
       "clicks": 1,
-      "impressions": 49,
-      "ctr": 2.04,
+      "impressions": 51,
+      "ctr": 1.96,
       "position": 10.3
     },
     {
@@ -1121,16 +1156,16 @@
     {
       "label": "restaurant st reverend",
       "clicks": 1,
-      "impressions": 29,
-      "ctr": 3.45,
-      "position": 9
+      "impressions": 31,
+      "ctr": 3.23,
+      "position": 8.7
     },
     {
       "label": "restaurant viande pornic",
       "clicks": 1,
-      "impressions": 25,
-      "ctr": 4.0,
-      "position": 34.9
+      "impressions": 28,
+      "ctr": 3.57,
+      "position": 35.1
     },
     {
       "label": "resto",
@@ -1170,15 +1205,15 @@
     {
       "label": "systeme de reservation restaurant",
       "clicks": 1,
-      "impressions": 92,
-      "ctr": 1.09,
+      "impressions": 90,
+      "ctr": 1.11,
       "position": 1.4
     },
     {
       "label": "système de réservation pour restaurant",
       "clicks": 1,
-      "impressions": 46,
-      "ctr": 2.17,
+      "impressions": 45,
+      "ctr": 2.22,
       "position": 1.0
     },
     {
@@ -1191,9 +1226,9 @@
     {
       "label": "tire fesse bouguenais",
       "clicks": 1,
-      "impressions": 336,
-      "ctr": 0.3,
-      "position": 8.5
+      "impressions": 341,
+      "ctr": 0.29,
+      "position": 8.4
     },
     {
       "label": "un autre",
@@ -1401,7 +1436,7 @@
     {
       "label": "2 potes au feu",
       "clicks": 0,
-      "impressions": 33,
+      "impressions": 34,
       "ctr": 0,
       "position": 8.6
     },
@@ -1436,14 +1471,14 @@
     {
       "label": "20six fr",
       "clicks": 0,
-      "impressions": 23,
+      "impressions": 29,
       "ctr": 0,
       "position": 9.1
     },
     {
       "label": "20six.fr",
       "clicks": 0,
-      "impressions": 44,
+      "impressions": 58,
       "ctr": 0,
       "position": 6.6
     },
@@ -1546,13 +1581,6 @@
       "position": 11
     },
     {
-      "label": "3 place catinat nantes",
-      "clicks": 0,
-      "impressions": 9,
-      "ctr": 0,
-      "position": 5.1
-    },
-    {
       "label": "3 place du commandant cousteau 44300 nantes",
       "clicks": 0,
       "impressions": 2,
@@ -1576,7 +1604,7 @@
     {
       "label": "4 rue de briord 44000 nantes",
       "clicks": 0,
-      "impressions": 21,
+      "impressions": 22,
       "ctr": 0,
       "position": 4.5
     },
@@ -1597,9 +1625,9 @@
     {
       "label": "4 rue du pont sauvetout 44000 nantes",
       "clicks": 0,
-      "impressions": 4,
+      "impressions": 6,
       "ctr": 0,
-      "position": 6.5
+      "position": 6.8
     },
     {
       "label": "4 rue racine nantes",
@@ -1618,9 +1646,9 @@
     {
       "label": "44 lounge",
       "clicks": 0,
-      "impressions": 1,
+      "impressions": 2,
       "ctr": 0,
-      "position": 9
+      "position": 7.5
     },
     {
       "label": "444 bar",
@@ -1639,9 +1667,9 @@
     {
       "label": "500 nantes",
       "clicks": 0,
-      "impressions": 35,
+      "impressions": 37,
       "ctr": 0,
-      "position": 6.8
+      "position": 6.9
     },
     {
       "label": "500 pizzeria",
@@ -1660,9 +1688,9 @@
     {
       "label": "500 restaurant nantes",
       "clicks": 0,
-      "impressions": 14,
+      "impressions": 16,
       "ctr": 0,
-      "position": 7.5
+      "position": 7.4
     },
     {
       "label": "500restaurant",
@@ -1707,6 +1735,13 @@
       "position": 4
     },
     {
+      "label": "8 rue racine nantes",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 6
+    },
+    {
       "label": "9 rue de l'emery nantes",
       "clicks": 0,
       "impressions": 1,
@@ -1719,6 +1754,13 @@
       "impressions": 1,
       "ctr": 0,
       "position": 21
+    },
+    {
+      "label": "a k shelter",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 17
     },
     {
       "label": "a la boca",
@@ -1758,16 +1800,16 @@
     {
       "label": "a poele nantes",
       "clicks": 0,
-      "impressions": 39,
+      "impressions": 40,
       "ctr": 0,
       "position": 8.0
     },
     {
       "label": "a verse toujours",
       "clicks": 0,
-      "impressions": 2,
+      "impressions": 3,
       "ctr": 0,
-      "position": 62.5
+      "position": 57
     },
     {
       "label": "abbaye de villeneuve brasserie",
@@ -1779,9 +1821,9 @@
     {
       "label": "abbaye de villeneuve nantes",
       "clicks": 0,
-      "impressions": 14,
+      "impressions": 15,
       "ctr": 0,
-      "position": 28.6
+      "position": 27.7
     },
     {
       "label": "abbaye de villeneuve restaurant",
@@ -1884,7 +1926,7 @@
     {
       "label": "ak shelter",
       "clicks": 0,
-      "impressions": 128,
+      "impressions": 131,
       "ctr": 0,
       "position": 8.6
     },
@@ -1905,9 +1947,16 @@
     {
       "label": "ak shelter concert",
       "clicks": 0,
-      "impressions": 4,
+      "impressions": 5,
       "ctr": 0,
       "position": 10.2
+    },
+    {
+      "label": "ak shelter menu",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 25
     },
     {
       "label": "ak shelter orvault",
@@ -1919,14 +1968,14 @@
     {
       "label": "ak shelter saint herblain",
       "clicks": 0,
-      "impressions": 79,
+      "impressions": 83,
       "ctr": 0,
       "position": 6.2
     },
     {
       "label": "ak shelter saint-herblain",
       "clicks": 0,
-      "impressions": 10,
+      "impressions": 11,
       "ctr": 0,
       "position": 6.8
     },
@@ -1985,13 +2034,6 @@
       "impressions": 5,
       "ctr": 0,
       "position": 5.6
-    },
-    {
-      "label": "alacarte direct",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 36
     },
     {
       "label": "albert et lulu indre",
@@ -2059,9 +2101,9 @@
     {
       "label": "almarea",
       "clicks": 0,
-      "impressions": 64,
+      "impressions": 67,
       "ctr": 0,
-      "position": 9.0
+      "position": 9.1
     },
     {
       "label": "almarea restaurant",
@@ -2185,9 +2227,9 @@
     {
       "label": "alternative mozrest",
       "clicks": 0,
-      "impressions": 5,
+      "impressions": 6,
       "ctr": 0,
-      "position": 7.2
+      "position": 7
     },
     {
       "label": "alternative the fork",
@@ -2199,14 +2241,14 @@
     {
       "label": "alternative the fork restaurateur",
       "clicks": 0,
-      "impressions": 20,
+      "impressions": 21,
       "ctr": 0,
-      "position": 9.8
+      "position": 9.5
     },
     {
       "label": "alternative zenchef",
       "clicks": 0,
-      "impressions": 48,
+      "impressions": 49,
       "ctr": 0,
       "position": 3.2
     },
@@ -2234,14 +2276,14 @@
     {
       "label": "amoné",
       "clicks": 0,
-      "impressions": 1,
+      "impressions": 2,
       "ctr": 0,
-      "position": 9
+      "position": 10.5
     },
     {
       "label": "amour de pomme de terre",
       "clicks": 0,
-      "impressions": 211,
+      "impressions": 213,
       "ctr": 0,
       "position": 8.5
     },
@@ -2267,11 +2309,18 @@
       "position": 8.6
     },
     {
+      "label": "amour nantes restaurant",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 12
+    },
+    {
       "label": "amour pomme de terre nantes",
       "clicks": 0,
-      "impressions": 4,
+      "impressions": 5,
       "ctr": 0,
-      "position": 7
+      "position": 7.6
     },
     {
       "label": "ancenis restaurant",
@@ -2309,13 +2358,6 @@
       "position": 12
     },
     {
-      "label": "apogee muizon",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 37
-    },
-    {
       "label": "app hotel restaurant",
       "clicks": 0,
       "impressions": 1,
@@ -2339,7 +2381,7 @@
     {
       "label": "application de gestion des réservations",
       "clicks": 0,
-      "impressions": 47,
+      "impressions": 49,
       "ctr": 0,
       "position": 26.4
     },
@@ -2353,9 +2395,9 @@
     {
       "label": "application de reservation restaurant",
       "clicks": 0,
-      "impressions": 3,
+      "impressions": 4,
       "ctr": 0,
-      "position": 29.3
+      "position": 24
     },
     {
       "label": "application de réservation",
@@ -2381,9 +2423,9 @@
     {
       "label": "application gestion réservation restaurant",
       "clicks": 0,
-      "impressions": 39,
+      "impressions": 40,
       "ctr": 0,
-      "position": 4
+      "position": 4.3
     },
     {
       "label": "application reservation",
@@ -2409,9 +2451,9 @@
     {
       "label": "application réservation restaurant",
       "clicks": 0,
-      "impressions": 37,
+      "impressions": 36,
       "ctr": 0,
-      "position": 14.5
+      "position": 14.6
     },
     {
       "label": "application réservation restaurant gratuit",
@@ -2437,7 +2479,7 @@
     {
       "label": "archipel la chapelle sur erdre",
       "clicks": 0,
-      "impressions": 48,
+      "impressions": 51,
       "ctr": 0,
       "position": 8.6
     },
@@ -2472,23 +2514,23 @@
     {
       "label": "art and blum nantes",
       "clicks": 0,
-      "impressions": 1,
+      "impressions": 2,
       "ctr": 0,
       "position": 8
     },
     {
       "label": "art n blum",
       "clicks": 0,
-      "impressions": 18,
+      "impressions": 19,
       "ctr": 0,
-      "position": 8.4
+      "position": 8.5
     },
     {
       "label": "art n blum nantes",
       "clicks": 0,
-      "impressions": 6,
+      "impressions": 8,
       "ctr": 0,
-      "position": 9.5
+      "position": 9.2
     },
     {
       "label": "art'n blum",
@@ -2500,9 +2542,9 @@
     {
       "label": "art'n blum nantes",
       "clicks": 0,
-      "impressions": 4,
+      "impressions": 5,
       "ctr": 0,
-      "position": 10.2
+      "position": 10.8
     },
     {
       "label": "atelier bobun",
@@ -2521,9 +2563,9 @@
     {
       "label": "atelier du bobun nantes",
       "clicks": 0,
-      "impressions": 7,
+      "impressions": 10,
       "ctr": 0,
-      "position": 4.3
+      "position": 4.2
     },
     {
       "label": "au 158",
@@ -2633,9 +2675,9 @@
     {
       "label": "au grain de sable",
       "clicks": 0,
-      "impressions": 4,
+      "impressions": 6,
       "ctr": 0,
-      "position": 9.8
+      "position": 10.5
     },
     {
       "label": "au grez des saisons",
@@ -2682,9 +2724,9 @@
     {
       "label": "au p'tit plaisir noirmoutier",
       "clicks": 0,
-      "impressions": 5,
+      "impressions": 7,
       "ctr": 0,
-      "position": 6.4
+      "position": 6.1
     },
     {
       "label": "au p'tit plaisir restaurant 7 rue des trappes, 85740 l'épine",
@@ -2710,9 +2752,9 @@
     {
       "label": "au petit plaisir l'epine",
       "clicks": 0,
-      "impressions": 16,
+      "impressions": 18,
       "ctr": 0,
-      "position": 8.9
+      "position": 9.1
     },
     {
       "label": "au petit raphael",
@@ -2794,7 +2836,7 @@
     {
       "label": "auberge de l erdre",
       "clicks": 0,
-      "impressions": 41,
+      "impressions": 42,
       "ctr": 0,
       "position": 6.4
     },
@@ -2808,9 +2850,9 @@
     {
       "label": "auberge de l'erdre menu",
       "clicks": 0,
-      "impressions": 29,
+      "impressions": 30,
       "ctr": 0,
-      "position": 8.8
+      "position": 8.9
     },
     {
       "label": "auberge de l'erdre photos",
@@ -2871,7 +2913,7 @@
     {
       "label": "auberge du menhir",
       "clicks": 0,
-      "impressions": 41,
+      "impressions": 48,
       "ctr": 0,
       "position": 11.6
     },
@@ -2913,7 +2955,7 @@
     {
       "label": "auberge la grignotière",
       "clicks": 0,
-      "impressions": 5,
+      "impressions": 6,
       "ctr": 0,
       "position": 9.2
     },
@@ -2976,9 +3018,16 @@
     {
       "label": "avis negatifs restaurant",
       "clicks": 0,
-      "impressions": 5,
+      "impressions": 6,
       "ctr": 0,
-      "position": 18.4
+      "position": 17.7
+    },
+    {
+      "label": "avis restaurant google",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 53
     },
     {
       "label": "avis restaurant la robe montaigu",
@@ -2990,14 +3039,14 @@
     {
       "label": "avis sur 14 avenue",
       "clicks": 0,
-      "impressions": 11,
+      "impressions": 13,
       "ctr": 0,
-      "position": 8.2
+      "position": 7.8
     },
     {
       "label": "avis sur 2 potes au feu",
       "clicks": 0,
-      "impressions": 15,
+      "impressions": 17,
       "ctr": 0,
       "position": 8.9
     },
@@ -3018,16 +3067,16 @@
     {
       "label": "avis sur ak shelter",
       "clicks": 0,
-      "impressions": 42,
+      "impressions": 45,
       "ctr": 0,
-      "position": 7.0
+      "position": 6.9
     },
     {
       "label": "avis sur alma les sables-d'olonne",
       "clicks": 0,
-      "impressions": 5,
+      "impressions": 7,
       "ctr": 0,
-      "position": 11
+      "position": 10.9
     },
     {
       "label": "avis sur amour de pomme de terre",
@@ -3060,16 +3109,16 @@
     {
       "label": "avis sur au petit raphaël",
       "clicks": 0,
-      "impressions": 5,
+      "impressions": 8,
       "ctr": 0,
-      "position": 7.8
+      "position": 9
     },
     {
       "label": "avis sur au pont divin",
       "clicks": 0,
-      "impressions": 38,
+      "impressions": 42,
       "ctr": 0,
-      "position": 6.5
+      "position": 6.6
     },
     {
       "label": "avis sur auberge de l'erdre",
@@ -3081,9 +3130,16 @@
     {
       "label": "avis sur auberge la grignotière",
       "clicks": 0,
-      "impressions": 18,
+      "impressions": 20,
       "ctr": 0,
-      "position": 8.4
+      "position": 8.2
+    },
+    {
+      "label": "avis sur bahia café",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 5
     },
     {
       "label": "avis sur baia restaurant",
@@ -3102,9 +3158,9 @@
     {
       "label": "avis sur balneair",
       "clicks": 0,
-      "impressions": 15,
+      "impressions": 16,
       "ctr": 0,
-      "position": 6.3
+      "position": 6.4
     },
     {
       "label": "avis sur baïté",
@@ -3119,6 +3175,13 @@
       "impressions": 1,
       "ctr": 0,
       "position": 11
+    },
+    {
+      "label": "avis sur billies-nantes",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 6
     },
     {
       "label": "avis sur bindi nantes",
@@ -3172,9 +3235,9 @@
     {
       "label": "avis sur brasserie constance",
       "clicks": 0,
-      "impressions": 22,
+      "impressions": 26,
       "ctr": 0,
-      "position": 5.0
+      "position": 5
     },
     {
       "label": "avis sur by self restaurant",
@@ -3191,13 +3254,6 @@
       "position": 10.4
     },
     {
-      "label": "avis sur cafe okami",
-      "clicks": 0,
-      "impressions": 43,
-      "ctr": 0,
-      "position": 9.4
-    },
-    {
       "label": "avis sur café de la plage le pouliguen",
       "clicks": 0,
       "impressions": 2,
@@ -3207,16 +3263,16 @@
     {
       "label": "avis sur café de la plage saint-hilaire-de-riez",
       "clicks": 0,
-      "impressions": 17,
+      "impressions": 19,
       "ctr": 0,
       "position": 8.1
     },
     {
       "label": "avis sur café de la plage, le pouliguen",
       "clicks": 0,
-      "impressions": 10,
+      "impressions": 12,
       "ctr": 0,
-      "position": 4.5
+      "position": 4.2
     },
     {
       "label": "avis sur café des expos",
@@ -3235,16 +3291,16 @@
     {
       "label": "avis sur chacha nantes",
       "clicks": 0,
-      "impressions": 4,
+      "impressions": 5,
       "ctr": 0,
       "position": 7.8
     },
     {
       "label": "avis sur chez bastien",
       "clicks": 0,
-      "impressions": 19,
+      "impressions": 22,
       "ctr": 0,
-      "position": 9.7
+      "position": 9.6
     },
     {
       "label": "avis sur chez maman nantes",
@@ -3263,7 +3319,7 @@
     {
       "label": "avis sur chez pipette",
       "clicks": 0,
-      "impressions": 49,
+      "impressions": 56,
       "ctr": 0,
       "position": 6.5
     },
@@ -3298,16 +3354,23 @@
     {
       "label": "avis sur crêperie la gigouillette",
       "clicks": 0,
-      "impressions": 19,
+      "impressions": 20,
       "ctr": 0,
-      "position": 6.1
+      "position": 6
+    },
+    {
+      "label": "avis sur crêperie le rozell",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 24
     },
     {
       "label": "avis sur crêperie mamie bigoude nantes",
       "clicks": 0,
-      "impressions": 153,
+      "impressions": 157,
       "ctr": 0,
-      "position": 3.0
+      "position": 2.9
     },
     {
       "label": "avis sur crêperie sainte croix",
@@ -3319,7 +3382,7 @@
     {
       "label": "avis sur curry house",
       "clicks": 0,
-      "impressions": 6,
+      "impressions": 3,
       "ctr": 0,
       "position": 5.7
     },
@@ -3347,14 +3410,14 @@
     {
       "label": "avis sur dalle - resto comptoir nantes",
       "clicks": 0,
-      "impressions": 18,
+      "impressions": 19,
       "ctr": 0,
-      "position": 4.4
+      "position": 4.3
     },
     {
       "label": "avis sur db burger - nantes",
       "clicks": 0,
-      "impressions": 20,
+      "impressions": 21,
       "ctr": 0,
       "position": 2.3
     },
@@ -3368,14 +3431,14 @@
     {
       "label": "avis sur dockside food hall",
       "clicks": 0,
-      "impressions": 62,
+      "impressions": 65,
       "ctr": 0,
       "position": 7.4
     },
     {
       "label": "avis sur el chaco",
       "clicks": 0,
-      "impressions": 14,
+      "impressions": 19,
       "ctr": 0,
       "position": 8.9
     },
@@ -3396,9 +3459,16 @@
     {
       "label": "avis sur ferveur-restaurant",
       "clicks": 0,
-      "impressions": 14,
+      "impressions": 17,
       "ctr": 0,
-      "position": 8.4
+      "position": 8.2
+    },
+    {
+      "label": "avis sur fogg",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
     },
     {
       "label": "avis sur gasparelli",
@@ -3424,21 +3494,21 @@
     {
       "label": "avis sur giorgio-restaurant-nantes",
       "clicks": 0,
-      "impressions": 32,
+      "impressions": 36,
       "ctr": 0,
-      "position": 7.0
+      "position": 7.1
     },
     {
       "label": "avis sur glouton saint-sébastien-sur-loire",
       "clicks": 0,
-      "impressions": 24,
+      "impressions": 25,
       "ctr": 0,
       "position": 4.4
     },
     {
       "label": "avis sur goupil street rôtisserie",
       "clicks": 0,
-      "impressions": 12,
+      "impressions": 13,
       "ctr": 0,
       "position": 4.5
     },
@@ -3452,14 +3522,14 @@
     {
       "label": "avis sur grandma sautron",
       "clicks": 0,
-      "impressions": 10,
+      "impressions": 12,
       "ctr": 0,
-      "position": 7.3
+      "position": 7.2
     },
     {
       "label": "avis sur grenailles",
       "clicks": 0,
-      "impressions": 20,
+      "impressions": 21,
       "ctr": 0,
       "position": 6.2
     },
@@ -3480,7 +3550,7 @@
     {
       "label": "avis sur ikimasho",
       "clicks": 0,
-      "impressions": 19,
+      "impressions": 20,
       "ctr": 0,
       "position": 10.8
     },
@@ -3494,7 +3564,7 @@
     {
       "label": "avis sur inde et vous",
       "clicks": 0,
-      "impressions": 30,
+      "impressions": 32,
       "ctr": 0,
       "position": 5.7
     },
@@ -3506,11 +3576,18 @@
       "position": 11
     },
     {
+      "label": "avis sur izushi",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3
+    },
+    {
       "label": "avis sur jean de la queue",
       "clicks": 0,
-      "impressions": 46,
+      "impressions": 65,
       "ctr": 0,
-      "position": 8.4
+      "position": 7.7
     },
     {
       "label": "avis sur l'alplaya",
@@ -3522,9 +3599,9 @@
     {
       "label": "avis sur l'amour des mets",
       "clicks": 0,
-      "impressions": 35,
+      "impressions": 36,
       "ctr": 0,
-      "position": 8.7
+      "position": 8.6
     },
     {
       "label": "avis sur l'anse des ilots",
@@ -3550,7 +3627,7 @@
     {
       "label": "avis sur l'espuma",
       "clicks": 0,
-      "impressions": 29,
+      "impressions": 32,
       "ctr": 0,
       "position": 5.9
     },
@@ -3578,9 +3655,9 @@
     {
       "label": "avis sur la 500",
       "clicks": 0,
-      "impressions": 20,
+      "impressions": 22,
       "ctr": 0,
-      "position": 12.4
+      "position": 11.9
     },
     {
       "label": "avis sur la bigoudène",
@@ -3592,9 +3669,9 @@
     {
       "label": "avis sur la bodega nantes",
       "clicks": 0,
-      "impressions": 10,
+      "impressions": 13,
       "ctr": 0,
-      "position": 5.2
+      "position": 5.4
     },
     {
       "label": "avis sur la cabane des pins",
@@ -3653,13 +3730,6 @@
       "position": 8.4
     },
     {
-      "label": "avis sur la grange - restaurant bar / saint révérend",
-      "clicks": 0,
-      "impressions": 71,
-      "ctr": 0,
-      "position": 2.8
-    },
-    {
       "label": "avis sur la houle",
       "clicks": 0,
       "impressions": 11,
@@ -3669,9 +3739,9 @@
     {
       "label": "avis sur la kaz – grillades au feu de bois pornic",
       "clicks": 0,
-      "impressions": 32,
+      "impressions": 33,
       "ctr": 0,
-      "position": 4.3
+      "position": 4.4
     },
     {
       "label": "avis sur la mandale restaurant",
@@ -3732,14 +3802,14 @@
     {
       "label": "avis sur la ritournelle couëron",
       "clicks": 0,
-      "impressions": 23,
+      "impressions": 25,
       "ctr": 0,
-      "position": 9.4
+      "position": 9.6
     },
     {
       "label": "avis sur la vacherie",
       "clicks": 0,
-      "impressions": 43,
+      "impressions": 46,
       "ctr": 0,
       "position": 10.0
     },
@@ -3756,6 +3826,13 @@
       "impressions": 3,
       "ctr": 0,
       "position": 8
+    },
+    {
+      "label": "avis sur lamiral nantes",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
     },
     {
       "label": "avis sur le b - restaurant de plage",
@@ -3788,7 +3865,7 @@
     {
       "label": "avis sur le bistrot des halles savenay",
       "clicks": 0,
-      "impressions": 30,
+      "impressions": 32,
       "ctr": 0,
       "position": 7.9
     },
@@ -3802,21 +3879,21 @@
     {
       "label": "avis sur le brocéliande",
       "clicks": 0,
-      "impressions": 19,
+      "impressions": 23,
       "ctr": 0,
-      "position": 6.9
+      "position": 7
     },
     {
       "label": "avis sur le butcher saint sébastien sur loire",
       "clicks": 0,
-      "impressions": 50,
+      "impressions": 51,
       "ctr": 0,
       "position": 7.0
     },
     {
       "label": "avis sur le cabanon l'épine",
       "clicks": 0,
-      "impressions": 5,
+      "impressions": 6,
       "ctr": 0,
       "position": 9.2
     },
@@ -3872,7 +3949,7 @@
     {
       "label": "avis sur le homard frites",
       "clicks": 0,
-      "impressions": 87,
+      "impressions": 90,
       "ctr": 0,
       "position": 5.7
     },
@@ -3914,16 +3991,16 @@
     {
       "label": "avis sur le manoir de la régate",
       "clicks": 0,
-      "impressions": 24,
+      "impressions": 29,
       "ctr": 0,
-      "position": 8.3
+      "position": 8.9
     },
     {
       "label": "avis sur le marina bay",
       "clicks": 0,
-      "impressions": 12,
+      "impressions": 13,
       "ctr": 0,
-      "position": 8.2
+      "position": 8.4
     },
     {
       "label": "avis sur le mesopotamia 2",
@@ -3949,14 +4026,14 @@
     {
       "label": "avis sur le patio'nnément",
       "clicks": 0,
-      "impressions": 44,
+      "impressions": 45,
       "ctr": 0,
-      "position": 9.0
+      "position": 8.8
     },
     {
       "label": "avis sur le petit bouchot",
       "clicks": 0,
-      "impressions": 18,
+      "impressions": 23,
       "ctr": 0,
       "position": 8.7
     },
@@ -3970,9 +4047,9 @@
     {
       "label": "avis sur le petit nakama",
       "clicks": 0,
-      "impressions": 21,
+      "impressions": 22,
       "ctr": 0,
-      "position": 3.7
+      "position": 3.6
     },
     {
       "label": "avis sur le phare saint jean de monts",
@@ -3984,9 +4061,9 @@
     {
       "label": "avis sur le poussin rouge",
       "clicks": 0,
-      "impressions": 8,
+      "impressions": 12,
       "ctr": 0,
-      "position": 6.8
+      "position": 6.2
     },
     {
       "label": "avis sur le rayon vert saint-gilles-croix-de-vie",
@@ -4012,9 +4089,9 @@
     {
       "label": "avis sur le récif saint-gilles-croix-de-vie",
       "clicks": 0,
-      "impressions": 20,
+      "impressions": 23,
       "ctr": 0,
-      "position": 7.3
+      "position": 7.4
     },
     {
       "label": "avis sur le seven rezé",
@@ -4026,14 +4103,14 @@
     {
       "label": "avis sur le sémaphore nantes",
       "clicks": 0,
-      "impressions": 7,
+      "impressions": 8,
       "ctr": 0,
-      "position": 10.7
+      "position": 10
     },
     {
       "label": "avis sur le tova",
       "clicks": 0,
-      "impressions": 30,
+      "impressions": 33,
       "ctr": 0,
       "position": 9.2
     },
@@ -4061,9 +4138,9 @@
     {
       "label": "avis sur les bains saint-gilles-croix-de-vie",
       "clicks": 0,
-      "impressions": 24,
+      "impressions": 25,
       "ctr": 0,
-      "position": 5.9
+      "position": 6.0
     },
     {
       "label": "avis sur les cabines",
@@ -4096,9 +4173,9 @@
     {
       "label": "avis sur les lapins de la butte",
       "clicks": 0,
-      "impressions": 40,
+      "impressions": 43,
       "ctr": 0,
-      "position": 5.5
+      "position": 5.6
     },
     {
       "label": "avis sur les tontons nageurs",
@@ -4117,23 +4194,30 @@
     {
       "label": "avis sur lulu paulette",
       "clicks": 0,
-      "impressions": 32,
+      "impressions": 35,
       "ctr": 0,
-      "position": 7.7
+      "position": 7.6
+    },
+    {
+      "label": "avis sur lulurouget",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 6
     },
     {
       "label": "avis sur l’antre nous",
       "clicks": 0,
-      "impressions": 26,
+      "impressions": 29,
       "ctr": 0,
-      "position": 6.4
+      "position": 6.5
     },
     {
       "label": "avis sur l’idéal saint-sébastien-sur-loire",
       "clicks": 0,
-      "impressions": 50,
+      "impressions": 55,
       "ctr": 0,
-      "position": 5.5
+      "position": 5.3
     },
     {
       "label": "avis sur madeleine café",
@@ -4180,9 +4264,9 @@
     {
       "label": "avis sur mamzelle edith",
       "clicks": 0,
-      "impressions": 26,
+      "impressions": 27,
       "ctr": 0,
-      "position": 5
+      "position": 5.0
     },
     {
       "label": "avis sur meiga-nantes",
@@ -4192,18 +4276,11 @@
       "position": 3.9
     },
     {
-      "label": "avis sur melon nantes",
-      "clicks": 0,
-      "impressions": 8,
-      "ctr": 0,
-      "position": 8.1
-    },
-    {
       "label": "avis sur mets entre potes",
       "clicks": 0,
-      "impressions": 8,
+      "impressions": 9,
       "ctr": 0,
-      "position": 6.2
+      "position": 6.1
     },
     {
       "label": "avis sur mia nonna nantes",
@@ -4222,9 +4299,9 @@
     {
       "label": "avis sur moulerie brûle-doigts",
       "clicks": 0,
-      "impressions": 9,
+      "impressions": 10,
       "ctr": 0,
-      "position": 6.7
+      "position": 6.4
     },
     {
       "label": "avis sur moulerie de la gare",
@@ -4236,30 +4313,44 @@
     {
       "label": "avis sur moïa restaurant",
       "clicks": 0,
-      "impressions": 29,
+      "impressions": 33,
       "ctr": 0,
-      "position": 8.5
+      "position": 8.6
+    },
+    {
+      "label": "avis sur myoko",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3
     },
     {
       "label": "avis sur naniwa-nantes",
       "clicks": 0,
-      "impressions": 17,
+      "impressions": 18,
       "ctr": 0,
       "position": 4.2
     },
     {
+      "label": "avis sur nawaki",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 2.6
+    },
+    {
       "label": "avis sur naïa restaurant - saint-nazaire",
       "clicks": 0,
-      "impressions": 7,
+      "impressions": 13,
       "ctr": 0,
       "position": 4.4
     },
     {
       "label": "avis sur nuvola pizzeria italiana",
       "clicks": 0,
-      "impressions": 16,
+      "impressions": 18,
       "ctr": 0,
-      "position": 4.9
+      "position": 5
     },
     {
       "label": "avis sur obbo-nantes",
@@ -4271,16 +4362,16 @@
     {
       "label": "avis sur oh k-fée d'mj",
       "clicks": 0,
-      "impressions": 5,
+      "impressions": 6,
       "ctr": 0,
-      "position": 7.2
+      "position": 7
     },
     {
       "label": "avis sur olio e burro",
       "clicks": 0,
-      "impressions": 22,
+      "impressions": 23,
       "ctr": 0,
-      "position": 8.6
+      "position": 8.7
     },
     {
       "label": "avis sur oneul",
@@ -4295,6 +4386,13 @@
       "impressions": 7,
       "ctr": 0,
       "position": 5.4
+    },
+    {
+      "label": "avis sur paku paku : la cantine japonaise",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 6
     },
     {
       "label": "avis sur palma restaurant saint-sébastien-sur-loire",
@@ -4320,14 +4418,14 @@
     {
       "label": "avis sur picota-nantes",
       "clicks": 0,
-      "impressions": 30,
+      "impressions": 32,
       "ctr": 0,
       "position": 9.9
     },
     {
       "label": "avis sur pilgrim restaurant nantes",
       "clicks": 0,
-      "impressions": 45,
+      "impressions": 44,
       "ctr": 0,
       "position": 9.1
     },
@@ -4341,7 +4439,7 @@
     {
       "label": "avis sur pizzeria pirouette nantes",
       "clicks": 0,
-      "impressions": 35,
+      "impressions": 37,
       "ctr": 0,
       "position": 3.8
     },
@@ -4355,16 +4453,16 @@
     {
       "label": "avis sur pur jus",
       "clicks": 0,
-      "impressions": 9,
+      "impressions": 10,
       "ctr": 0,
       "position": 3.3
     },
     {
       "label": "avis sur pépite restaurant la chapelle-sur-erdre",
       "clicks": 0,
-      "impressions": 19,
+      "impressions": 20,
       "ctr": 0,
-      "position": 4.4
+      "position": 4.2
     },
     {
       "label": "avis sur pépé guinguette",
@@ -4383,7 +4481,7 @@
     {
       "label": "avis sur reginella",
       "clicks": 0,
-      "impressions": 20,
+      "impressions": 21,
       "ctr": 0,
       "position": 4.3
     },
@@ -4411,7 +4509,7 @@
     {
       "label": "avis sur restaurant l'ephémère",
       "clicks": 0,
-      "impressions": 76,
+      "impressions": 74,
       "ctr": 0,
       "position": 7.0
     },
@@ -4425,9 +4523,9 @@
     {
       "label": "avis sur restaurant la civelle",
       "clicks": 0,
-      "impressions": 29,
+      "impressions": 30,
       "ctr": 0,
-      "position": 6.9
+      "position": 7.1
     },
     {
       "label": "avis sur restaurant la table des bons vivants - sainte luce, nantes",
@@ -4460,16 +4558,16 @@
     {
       "label": "avis sur restaurant le bourgeois",
       "clicks": 0,
-      "impressions": 86,
+      "impressions": 92,
       "ctr": 0,
-      "position": 4.1
+      "position": 4.0
     },
     {
       "label": "avis sur restaurant le comptoir de goul - treillieres",
       "clicks": 0,
-      "impressions": 11,
+      "impressions": 13,
       "ctr": 0,
-      "position": 6.5
+      "position": 6.7
     },
     {
       "label": "avis sur restaurant le saint valentin",
@@ -4481,9 +4579,9 @@
     {
       "label": "avis sur restaurant le sloop les sables d'olonne",
       "clicks": 0,
-      "impressions": 12,
+      "impressions": 14,
       "ctr": 0,
-      "position": 10.6
+      "position": 10.5
     },
     {
       "label": "avis sur restaurant maison bb",
@@ -4502,16 +4600,23 @@
     {
       "label": "avis sur restaurant panem",
       "clicks": 0,
-      "impressions": 9,
+      "impressions": 10,
       "ctr": 0,
-      "position": 10.4
+      "position": 10.5
     },
     {
       "label": "avis sur restaurant topaze",
       "clicks": 0,
-      "impressions": 46,
+      "impressions": 47,
       "ctr": 0,
       "position": 6.9
+    },
+    {
+      "label": "avis sur restaurant vatel nantes",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 7
     },
     {
       "label": "avis sur restaurant-dom-tom",
@@ -4528,6 +4633,13 @@
       "position": 9.5
     },
     {
+      "label": "avis sur song saveur et sens",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 6.5
+    },
+    {
       "label": "avis sur table 23",
       "clicks": 0,
       "impressions": 2,
@@ -4537,7 +4649,7 @@
     {
       "label": "avis sur table d'éléphant nantes",
       "clicks": 0,
-      "impressions": 65,
+      "impressions": 68,
       "ctr": 0,
       "position": 4.8
     },
@@ -4551,16 +4663,16 @@
     {
       "label": "avis sur tel père tel fils vertou",
       "clicks": 0,
-      "impressions": 2,
+      "impressions": 7,
       "ctr": 0,
-      "position": 5
+      "position": 5.3
     },
     {
       "label": "avis sur thamaris",
       "clicks": 0,
-      "impressions": 58,
+      "impressions": 67,
       "ctr": 0,
-      "position": 6.1
+      "position": 6.2
     },
     {
       "label": "avis sur tirefesses bouguenais",
@@ -4572,14 +4684,21 @@
     {
       "label": "avis sur tulli",
       "clicks": 0,
-      "impressions": 29,
+      "impressions": 35,
       "ctr": 0,
-      "position": 5.9
+      "position": 6.1
+    },
+    {
+      "label": "avis sur valentina rezé",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 4
     },
     {
       "label": "avis sur wild burger",
       "clicks": 0,
-      "impressions": 17,
+      "impressions": 18,
       "ctr": 0,
       "position": 2.8
     },
@@ -4593,9 +4712,9 @@
     {
       "label": "avis sur ô 4 saisons",
       "clicks": 0,
-      "impressions": 3,
+      "impressions": 4,
       "ctr": 0,
-      "position": 6.7
+      "position": 6.8
     },
     {
       "label": "avis zenchef",
@@ -4640,18 +4759,18 @@
       "position": 48
     },
     {
-      "label": "bahia tikka photos",
+      "label": "baia nantes",
+      "clicks": 0,
+      "impressions": 54,
+      "ctr": 0,
+      "position": 10.3
+    },
+    {
+      "label": "baia nantes restaurant",
       "clicks": 0,
       "impressions": 1,
       "ctr": 0,
-      "position": 49
-    },
-    {
-      "label": "baia nantes",
-      "clicks": 0,
-      "impressions": 51,
-      "ctr": 0,
-      "position": 10.2
+      "position": 10
     },
     {
       "label": "baia restaurant",
@@ -4670,9 +4789,9 @@
     {
       "label": "baia restaurant nantes",
       "clicks": 0,
-      "impressions": 7,
+      "impressions": 8,
       "ctr": 0,
-      "position": 9.4
+      "position": 9.6
     },
     {
       "label": "baia restaurant photos",
@@ -4754,9 +4873,9 @@
     {
       "label": "balme la baule",
       "clicks": 0,
-      "impressions": 12,
+      "impressions": 14,
       "ctr": 0,
-      "position": 10.3
+      "position": 10.6
     },
     {
       "label": "balme la baule-escoublac",
@@ -4782,16 +4901,16 @@
     {
       "label": "balneair st jean de monts",
       "clicks": 0,
-      "impressions": 17,
+      "impressions": 22,
       "ctr": 0,
-      "position": 9
+      "position": 9.0
     },
     {
       "label": "balneaire saint jean de mont",
       "clicks": 0,
-      "impressions": 9,
+      "impressions": 11,
       "ctr": 0,
-      "position": 10.3
+      "position": 10.5
     },
     {
       "label": "balnéaire saint jean de monts",
@@ -4810,14 +4929,14 @@
     {
       "label": "bang bang cuisine nantes",
       "clicks": 0,
-      "impressions": 18,
+      "impressions": 20,
       "ctr": 0,
-      "position": 8.5
+      "position": 8.8
     },
     {
       "label": "bang bang nantes",
       "clicks": 0,
-      "impressions": 483,
+      "impressions": 498,
       "ctr": 0,
       "position": 10.5
     },
@@ -4831,7 +4950,7 @@
     {
       "label": "bang bang restaurant nantes",
       "clicks": 0,
-      "impressions": 33,
+      "impressions": 34,
       "ctr": 0,
       "position": 7.6
     },
@@ -4857,18 +4976,11 @@
       "position": 8.8
     },
     {
-      "label": "banh mi nantes",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 19
-    },
-    {
       "label": "bar a huitres la baule",
       "clicks": 0,
-      "impressions": 5,
+      "impressions": 6,
       "ctr": 0,
-      "position": 6.2
+      "position": 6.8
     },
     {
       "label": "bar a k",
@@ -4957,9 +5069,9 @@
     {
       "label": "bar espagnol nantes",
       "clicks": 0,
-      "impressions": 2,
+      "impressions": 3,
       "ctr": 0,
-      "position": 10
+      "position": 10.3
     },
     {
       "label": "bar gare sud nantes",
@@ -4971,23 +5083,23 @@
     {
       "label": "bar ile",
       "clicks": 0,
-      "impressions": 60,
+      "impressions": 61,
       "ctr": 0,
       "position": 9.3
     },
     {
       "label": "bar ile de nantes",
       "clicks": 0,
-      "impressions": 39,
+      "impressions": 43,
       "ctr": 0,
       "position": 11.9
     },
     {
       "label": "bar ile nantes",
       "clicks": 0,
-      "impressions": 25,
+      "impressions": 26,
       "ctr": 0,
-      "position": 10
+      "position": 10.1
     },
     {
       "label": "bar irlandais",
@@ -4999,9 +5111,9 @@
     {
       "label": "bar irlandais nantes",
       "clicks": 0,
-      "impressions": 28,
+      "impressions": 32,
       "ctr": 0,
-      "position": 10.2
+      "position": 10.1
     },
     {
       "label": "bar la cascade",
@@ -5018,11 +5130,11 @@
       "position": 22
     },
     {
-      "label": "bar le biscornu",
+      "label": "bar le berlin nantes",
       "clicks": 0,
-      "impressions": 2,
+      "impressions": 1,
       "ctr": 0,
-      "position": 70.5
+      "position": 14
     },
     {
       "label": "bar le chalet",
@@ -5041,7 +5153,7 @@
     {
       "label": "bar lounge nantes",
       "clicks": 0,
-      "impressions": 3,
+      "impressions": 2,
       "ctr": 0,
       "position": 1
     },
@@ -5058,6 +5170,13 @@
       "impressions": 1,
       "ctr": 0,
       "position": 27
+    },
+    {
+      "label": "bar naia",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 8
     },
     {
       "label": "bar nantes",
@@ -5111,7 +5230,7 @@
     {
       "label": "bar saint-sébastien-sur-loire",
       "clicks": 0,
-      "impressions": 4,
+      "impressions": 6,
       "ctr": 0,
       "position": 11
     },
@@ -5216,9 +5335,9 @@
     {
       "label": "barile nantes",
       "clicks": 0,
-      "impressions": 12,
+      "impressions": 14,
       "ctr": 0,
-      "position": 10.8
+      "position": 10.9
     },
     {
       "label": "barnabé périgueux carte",
@@ -5307,23 +5426,23 @@
     {
       "label": "basta nantes",
       "clicks": 0,
-      "impressions": 117,
+      "impressions": 118,
       "ctr": 0,
       "position": 7.1
     },
     {
       "label": "basta pizza",
       "clicks": 0,
-      "impressions": 31,
+      "impressions": 33,
       "ctr": 0,
-      "position": 9.3
+      "position": 10.2
     },
     {
       "label": "basta pizza bar",
       "clicks": 0,
-      "impressions": 13,
+      "impressions": 15,
       "ctr": 0,
-      "position": 7.2
+      "position": 7.3
     },
     {
       "label": "basta pizza bar nantes",
@@ -5335,9 +5454,9 @@
     {
       "label": "basta pizza nantes",
       "clicks": 0,
-      "impressions": 86,
+      "impressions": 90,
       "ctr": 0,
-      "position": 6.6
+      "position": 6.7
     },
     {
       "label": "basta pizzeria",
@@ -5433,9 +5552,9 @@
     {
       "label": "beau nid",
       "clicks": 0,
-      "impressions": 16,
+      "impressions": 17,
       "ctr": 0,
-      "position": 8.2
+      "position": 8.1
     },
     {
       "label": "beau reve",
@@ -5501,6 +5620,48 @@
       "position": 7.6
     },
     {
+      "label": "berlin 1989 avis",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "label": "berlin 89",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "label": "berlin 89 nantes",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "label": "berlin ile de nantes",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 12
+    },
+    {
+      "label": "berlin nantes",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 8.3
+    },
+    {
+      "label": "berlin republik",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 58
+    },
+    {
       "label": "best picadillo cubano near me",
       "clicks": 0,
       "impressions": 1,
@@ -5522,11 +5683,18 @@
       "position": 11
     },
     {
+      "label": "bibimbox",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 9.5
+    },
+    {
       "label": "bibimbox nantes",
       "clicks": 0,
-      "impressions": 1,
+      "impressions": 2,
       "ctr": 0,
-      "position": 40
+      "position": 25.5
     },
     {
       "label": "bienvenue chez les ducs",
@@ -5564,6 +5732,20 @@
       "position": 9.2
     },
     {
+      "label": "billi's cafe",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "label": "billie avis",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
       "label": "bindi menu",
       "clicks": 0,
       "impressions": 1,
@@ -5573,7 +5755,7 @@
     {
       "label": "bindi nantes",
       "clicks": 0,
-      "impressions": 105,
+      "impressions": 108,
       "ctr": 0,
       "position": 10.0
     },
@@ -5625,6 +5807,13 @@
       "impressions": 11,
       "ctr": 0,
       "position": 8.5
+    },
+    {
+      "label": "bistro clou",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 79
     },
     {
       "label": "bistro de marcel",
@@ -5685,16 +5874,9 @@
     {
       "label": "bistro marcel reze",
       "clicks": 0,
-      "impressions": 34,
+      "impressions": 35,
       "ctr": 0,
       "position": 7.9
-    },
-    {
-      "label": "bistro pilotari",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 54
     },
     {
       "label": "bistro sablais",
@@ -5730,6 +5912,13 @@
       "impressions": 1,
       "ctr": 0,
       "position": 12
+    },
+    {
+      "label": "bistrot 7",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 35
     },
     {
       "label": "bistrot basque",
@@ -5790,16 +5979,16 @@
     {
       "label": "bistrot des arts",
       "clicks": 0,
-      "impressions": 4,
+      "impressions": 5,
       "ctr": 0,
-      "position": 9.8
+      "position": 9.4
     },
     {
       "label": "bistrot des arts nantes",
       "clicks": 0,
-      "impressions": 57,
+      "impressions": 60,
       "ctr": 0,
-      "position": 7.1
+      "position": 7.0
     },
     {
       "label": "bistrot des filles",
@@ -5825,16 +6014,16 @@
     {
       "label": "bistrot des halles bretignolles",
       "clicks": 0,
-      "impressions": 21,
+      "impressions": 23,
       "ctr": 0,
       "position": 8.6
     },
     {
       "label": "bistrot des halles bretignolles sur mer",
       "clicks": 0,
-      "impressions": 8,
+      "impressions": 9,
       "ctr": 0,
-      "position": 7.5
+      "position": 7.6
     },
     {
       "label": "bistrot des halles menu",
@@ -5846,7 +6035,7 @@
     {
       "label": "bistrot des halles savenay",
       "clicks": 0,
-      "impressions": 41,
+      "impressions": 42,
       "ctr": 0,
       "position": 9.4
     },
@@ -5888,16 +6077,16 @@
     {
       "label": "bistrot les petits pavés",
       "clicks": 0,
-      "impressions": 38,
+      "impressions": 39,
       "ctr": 0,
-      "position": 9.6
+      "position": 9.7
     },
     {
       "label": "bistrot marcel",
       "clicks": 0,
-      "impressions": 78,
+      "impressions": 82,
       "ctr": 0,
-      "position": 7.0
+      "position": 7.1
     },
     {
       "label": "bistrot marcel avis",
@@ -5909,23 +6098,16 @@
     {
       "label": "bistrot marcel nantes",
       "clicks": 0,
-      "impressions": 22,
+      "impressions": 24,
       "ctr": 0,
-      "position": 6.0
+      "position": 6
     },
     {
       "label": "bistrot marcel reze",
       "clicks": 0,
-      "impressions": 7,
+      "impressions": 8,
       "ctr": 0,
-      "position": 7.7
-    },
-    {
-      "label": "bistrot melon",
-      "clicks": 0,
-      "impressions": 3,
-      "ctr": 0,
-      "position": 21
+      "position": 7.4
     },
     {
       "label": "bistrot mignard",
@@ -6021,9 +6203,9 @@
     {
       "label": "black and white burger nantes",
       "clicks": 0,
-      "impressions": 6,
+      "impressions": 7,
       "ctr": 0,
-      "position": 10
+      "position": 9.6
     },
     {
       "label": "black and white burger polygone",
@@ -6042,9 +6224,9 @@
     {
       "label": "black and white nantes",
       "clicks": 0,
-      "impressions": 7,
+      "impressions": 11,
       "ctr": 0,
-      "position": 9.7
+      "position": 9.9
     },
     {
       "label": "black and white nantes commerce",
@@ -6168,14 +6350,28 @@
     {
       "label": "boca nantes",
       "clicks": 0,
-      "impressions": 21,
+      "impressions": 24,
       "ctr": 0,
-      "position": 7.3
+      "position": 7.2
     },
     {
       "label": "bocca nantes",
       "clicks": 0,
       "impressions": 25,
+      "ctr": 0,
+      "position": 5.2
+    },
+    {
+      "label": "bocca piena",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "label": "bocca piena nantes",
+      "clicks": 0,
+      "impressions": 4,
       "ctr": 0,
       "position": 5.2
     },
@@ -6187,9 +6383,16 @@
       "position": 15
     },
     {
+      "label": "bodega horaire",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 6
+    },
+    {
       "label": "bodega nantes",
       "clicks": 0,
-      "impressions": 176,
+      "impressions": 184,
       "ctr": 0,
       "position": 8.4
     },
@@ -6238,9 +6441,9 @@
     {
       "label": "bon vivant vertou",
       "clicks": 0,
-      "impressions": 10,
+      "impressions": 11,
       "ctr": 0,
-      "position": 10
+      "position": 10.1
     },
     {
       "label": "bonbourg",
@@ -6280,16 +6483,23 @@
     {
       "label": "bons vivants vertou",
       "clicks": 0,
-      "impressions": 5,
+      "impressions": 6,
       "ctr": 0,
-      "position": 9.2
+      "position": 9.5
+    },
+    {
+      "label": "booking zenchef avis",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
     },
     {
       "label": "bouche a oreille nantes",
       "clicks": 0,
-      "impressions": 28,
+      "impressions": 30,
       "ctr": 0,
-      "position": 7.7
+      "position": 7.8
     },
     {
       "label": "bouche à oreille nantes",
@@ -6301,9 +6511,9 @@
     {
       "label": "boucher la chapelle sur erdre",
       "clicks": 0,
-      "impressions": 11,
+      "impressions": 12,
       "ctr": 0,
-      "position": 10.1
+      "position": 9.9
     },
     {
       "label": "boucherie saint sebastien",
@@ -6357,9 +6567,9 @@
     {
       "label": "bourgeois nantes",
       "clicks": 0,
-      "impressions": 114,
+      "impressions": 119,
       "ctr": 0,
-      "position": 7.0
+      "position": 7
     },
     {
       "label": "bourgeois nantes restaurant",
@@ -6397,9 +6607,16 @@
       "position": 6
     },
     {
+      "label": "boutique miel la baule",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 29
+    },
+    {
       "label": "boya bouaye",
       "clicks": 0,
-      "impressions": 34,
+      "impressions": 35,
       "ctr": 0,
       "position": 6.6
     },
@@ -6455,7 +6672,7 @@
     {
       "label": "brasserie constance",
       "clicks": 0,
-      "impressions": 193,
+      "impressions": 207,
       "ctr": 0,
       "position": 8.7
     },
@@ -6476,16 +6693,9 @@
     {
       "label": "brasserie constance nantes",
       "clicks": 0,
-      "impressions": 73,
+      "impressions": 78,
       "ctr": 0,
-      "position": 10.0
-    },
-    {
-      "label": "brasserie du quercorb",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 61
+      "position": 9.9
     },
     {
       "label": "brasserie favorite",
@@ -6502,6 +6712,13 @@
       "position": 11.5
     },
     {
+      "label": "brasserie la bernerie en retz",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 31
+    },
+    {
       "label": "brasserie la chapelle sur erdre",
       "clicks": 0,
       "impressions": 2,
@@ -6511,9 +6728,9 @@
     {
       "label": "brasserie la loco nantes",
       "clicks": 0,
-      "impressions": 14,
+      "impressions": 16,
       "ctr": 0,
-      "position": 10.1
+      "position": 9.9
     },
     {
       "label": "brasserie le féodal",
@@ -6539,9 +6756,9 @@
     {
       "label": "brasserie les sorinières",
       "clicks": 0,
-      "impressions": 10,
+      "impressions": 12,
       "ctr": 0,
-      "position": 8.3
+      "position": 10.3
     },
     {
       "label": "brasserie nantes place royale",
@@ -6553,9 +6770,9 @@
     {
       "label": "brasserie orvault",
       "clicks": 0,
-      "impressions": 18,
+      "impressions": 19,
       "ctr": 0,
-      "position": 9.6
+      "position": 9.4
     },
     {
       "label": "brasserie place royale",
@@ -6609,9 +6826,9 @@
     {
       "label": "brasserie saint sebastien sur loire",
       "clicks": 0,
-      "impressions": 45,
+      "impressions": 46,
       "ctr": 0,
-      "position": 7.6
+      "position": 7.7
     },
     {
       "label": "brasserie sainte luce sur loire",
@@ -6658,7 +6875,7 @@
     {
       "label": "broceliande nantes",
       "clicks": 0,
-      "impressions": 266,
+      "impressions": 268,
       "ctr": 0,
       "position": 9.6
     },
@@ -6712,6 +6929,13 @@
       "position": 9.4
     },
     {
+      "label": "brunch billies",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 7
+    },
+    {
       "label": "brunch brunch - nantes",
       "clicks": 0,
       "impressions": 4,
@@ -6728,16 +6952,16 @@
     {
       "label": "brunch commerce",
       "clicks": 0,
-      "impressions": 5,
+      "impressions": 6,
       "ctr": 0,
       "position": 7.8
     },
     {
       "label": "brunch commerce nantes",
       "clicks": 0,
-      "impressions": 3,
+      "impressions": 4,
       "ctr": 0,
-      "position": 8.7
+      "position": 9
     },
     {
       "label": "brunch dimanche nantes",
@@ -6770,9 +6994,9 @@
     {
       "label": "brunch mamatte nantes",
       "clicks": 0,
-      "impressions": 5,
+      "impressions": 6,
       "ctr": 0,
-      "position": 10.4
+      "position": 10.5
     },
     {
       "label": "brunch mimosa",
@@ -6780,230 +7004,6 @@
       "impressions": 5,
       "ctr": 0,
       "position": 6.6
-    },
-    {
-      "label": "brunch mimosa nantes",
-      "clicks": 0,
-      "impressions": 7,
-      "ctr": 0,
-      "position": 9.3
-    },
-    {
-      "label": "brunch nantes",
-      "clicks": 0,
-      "impressions": 17,
-      "ctr": 0,
-      "position": 7.9
-    },
-    {
-      "label": "brunch nantes dimanche",
-      "clicks": 0,
-      "impressions": 2,
-      "ctr": 0,
-      "position": 6
-    },
-    {
-      "label": "brunch nantes les mieux notés",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 1
-    },
-    {
-      "label": "brunch nantes ouvert actuellement",
-      "clicks": 0,
-      "impressions": 2,
-      "ctr": 0,
-      "position": 50.5
-    },
-    {
-      "label": "brunch vegan nantes",
-      "clicks": 0,
-      "impressions": 16,
-      "ctr": 0,
-      "position": 7.9
-    },
-    {
-      "label": "brunch vertou",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 1
-    },
-    {
-      "label": "brunch à nantes",
-      "clicks": 0,
-      "impressions": 2,
-      "ctr": 0,
-      "position": 59.5
-    },
-    {
-      "label": "brunchbrunch",
-      "clicks": 0,
-      "impressions": 4,
-      "ctr": 0,
-      "position": 8
-    },
-    {
-      "label": "brunchs nantes",
-      "clicks": 0,
-      "impressions": 2,
-      "ctr": 0,
-      "position": 57.5
-    },
-    {
-      "label": "bsb - azur loc & snack",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 66
-    },
-    {
-      "label": "buffet froid libanais nantes",
-      "clicks": 0,
-      "impressions": 2,
-      "ctr": 0,
-      "position": 15.5
-    },
-    {
-      "label": "buffet libanais nantes",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 21
-    },
-    {
-      "label": "burchi's original",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 40
-    },
-    {
-      "label": "bureau saint doulchard restaurant",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 74
-    },
-    {
-      "label": "burger a volonté nantes",
-      "clicks": 0,
-      "impressions": 2,
-      "ctr": 0,
-      "position": 9.5
-    },
-    {
-      "label": "burger black and white",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 5
-    },
-    {
-      "label": "burger bouaye",
-      "clicks": 0,
-      "impressions": 7,
-      "ctr": 0,
-      "position": 7
-    },
-    {
-      "label": "burger boya",
-      "clicks": 0,
-      "impressions": 3,
-      "ctr": 0,
-      "position": 6.7
-    },
-    {
-      "label": "burger bretignolles sur mer",
-      "clicks": 0,
-      "impressions": 3,
-      "ctr": 0,
-      "position": 5.7
-    },
-    {
-      "label": "burger commerce",
-      "clicks": 0,
-      "impressions": 3,
-      "ctr": 0,
-      "position": 8.7
-    },
-    {
-      "label": "burger d",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 39
-    },
-    {
-      "label": "burger la madeleine",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 11
-    },
-    {
-      "label": "burger lab",
-      "clicks": 0,
-      "impressions": 4,
-      "ctr": 0,
-      "position": 6.2
-    },
-    {
-      "label": "burger nantes",
-      "clicks": 0,
-      "impressions": 2,
-      "ctr": 0,
-      "position": 1
-    },
-    {
-      "label": "burger nantes centre ville",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 1
-    },
-    {
-      "label": "burger orvault",
-      "clicks": 0,
-      "impressions": 2,
-      "ctr": 0,
-      "position": 14
-    },
-    {
-      "label": "burger près de moi",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 1
-    },
-    {
-      "label": "burger reze",
-      "clicks": 0,
-      "impressions": 4,
-      "ctr": 0,
-      "position": 20
-    },
-    {
-      "label": "burger rezé",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 26
-    },
-    {
-      "label": "burger saint sebastien",
-      "clicks": 0,
-      "impressions": 10,
-      "ctr": 0,
-      "position": 7.1
-    },
-    {
-      "label": "burger saint sebastien sur loire",
-      "clicks": 0,
-      "impressions": 19,
-      "ctr": 0,
-      "position": 7.2
     }
   ]
 }
