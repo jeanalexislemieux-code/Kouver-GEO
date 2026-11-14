@@ -1,36 +1,36 @@
 {
-  "generated_at": "2026-11-13",
+  "generated_at": "2026-11-14",
   "period": [
-    "2026-10-13",
-    "2026-11-10"
+    "2026-10-14",
+    "2026-11-11"
   ],
   "rows": [
     {
       "label": "kouver",
-      "clicks": 255,
-      "impressions": 486,
-      "ctr": 52.47,
+      "clicks": 246,
+      "impressions": 466,
+      "ctr": 52.79,
       "position": 1.4
     },
     {
       "label": "kouver reservation",
-      "clicks": 44,
-      "impressions": 59,
-      "ctr": 74.58,
+      "clicks": 42,
+      "impressions": 57,
+      "ctr": 73.68,
       "position": 1
     },
     {
       "label": "koover",
-      "clicks": 11,
-      "impressions": 25,
-      "ctr": 44.0,
-      "position": 1.2
+      "clicks": 10,
+      "impressions": 23,
+      "ctr": 43.48,
+      "position": 1.3
     },
     {
       "label": "logiciel reservation restaurant",
       "clicks": 5,
-      "impressions": 137,
-      "ctr": 3.65,
+      "impressions": 136,
+      "ctr": 3.68,
       "position": 3.4
     },
     {
@@ -85,9 +85,9 @@
     {
       "label": "logiciel de réservation restaurant",
       "clicks": 3,
-      "impressions": 327,
-      "ctr": 0.92,
-      "position": 5.9
+      "impressions": 312,
+      "ctr": 0.96,
+      "position": 6.1
     },
     {
       "label": "magari bistrot",
@@ -127,16 +127,16 @@
     {
       "label": "4.44 bar lounge",
       "clicks": 2,
-      "impressions": 80,
-      "ctr": 2.5,
+      "impressions": 78,
+      "ctr": 2.56,
       "position": 7.6
     },
     {
       "label": "alternative thefork",
       "clicks": 2,
-      "impressions": 37,
-      "ctr": 5.41,
-      "position": 10.9
+      "impressions": 35,
+      "ctr": 5.71,
+      "position": 11.4
     },
     {
       "label": "brunch nantes",
@@ -225,8 +225,8 @@
     {
       "label": "logiciel de reservation restaurant",
       "clicks": 2,
-      "impressions": 93,
-      "ctr": 2.15,
+      "impressions": 89,
+      "ctr": 2.25,
       "position": 2.9
     },
     {
@@ -323,9 +323,9 @@
     {
       "label": "alternative zenchef",
       "clicks": 1,
-      "impressions": 48,
-      "ctr": 2.08,
-      "position": 3.3
+      "impressions": 46,
+      "ctr": 2.17,
+      "position": 3.4
     },
     {
       "label": "amone",
@@ -498,9 +498,9 @@
     {
       "label": "concurrent zenchef",
       "clicks": 1,
-      "impressions": 47,
-      "ctr": 2.13,
-      "position": 8.4
+      "impressions": 46,
+      "ctr": 2.17,
+      "position": 8.5
     },
     {
       "label": "cote baie la bernerie en retz",
@@ -582,9 +582,9 @@
     {
       "label": "foodcollect",
       "clicks": 1,
-      "impressions": 200,
-      "ctr": 0.5,
-      "position": 7.7
+      "impressions": 179,
+      "ctr": 0.56,
+      "position": 7.8
     },
     {
       "label": "gestion reservation restaurant",
@@ -932,16 +932,16 @@
     {
       "label": "logiciel de reservation pour restaurant",
       "clicks": 1,
-      "impressions": 74,
-      "ctr": 1.35,
-      "position": 2.6
+      "impressions": 71,
+      "ctr": 1.41,
+      "position": 2.7
     },
     {
       "label": "logiciel réservation restaurant",
       "clicks": 1,
-      "impressions": 166,
-      "ctr": 0.6,
-      "position": 6.9
+      "impressions": 163,
+      "ctr": 0.61,
+      "position": 6.6
     },
     {
       "label": "louis blanc nantes",
@@ -1044,9 +1044,9 @@
     {
       "label": "module de réservation restaurant",
       "clicks": 1,
-      "impressions": 9,
-      "ctr": 11.11,
-      "position": 2.6
+      "impressions": 8,
+      "ctr": 12.5,
+      "position": 2.8
     },
     {
       "label": "moulerie de la gare saint gilles croix de vie",
@@ -1128,23 +1128,23 @@
     {
       "label": "pilgrim nantes",
       "clicks": 1,
-      "impressions": 223,
-      "ctr": 0.45,
-      "position": 9.9
+      "impressions": 213,
+      "ctr": 0.47,
+      "position": 10.0
     },
     {
       "label": "pilgrim restaurant nantes",
       "clicks": 1,
-      "impressions": 64,
-      "ctr": 1.56,
+      "impressions": 58,
+      "ctr": 1.72,
       "position": 8.4
     },
     {
       "label": "pilgrim restaurant nantes avis",
       "clicks": 1,
-      "impressions": 10,
-      "ctr": 10.0,
-      "position": 10
+      "impressions": 9,
+      "ctr": 11.11,
+      "position": 9.8
     },
     {
       "label": "pizzeria pirouette nantes",
@@ -1184,9 +1184,9 @@
     {
       "label": "reservation en ligne restaurant",
       "clicks": 1,
-      "impressions": 13,
-      "ctr": 7.69,
-      "position": 18.1
+      "impressions": 10,
+      "ctr": 10.0,
+      "position": 17.5
     },
     {
       "label": "restaurant dalle nantes",
@@ -1366,15 +1366,15 @@
     {
       "label": "systeme de reservation restaurant",
       "clicks": 1,
-      "impressions": 91,
-      "ctr": 1.1,
+      "impressions": 88,
+      "ctr": 1.14,
       "position": 1.4
     },
     {
       "label": "système de réservation pour restaurant",
       "clicks": 1,
-      "impressions": 45,
-      "ctr": 2.22,
+      "impressions": 42,
+      "ctr": 2.38,
       "position": 1.0
     },
     {
@@ -2052,9 +2052,9 @@
     {
       "label": "a verse toujours",
       "clicks": 0,
-      "impressions": 5,
+      "impressions": 4,
       "ctr": 0,
-      "position": 51.6
+      "position": 55.2
     },
     {
       "label": "abbaye de villeneuve brasserie",
@@ -2153,13 +2153,6 @@
       "impressions": 2,
       "ctr": 0,
       "position": 12
-    },
-    {
-      "label": "agrégateur de restaurants",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 1
     },
     {
       "label": "aj shelter",
@@ -2330,13 +2323,6 @@
       "position": 7
     },
     {
-      "label": "allo'thentic",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 81
-    },
-    {
       "label": "allée des 5 continents vertou",
       "clicks": 0,
       "impressions": 2,
@@ -2472,9 +2458,9 @@
     {
       "label": "alternative guestonline",
       "clicks": 0,
-      "impressions": 24,
+      "impressions": 23,
       "ctr": 0,
-      "position": 4.2
+      "position": 4.3
     },
     {
       "label": "alternative gusty",
@@ -2486,7 +2472,7 @@
     {
       "label": "alternative lafourchette",
       "clicks": 0,
-      "impressions": 11,
+      "impressions": 9,
       "ctr": 0,
       "position": 2.9
     },
@@ -2507,9 +2493,9 @@
     {
       "label": "alternative the fork restaurateur",
       "clicks": 0,
-      "impressions": 25,
+      "impressions": 22,
       "ctr": 0,
-      "position": 11.3
+      "position": 6.3
     },
     {
       "label": "amendonné",
@@ -2717,9 +2703,9 @@
     {
       "label": "application de gestion des réservations",
       "clicks": 0,
-      "impressions": 55,
+      "impressions": 54,
       "ctr": 0,
-      "position": 26.0
+      "position": 26.1
     },
     {
       "label": "application de liste d'attente de restaurant",
@@ -2759,9 +2745,9 @@
     {
       "label": "application gestion réservation restaurant",
       "clicks": 0,
-      "impressions": 40,
+      "impressions": 36,
       "ctr": 0,
-      "position": 4.6
+      "position": 4.8
     },
     {
       "label": "application reservation",
@@ -2773,9 +2759,9 @@
     {
       "label": "application reservation restaurant",
       "clicks": 0,
-      "impressions": 18,
+      "impressions": 16,
       "ctr": 0,
-      "position": 17.8
+      "position": 17.7
     },
     {
       "label": "application réservation",
@@ -2787,9 +2773,9 @@
     {
       "label": "application réservation restaurant",
       "clicks": 0,
-      "impressions": 32,
+      "impressions": 30,
       "ctr": 0,
-      "position": 15.3
+      "position": 15.7
     },
     {
       "label": "application réservation restaurant gratuit",
@@ -2804,13 +2790,6 @@
       "impressions": 2,
       "ctr": 0,
       "position": 43
-    },
-    {
-      "label": "ar gavotenn",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 50
     },
     {
       "label": "archipel la chapelle sur erdre",
@@ -2997,9 +2976,9 @@
     {
       "label": "au fil du food",
       "clicks": 0,
-      "impressions": 3,
+      "impressions": 2,
       "ctr": 0,
-      "position": 23.3
+      "position": 3.5
     },
     {
       "label": "au g retz des saisons",
@@ -3863,13 +3842,6 @@
       "position": 7.4
     },
     {
-      "label": "avis sur curry house",
-      "clicks": 0,
-      "impressions": 2,
-      "ctr": 0,
-      "position": 5
-    },
-    {
       "label": "avis sur curry lounge restaurant indien lugrin",
       "clicks": 0,
       "impressions": 15,
@@ -4383,7 +4355,7 @@
     {
       "label": "avis sur la vespa des carmes",
       "clicks": 0,
-      "impressions": 20,
+      "impressions": 18,
       "ctr": 0,
       "position": 6.9
     },
@@ -4593,7 +4565,7 @@
     {
       "label": "avis sur le patio'nnément",
       "clicks": 0,
-      "impressions": 48,
+      "impressions": 47,
       "ctr": 0,
       "position": 8.4
     },
@@ -5048,9 +5020,9 @@
     {
       "label": "avis sur pilgrim restaurant nantes",
       "clicks": 0,
-      "impressions": 55,
+      "impressions": 49,
       "ctr": 0,
-      "position": 8.7
+      "position": 8.6
     },
     {
       "label": "avis sur pilours",
@@ -5069,7 +5041,7 @@
     {
       "label": "avis sur pocha!",
       "clicks": 0,
-      "impressions": 6,
+      "impressions": 3,
       "ctr": 0,
       "position": 5.7
     },
@@ -6089,13 +6061,6 @@
       "position": 9.7
     },
     {
-      "label": "bar-restaurant le beffroy",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 58
-    },
-    {
       "label": "bara pom",
       "clicks": 0,
       "impressions": 1,
@@ -6430,13 +6395,6 @@
       "impressions": 3,
       "ctr": 0,
       "position": 45.7
-    },
-    {
-      "label": "bema restaurant",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 51
     },
     {
       "label": "ben&nat",
@@ -7004,6 +6962,48 @@
       "impressions": 2,
       "ctr": 0,
       "position": 6
+    },
+    {
+      "label": "bistrot des halles bretignolles",
+      "clicks": 0,
+      "impressions": 27,
+      "ctr": 0,
+      "position": 8.6
+    },
+    {
+      "label": "bistrot des halles bretignolles sur mer",
+      "clicks": 0,
+      "impressions": 16,
+      "ctr": 0,
+      "position": 7.7
+    },
+    {
+      "label": "bistrot des halles menu",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "label": "bistrot des halles savenay",
+      "clicks": 0,
+      "impressions": 46,
+      "ctr": 0,
+      "position": 9.4
+    },
+    {
+      "label": "bistrot des hauts pavés",
+      "clicks": 0,
+      "impressions": 15,
+      "ctr": 0,
+      "position": 10.3
+    },
+    {
+      "label": "bistrot du cours nantes",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 9
     }
   ]
 }
